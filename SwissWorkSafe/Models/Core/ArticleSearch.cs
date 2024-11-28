@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Data.SQLite;
 using System.Linq;
+using SwissWorkSafe.Models.Articles;
 
-namespace SwissWorkSafe.Models.Articles
+namespace SwissWorkSafe.Models.Core
 {
     public class ArticleSearch
     {

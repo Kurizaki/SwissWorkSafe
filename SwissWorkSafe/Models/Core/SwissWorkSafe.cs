@@ -16,4 +16,10 @@ namespace SwissWorkSafe.Models.Core
         public bool CheckProhibitedPeriods(DateTime terminationDate) { return false; }
         public List<Article> FindRelevantArticles(string text) { return null; }
     }
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+        }
+    }
 }
