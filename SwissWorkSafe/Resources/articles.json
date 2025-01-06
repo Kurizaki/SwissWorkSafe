@@ -1,0 +1,1533 @@
+[
+  {
+    "id": 1,
+    "article_name": "319",
+    "description": "Regelt den Einzelarbeitsvertrag: Arbeitnehmer verpflichtet sich zur Arbeitsleistung gegen Lohn, unbefristet oder befristet. Umfasst Begriff, Entstehung, Persönliche Arbeitspflicht sowie Sorgfalts- und Treuepflicht.",
+    "signalwords": [
+      "Einzelarbeitsvertrag",
+      "Begriff",
+      "Lohn",
+      "Pflichten",
+      "Entstehung",
+      "Arbeitspflicht"
+    ]
+  },
+  {
+    "id": 2,
+    "article_name": "320",
+    "description": "Formfreiheit des Einzelarbeitsvertrags, außer wenn Gesetz etwas anderes verlangt. Stillschweigender Vertragsschluss möglich (wenn Arbeit entgegengenommen wird und Lohn zu erwarten ist).",
+    "signalwords": [
+      "Formfreiheit",
+      "Vertragsschluss",
+      "Gültigkeit",
+      "Stillschweigend",
+      "Lohn zu erwarten"
+    ]
+  },
+  {
+    "id": 3,
+    "article_name": "321",
+    "description": "Arbeitnehmer muss Arbeit persönlich leisten, sofern nicht anderes verabredet oder aus den Umständen ersichtlich.",
+    "signalwords": [
+      "Persönliche Leistung",
+      "Nicht-Übertragbar",
+      "Arbeitnehmerpflicht",
+      "Ausnahmen"
+    ]
+  },
+  {
+    "id": 4,
+    "article_name": "321a",
+    "description": "Sorgfalts- und Treuepflicht: Arbeitnehmer soll Arbeit sorgfältig ausführen, Interessen des Arbeitgebers wahren, keinen Wettbewerb ohne Einwilligung betreiben und Geschäftsgeheimnisse wahren.",
+    "signalwords": [
+      "Sorgfalt",
+      "Treuepflicht",
+      "Geheimhaltung",
+      "Konkurrenz",
+      "Geschäftsgeheimnisse"
+    ]
+  },
+  {
+    "id": 5,
+    "article_name": "321b",
+    "description": "Rechenschafts- und Herausgabepflicht: Arbeitnehmer gibt alles heraus, was er von Dritten während der Ausübung der Arbeit erhält oder hervorbringt.",
+    "signalwords": [
+      "Rechenschaftspflicht",
+      "Herausgabe",
+      "Dritte",
+      "Empfang",
+      "Arbeitserzeugnis"
+    ]
+  },
+  {
+    "id": 6,
+    "article_name": "321c",
+    "description": "Überstunden: Arbeitnehmer ist verpflichtet, notwendige Überstunden zu leisten, sofern zumutbar. Ausgleich durch Freizeit oder Lohnzuschlag (mind. 25%), wenn nichts anderes schriftlich vereinbart ist.",
+    "signalwords": [
+      "Überstunden",
+      "Zumutbar",
+      "Freizeitausgleich",
+      "Lohnzuschlag",
+      "25 Prozent"
+    ]
+  },
+  {
+    "id": 7,
+    "article_name": "321d",
+    "description": "Der Arbeitgeber kann allgemeine Anordnungen und Weisungen erlassen; der Arbeitnehmer muss sie nach Treu und Glauben befolgen.",
+    "signalwords": [
+      "Weisungsrecht",
+      "Anordnungen",
+      "Betrieb",
+      "Befolgung",
+      "Treu und Glauben"
+    ]
+  },
+  {
+    "id": 8,
+    "article_name": "321e",
+    "description": "Haftung des Arbeitnehmers bei absichtlichem oder fahrlässigem Schaden; Maß der Sorgfalt richtet sich u. a. nach Berufsrisiko, Ausbildung und Fähigkeiten.",
+    "signalwords": [
+      "Haftung Arbeitnehmer",
+      "Schaden",
+      "Fahrlässigkeit",
+      "Berufsrisiko"
+    ]
+  },
+  {
+    "id": 9,
+    "article_name": "322",
+    "description": "Arbeitgeber zahlt den vereinbarten oder üblichen Lohn, ggf. inkl. Naturallohn (z. B. Unterkunft, Verpflegung), wenn nichts anderes vereinbart ist.",
+    "signalwords": [
+      "Lohn",
+      "Naturallohn",
+      "Üblich",
+      "Vereinbart"
+    ]
+  },
+  {
+    "id": 10,
+    "article_name": "322a",
+    "description": "Gewinn- oder Umsatzbeteiligung: Bemessung nach Geschäftsergebnis, das nach gesetzlichen und kaufmännischen Grundsätzen festgelegt wird. Auskunfts- und Einsichtsrechte für Arbeitnehmer.",
+    "signalwords": [
+      "Gewinnbeteiligung",
+      "Umsatzbeteiligung",
+      "Geschäftsergebnis",
+      "Auskunft",
+      "Einsicht"
+    ]
+  },
+  {
+    "id": 11,
+    "article_name": "322b",
+    "description": "Provision bei rechtsgültig abgeschlossenem Geschäft. Bei Ratenzahlung kann schriftlich vereinbart werden, dass Provisionsanspruch anteilig fällig wird.",
+    "signalwords": [
+      "Provision",
+      "Rechtsgültiges Geschäft",
+      "Ratenzahlung",
+      "Anspruch"
+    ]
+  },
+  {
+    "id": 12,
+    "article_name": "322c",
+    "description": "Abrechnung der Provision: Arbeitgeber muss schriftliche Provisionsabrechnung erstellen und Einsicht in relevante Bücher gewähren, falls dies zur Kontrolle nötig ist.",
+    "signalwords": [
+      "Provisionsabrechnung",
+      "Bücher-Einsicht",
+      "Arbeitgeberpflicht",
+      "Nachprüfung"
+    ]
+  },
+  {
+    "id": 13,
+    "article_name": "322d",
+    "description": "Gratifikation: Sondervergütung (z. B. Weihnachten) ist geschuldet, wenn vereinbart. Auch ein anteiliger Anspruch bei vorzeitigem Austritt kann bestehen, sofern vereinbart.",
+    "signalwords": [
+      "Gratifikation",
+      "Sondervergütung",
+      "Weihnachtsgeld",
+      "Anteilig"
+    ]
+  },
+  {
+    "id": 14,
+    "article_name": "323",
+    "description": "Zahlungstermine für den Lohn: Ende jedes Monats, wenn nichts anderes vereinbart oder üblich ist. Vorschussanspruch in Notlagen möglich.",
+    "signalwords": [
+      "Lohnzahlung",
+      "Zahlungsfrist",
+      "Vorschuss",
+      "Notlage"
+    ]
+  },
+  {
+    "id": 15,
+    "article_name": "324",
+    "description": "Arbeitgeber in Annahmeverzug: Lohnfortzahlung, wenn Arbeit aus Arbeitgeberverschulden nicht geleistet werden kann.",
+    "signalwords": [
+      "Annahmeverzug",
+      "Arbeitgeberverschulden",
+      "Lohnfortzahlung"
+    ]
+  },
+  {
+    "id": 16,
+    "article_name": "324a",
+    "description": "Lohnfortzahlung bei persönlicher Verhinderung (Krankheit, Unfall etc.) ohne Verschulden des Arbeitnehmers, wenn Arbeitsverhältnis > 3 Monate dauert oder eingegangen ist.",
+    "signalwords": [
+      "Lohnfortzahlung",
+      "Krankheit",
+      "Unfall",
+      "3 Monate",
+      "Keine Schuld"
+    ]
+  },
+  {
+    "id": 17,
+    "article_name": "324b",
+    "description": "Ausnahme bei obligatorisch versicherten Arbeitnehmern (z. B. Unfallversicherung): Arbeitgeber muss nur Differenz zahlen, wenn Versicherungsleistung unter 80% des Lohns liegt.",
+    "signalwords": [
+      "Versicherung",
+      "80 Prozent",
+      "Differenz",
+      "Obligatorisch versichert"
+    ]
+  },
+  {
+    "id": 18,
+    "article_name": "325",
+    "description": "Abtretung und Verpfändung künftiger Lohnforderungen sind nur für familienrechtliche Unterhaltspflichten zulässig; sonst nichtig.",
+    "signalwords": [
+      "Abtretung",
+      "Verpfändung",
+      "Lohnforderungen",
+      "Unterhaltspflichten",
+      "Nichtigkeit"
+    ]
+  },
+  {
+    "id": 19,
+    "article_name": "326",
+    "description": "Akkordlohnarbeit: Arbeitgeber muss genügend Arbeit zuweisen; bei Betriebsverhältnissen kann Zeitlohnarbeit angeordnet werden, wenn Akkord nicht möglich.",
+    "signalwords": [
+      "Akkordlohn",
+      "Zuweisung",
+      "Zeitlohn",
+      "Betriebsverhältnisse"
+    ]
+  },
+  {
+    "id": 20,
+    "article_name": "326a",
+    "description": "Akkordlohnansatz: Muss vor Arbeitsbeginn bekanntgegeben werden. Fehlt diese Bekanntgabe, gilt der für ähnliche Arbeiten übliche Satz.",
+    "signalwords": [
+      "Akkordlohn",
+      "Bekanntgabe",
+      "Üblich",
+      "Vertrag"
+    ]
+  },
+  {
+    "id": 21,
+    "article_name": "327",
+    "description": "Arbeitgeber stellt in der Regel Geräte und Material zur Verfügung; stellt Arbeitnehmer sie selbst, ist eine angemessene Entschädigung geschuldet.",
+    "signalwords": [
+      "Arbeitsgeräte",
+      "Material",
+      "Entschädigung",
+      "Bereitstellung"
+    ]
+  },
+  {
+    "id": 22,
+    "article_name": "327a",
+    "description": "Notwendige Auslagen (einschließlich Reisekosten) ersetzt der Arbeitgeber. Pauschale Regelungen (z. B. Taggeld) sind möglich, müssen aber alle Kosten decken.",
+    "signalwords": [
+      "Auslagen",
+      "Spesen",
+      "Taggeld",
+      "Kostendeckung",
+      "Reisekosten"
+    ]
+  },
+  {
+    "id": 23,
+    "article_name": "327b",
+    "description": "Motorfahrzeug: Benutzt Arbeitnehmer ein Fahrzeug (eigenes oder firmeneigenes) im Einverständnis mit dem Arbeitgeber, so sind die laufenden Kosten und ggf. zusätzliche Ausgaben (Steuern, Versicherung, Abnutzung) zu entschädigen.",
+    "signalwords": [
+      "Motorfahrzeug",
+      "Kostenersatz",
+      "Unterhalt",
+      "Abnutzung",
+      "Einverständnis"
+    ]
+  },
+  {
+    "id": 24,
+    "article_name": "327c",
+    "description": "Auslagenerstattung regelmäßig zusammen mit Lohn auszurichten; Arbeitnehmer hat Anspruch auf Vorschuss, wenn er regelmäßig Auslagen tätigen muss.",
+    "signalwords": [
+      "Auslagenersatz",
+      "Vorschuss",
+      "Lohn",
+      "Regelmäßig"
+    ]
+  },
+  {
+    "id": 25,
+    "article_name": "328",
+    "description": "Arbeitgeber muss Persönlichkeit, Gesundheit und Sittlichkeit des Arbeitnehmers schützen, sexualisierte Belästigung verhindern und Sicherheit gewährleisten.",
+    "signalwords": [
+      "Persönlichkeitsschutz",
+      "Gesundheit",
+      "Sittlichkeit",
+      "Arbeitgeberpflicht",
+      "Belästigung"
+    ]
+  },
+  {
+    "id": 26,
+    "article_name": "328a",
+    "description": "Zusätzliche Vorschriften bei Hausgemeinschaft: ausreichende Verpflegung, einwandfreie Unterkunft, Pflege und ärztliche Behandlung bei Krankheit für gewisse Zeit.",
+    "signalwords": [
+      "Hausgemeinschaft",
+      "Verpflegung",
+      "Unterkunft",
+      "Krankheit",
+      "Pflege"
+    ]
+  },
+  {
+    "id": 27,
+    "article_name": "328b",
+    "description": "Arbeitgeber darf Personendaten nur bearbeiten, soweit sie die Eignung für das Arbeitsverhältnis betreffen oder dafür notwendig sind (Datenschutz).",
+    "signalwords": [
+      "Personendaten",
+      "Datenschutz",
+      "Eignung",
+      "Notwendigkeit",
+      "Bearbeitung"
+    ]
+  },
+  {
+    "id": 28,
+    "article_name": "329",
+    "description": "Freie Tage und wöchentliche Ruhezeit: i. d. R. ist ein freier Tag pro Woche zu gewähren (am Sonntag, wenn möglich).",
+    "signalwords": [
+      "Freizeit",
+      "Wöchentlicher Ruhetag",
+      "Sonntag",
+      "Arbeitsrhythmus"
+    ]
+  },
+  {
+    "id": 29,
+    "article_name": "329a",
+    "description": "Ferien: Mindestens 4 Wochen pro Dienstjahr, für Arbeitnehmer unter 20 Jahren mindestens 5 Wochen. Bei unvollständigem Jahr anteilig.",
+    "signalwords": [
+      "Ferien",
+      "Mindestdauer",
+      "4 Wochen",
+      "Unter 20 Jahren",
+      "5 Wochen"
+    ]
+  },
+  {
+    "id": 30,
+    "article_name": "329b",
+    "description": "Kürzung der Ferien möglich, wenn Arbeitnehmer schuldhaft länger als 1 Monat verhindert ist. Keine Kürzung bei kurzer unverschuldeter Abwesenheit (z. B. Krankheit), soweit < 1 Monat.",
+    "signalwords": [
+      "Ferienkürzung",
+      "Verhinderung",
+      "Schuldhaft",
+      "Unverschuldet"
+    ]
+  },
+  {
+    "id": 31,
+    "article_name": "329c",
+    "description": "Ferien sollen im laufenden Dienstjahr bezogen werden, mindestens 2 Wochen zusammenhängend. Arbeitgeber bestimmt den Zeitpunkt unter Rücksicht auf Arbeitnehmerinteressen.",
+    "signalwords": [
+      "Ferienbezug",
+      "Zusammenhängend",
+      "Zeitpunkt",
+      "Rücksichtnahme"
+    ]
+  },
+  {
+    "id": 32,
+    "article_name": "329d",
+    "description": "Während Ferien ist voller Lohn zu bezahlen, keine Abgeltung durch Geld- oder Sachleistungen statt tatsächlicher Ferien (Ausnahme: bei Beendigung des Arbeitsverhältnisses).",
+    "signalwords": [
+      "Ferienlohn",
+      "Kein Geldausgleich",
+      "Abgeltung",
+      "Ferien"
+    ]
+  },
+  {
+    "id": 33,
+    "article_name": "329e",
+    "description": "Jugendurlaub: Bis 30. Altersjahr bis zu 1 Woche unbezahlter Urlaub pro Dienstjahr für unentgeltliche Leitungs-, Betreuungs- oder Beratungstätigkeit in Jugendorganisationen.",
+    "signalwords": [
+      "Jugendurlaub",
+      "Unbezahlt",
+      "Ehrenamt",
+      "Jugendarbeit"
+    ]
+  },
+  {
+    "id": 34,
+    "article_name": "329f",
+    "description": "Mutterschaftsurlaub von mindestens 14 Wochen nach der Niederkunft. Währenddessen Lohnersatzansprüche (sofern Voraussetzungen erfüllt).",
+    "signalwords": [
+      "Mutterschaftsurlaub",
+      "14 Wochen",
+      "Niederkunft",
+      "Arbeitnehmerin"
+    ]
+  },
+  {
+    "id": 35,
+    "article_name": "329g",
+    "description": "Vaterschaftsurlaub von 2 Wochen innerhalb 6 Monate nach Geburt. Kann tage- oder wochenweise bezogen werden.",
+    "signalwords": [
+      "Vaterschaftsurlaub",
+      "2 Wochen",
+      "6 Monate",
+      "Geburt"
+    ]
+  },
+  {
+    "id": 36,
+    "article_name": "329h",
+    "description": "Pflegeurlaub bei gesundheitlicher Beeinträchtigung von nahestehenden Personen, bis zu 3 Tage pro Ereignis, max. 10 Tage pro Jahr.",
+    "signalwords": [
+      "Pflegeurlaub",
+      "Angehörige",
+      "3 Tage",
+      "10 Tage",
+      "Betreuung"
+    ]
+  },
+  {
+    "id": 37,
+    "article_name": "330",
+    "description": "Kaution: Wenn Arbeitnehmer dem Arbeitgeber Geld als Sicherheit hinterlegt, muss der Arbeitgeber es getrennt aufbewahren; Rückgabe bei Beendigung des Arbeitsverhältnisses, Streitfälle können hinterlegt werden.",
+    "signalwords": [
+      "Kaution",
+      "Sicherheit",
+      "Rückgabe",
+      "Getrennte Aufbewahrung"
+    ]
+  },
+  {
+    "id": 38,
+    "article_name": "330a",
+    "description": "Arbeitszeugnis: Arbeitnehmer kann jederzeit ein Zeugnis über Art und Dauer des Arbeitsverhältnisses sowie Leistung und Verhalten verlangen (auf Wunsch nur Arbeitsbestätigung).",
+    "signalwords": [
+      "Arbeitszeugnis",
+      "Art und Dauer",
+      "Leistung",
+      "Verhalten",
+      "Bestätigung"
+    ]
+  },
+  {
+    "id": 39,
+    "article_name": "330b",
+    "description": "Informationspflicht: Bei Arbeitsverhältnissen über 1 Monat muss der Arbeitgeber bestimmte Punkte (z. B. Vertragsparteien, Funktion, Lohn, Arbeitszeit) schriftlich mitteilen.",
+    "signalwords": [
+      "Informationspflicht",
+      "1 Monat",
+      "Vertragspunkte",
+      "Arbeitsbedingungen"
+    ]
+  },
+  {
+    "id": 40,
+    "article_name": "331",
+    "description": "Personalvorsorge: Arbeitgeber muss Beiträge an Vorsorgeeinrichtungen weiterleiten; Arbeitnehmerbeiträge abziehen und fristgerecht einzahlen. Aufklärungspflicht über Forderungsrechte.",
+    "signalwords": [
+      "Personalvorsorge",
+      "Vorsorgeeinrichtung",
+      "Arbeitgeberpflicht",
+      "Beitragszahlung"
+    ]
+  },
+  {
+    "id": 41,
+    "article_name": "331a",
+    "description": "Beginn und Ende des Vorsorgeschutzes: Tritt mit Start des Arbeitsverhältnisses ein, endet mit Verlassen der Vorsorgeeinrichtung. Ein Monat Nachdeckung bei Tod/Invalidität, falls noch kein neues Vorsorgeverhältnis besteht.",
+    "signalwords": [
+      "Vorsorgeschutz",
+      "Nachdeckung",
+      "Beginn/Ende",
+      "Invalidität",
+      "Tod"
+    ]
+  },
+  {
+    "id": 42,
+    "article_name": "331b",
+    "description": "Abtretung und Verpfändung künftiger Vorsorgeleistungen vor Fälligkeit sind ungültig, außer bestimmte gesetzliche Ausnahmen.",
+    "signalwords": [
+      "Vorsorgeleistung",
+      "Abtretung",
+      "Verpfändung",
+      "Ungültig",
+      "Ausnahme"
+    ]
+  },
+  {
+    "id": 43,
+    "article_name": "331c",
+    "description": "Gesundheitliche Vorbehalte: Vorsorgeeinrichtungen dürfen bei Tod und Invalidität unter Umständen einen zeitlich befristeten Vorbehalt machen (max. 5 Jahre).",
+    "signalwords": [
+      "Gesundheitlicher Vorbehalt",
+      "Tod",
+      "Invalidität",
+      "5 Jahre",
+      "Vorsorge"
+    ]
+  },
+  {
+    "id": 44,
+    "article_name": "331d",
+    "description": "Wohneigentumsförderung: Arbeitnehmer können einen Teil ihrer Freizügigkeitsleistung verpfänden oder als Vorbezug für selbstgenutztes Wohneigentum verwenden.",
+    "signalwords": [
+      "Wohneigentum",
+      "Freizügigkeitsleistung",
+      "Vorbezug",
+      "Verpfändung",
+      "Eigenbedarf"
+    ]
+  },
+  {
+    "id": 45,
+    "article_name": "331e",
+    "description": "Vorbezug bei Vorsorge: Möglich bis 3 Jahre vor Entstehung des Altersleistungsanspruchs; Zustimmung des Ehegatten/eingetragenen Partners notwendig. Leistungskürzung für Alter/Tod/Invalidität.",
+    "signalwords": [
+      "Vorbezug",
+      "Eigenheim",
+      "Altersleistung",
+      "Ehegattenzustimmung",
+      "Kürzung"
+    ]
+  },
+  {
+    "id": 46,
+    "article_name": "331f",
+    "description": "Einschränkungen bei Unterdeckung einer Vorsorgeeinrichtung: Während Unterdeckung kann Verpfändung/Vorbezug zeitlich oder betragsmäßig eingeschränkt werden.",
+    "signalwords": [
+      "Unterdeckung",
+      "Einschränkung",
+      "Vorbezug",
+      "Verpfändung",
+      "Vorsorgeeinrichtung"
+    ]
+  },
+  {
+    "id": 47,
+    "article_name": "332",
+    "description": "Erfindungen/Designs, die im Rahmen der vertraglichen Pflichten entstehen, gehören dem Arbeitgeber. Bei Erfindungen, die außerhalb liegen, kann Arbeitgeber sich den Erwerb vorbehalten, gegen angemessene Vergütung.",
+    "signalwords": [
+      "Erfindung",
+      "Design",
+      "Arbeitgeberrecht",
+      "Angemessene Vergütung"
+    ]
+  },
+  {
+    "id": 48,
+    "article_name": "333",
+    "description": "Übergang des Arbeitsverhältnisses bei Betriebsübernahme: alle Rechte und Pflichten gehen auf den neuen Arbeitgeber über, sofern Arbeitnehmer nicht ablehnt.",
+    "signalwords": [
+      "Betriebsübernahme",
+      "Übergang",
+      "Rechte und Pflichten",
+      "Ablehnung",
+      "Neuer Arbeitgeber"
+    ]
+  },
+  {
+    "id": 49,
+    "article_name": "333a",
+    "description": "Informations- und Konsultationspflicht: Bei Betriebsübergang muss Arbeitgeber Arbeitnehmervertretung oder Arbeitnehmer rechtzeitig informieren und konsultieren.",
+    "signalwords": [
+      "Betriebsübergang",
+      "Informationspflicht",
+      "Konsultation",
+      "Arbeitnehmervertretung"
+    ]
+  },
+  {
+    "id": 50,
+    "article_name": "333b",
+    "description": "Betriebsübergang bei Insolvenz: Bei Konkurs oder Nachlassstundung kann das Arbeitsverhältnis übergehen, wenn zwischen Erwerber und bisherigen Arbeitgeber so vereinbart und Arbeitnehmer nicht ablehnt.",
+    "signalwords": [
+      "Insolvenz",
+      "Konkurs",
+      "Nachlass",
+      "Betriebsübergang",
+      "Zustimmung"
+    ]
+  },
+  {
+    "id": 51,
+    "article_name": "334",
+    "description": "Befristeter Arbeitsvertrag endet ohne Kündigung mit Fristablauf. Wird er stillschweigend weitergeführt, gilt er als unbefristet.",
+    "signalwords": [
+      "Befristeter Vertrag",
+      "Automatisches Ende",
+      "Weiterführung",
+      "Unbefristet"
+    ]
+  },
+  {
+    "id": 52,
+    "article_name": "335",
+    "description": "Grundsätze der Kündigung bei unbefristeten Arbeitsverhältnissen. Schriftliche Begründung auf Verlangen.",
+    "signalwords": [
+      "Unbefristet",
+      "Kündigung",
+      "Schriftliche Begründung",
+      "Arbeitgeber und Arbeitnehmer"
+    ]
+  },
+  {
+    "id": 53,
+    "article_name": "335a",
+    "description": "Unterschiedliche Kündigungsfristen für Arbeitgeber und Arbeitnehmer sind unzulässig (die längere gilt für beide), außer bei wirtschaftlich bedingten Kündigungen durch den Arbeitgeber.",
+    "signalwords": [
+      "Kündigungsfrist",
+      "Gleichbehandlung",
+      "Arbeitgeber",
+      "Arbeitnehmer"
+    ]
+  },
+  {
+    "id": 54,
+    "article_name": "335b",
+    "description": "Kündigung während Probezeit: 7 Tage Frist. Probezeit = erster Monat, kann schriftlich bis 3 Monate verlängert werden.",
+    "signalwords": [
+      "Probezeit",
+      "7 Tage",
+      "Erster Monat",
+      "Verlängerung"
+    ]
+  },
+  {
+    "id": 55,
+    "article_name": "335c",
+    "description": "Kündigungsfristen nach der Probezeit: 1 Monat im 1. Dienstjahr, 2 Monate bis zum 9. Dienstjahr, danach 3 Monate, jeweils auf Monatsende (abweichende Abreden möglich).",
+    "signalwords": [
+      "Kündigungsfristen",
+      "Dienstjahr",
+      "1 Monat / 2 Monate / 3 Monate",
+      "Monatsende"
+    ]
+  },
+  {
+    "id": 56,
+    "article_name": "335d",
+    "description": "Massenentlassung: Kündigungen innert 30 Tagen aus wirtschaftlichen Gründen, wenn bestimmte Mindestanzahl an Arbeitnehmern betroffen ist. Konsultations- und Informationspflichten.",
+    "signalwords": [
+      "Massenentlassung",
+      "30 Tage",
+      "Konsultation",
+      "Wirtschaftliche Gründe",
+      "Mindestanzahl"
+    ]
+  },
+  {
+    "id": 57,
+    "article_name": "335e",
+    "description": "Geltungsbereich Massenentlassung: Betrifft auch befristete Verträge bei vorzeitigem Ende; Ausnahmen bei Konkurs/Nachlassvertrag.",
+    "signalwords": [
+      "Massenentlassung",
+      "Befristete Verträge",
+      "Ausnahme Konkurs",
+      "Nachlassvertrag"
+    ]
+  },
+  {
+    "id": 58,
+    "article_name": "335f",
+    "description": "Vor Massenentlassung muss Arbeitgeber Arbeitnehmervertretung konsultieren. Zweck: Vorschläge zur Vermeidung, Beschränkung oder Milderung von Kündigungen.",
+    "signalwords": [
+      "Massenentlassung",
+      "Konsultation",
+      "Vermeidung",
+      "Vorschläge",
+      "Arbeitnehmervertretung"
+    ]
+  },
+  {
+    "id": 59,
+    "article_name": "335g",
+    "description": "Anzeigepflicht an kantonales Arbeitsamt bei beabsichtigter Massenentlassung. Kündigungen werden erst 30 Tage nach Anzeige wirksam, sofern keine längere Frist.",
+    "signalwords": [
+      "Massenentlassung",
+      "Kantonales Arbeitsamt",
+      "Anzeigepflicht",
+      "Kündigungsfrist"
+    ]
+  },
+  {
+    "id": 60,
+    "article_name": "335h",
+    "description": "Sozialplan: Vereinbarung zur Vermeidung/ Beschränkung/ Milderung von Kündigungen. Arbeitgeber und Arbeitnehmer legen Maßnahmen fest, die den Fortbestand des Betriebs nicht gefährden dürfen.",
+    "signalwords": [
+      "Sozialplan",
+      "Milderung",
+      "Kündigungen",
+      "Betriebserhalt",
+      "Maßnahmen"
+    ]
+  },
+  {
+    "id": 61,
+    "article_name": "335i",
+    "description": "Sozialplan-Verhandlungen bei größeren Betrieben (≥ 250 Mitarbeiter), wenn mind. 30 Kündigungen anstehen. Arbeitgeber handelt mit Verbänden oder Arbeitnehmervertretung oder direkt mit Arbeitnehmern.",
+    "signalwords": [
+      "Sozialplan",
+      "≥ 250 Mitarbeiter",
+      "30 Kündigungen",
+      "Verhandlungen",
+      "Arbeitgeber"
+    ]
+  },
+  {
+    "id": 62,
+    "article_name": "335j",
+    "description": "Scheitern Sozialplanverhandlungen, so muss ein Schiedsgericht eingesetzt werden, das einen verbindlichen Schiedsspruch (Sozialplan) festlegt.",
+    "signalwords": [
+      "Sozialplan",
+      "Schiedsgericht",
+      "Verbindlich",
+      "Scheitern Verhandlung"
+    ]
+  },
+  {
+    "id": 63,
+    "article_name": "335k",
+    "description": "Kein Sozialplan bei Massenentlassung im Konkurs- oder Nachlassverfahren. Bestimmungen zu Insolvenz gehen vor.",
+    "signalwords": [
+      "Sozialplan",
+      "Ausnahme",
+      "Konkurs",
+      "Nachlass",
+      "Massenentlassung"
+    ]
+  },
+  {
+    "id": 64,
+    "article_name": "336",
+    "description": "Missbräuchliche Kündigung: z. B. aus Diskriminierung, geltend gemachten Ansprüchen, Gewerkschaftszugehörigkeit, oder Vereitelung von Ansprüchen.",
+    "signalwords": [
+      "Missbräuchliche Kündigung",
+      "Diskriminierung",
+      "Ansprüche vereiteln",
+      "Gewerkschaft",
+      "Kündigungsschutz"
+    ]
+  },
+  {
+    "id": 65,
+    "article_name": "336a",
+    "description": "Sanktion bei missbräuchlicher Kündigung: Entschädigung bis max. 6 Monatslöhne (bzw. 2 Monatslöhne bei Massenentlassung ohne Konsultation).",
+    "signalwords": [
+      "Entschädigung",
+      "Missbräuchlich",
+      "6 Monatslöhne",
+      "Klage",
+      "Massenentlassung"
+    ]
+  },
+  {
+    "id": 66,
+    "article_name": "336b",
+    "description": "Verfahren: Betroffener muss schriftlich Einsprache erheben, sonst verfällt Anspruch. Gütliche Einigung oder Entschädigungsklage sind möglich.",
+    "signalwords": [
+      "Einsprache",
+      "Verfahren",
+      "Missbräuchliche Kündigung",
+      "Klage"
+    ]
+  },
+  {
+    "id": 67,
+    "article_name": "336c",
+    "description": "Kündigung zur Unzeit (Sperrfristen): Militär-, Zivildienst, Krankheit, Unfall, Schwangerschaft, Hilfsaktionen im Ausland. Kündigung während Sperrfrist ist nichtig.",
+    "signalwords": [
+      "Kündigung zur Unzeit",
+      "Sperrfrist",
+      "Krankheit",
+      "Schwangerschaft",
+      "Nichtigkeit"
+    ]
+  },
+  {
+    "id": 68,
+    "article_name": "336d",
+    "description": "Kündigungssperre durch Arbeitnehmer, wenn Arbeitgeber oder Vorgesetzter verhindert ist (Art. 336c sinngemäß anwendbar).",
+    "signalwords": [
+      "Sperrfrist",
+      "Arbeitnehmerkündigung",
+      "Vertretung",
+      "Verhinderung",
+      "Unzeit"
+    ]
+  },
+  {
+    "id": 69,
+    "article_name": "337",
+    "description": "Fristlose Kündigung aus wichtigem Grund jederzeit möglich, wenn Fortsetzung unzumutbar ist. Schriftliche Begründung auf Verlangen.",
+    "signalwords": [
+      "Fristlose Kündigung",
+      "Wichtiger Grund",
+      "Unzumutbar",
+      "Sofortige Auflösung"
+    ]
+  },
+  {
+    "id": 70,
+    "article_name": "337a",
+    "description": "Zahlungsunfähigkeit des Arbeitgebers: Arbeitnehmer kann fristlos kündigen, wenn keine angemessene Lohnsicherheit gewährt wird.",
+    "signalwords": [
+      "Zahlungsunfähigkeit",
+      "Lohnsicherheit",
+      "Fristlos",
+      "Arbeitgeber"
+    ]
+  },
+  {
+    "id": 71,
+    "article_name": "337b",
+    "description": "Schadenersatzpflicht bei ungerechtfertigter fristloser Auflösung. Volle Schadensdeckung, falls vertragswidriges Verhalten vorliegt.",
+    "signalwords": [
+      "Schadenersatz",
+      "Ungerechtfertigt",
+      "Fristlos",
+      "Vertragswidrig"
+    ]
+  },
+  {
+    "id": 72,
+    "article_name": "337c",
+    "description": "Bei ungerechtfertigter Entlassung durch Arbeitgeber: Arbeitnehmer erhält Lohn, den er bis Ende ordentlicher Kündigungsfrist verdient hätte. Zusätzlich Entschädigung bis zu 6 Monatslöhnen möglich.",
+    "signalwords": [
+      "Ungerechtfertigte Entlassung",
+      "Lohnersatz",
+      "Kündigungsfrist",
+      "6 Monatslöhne"
+    ]
+  },
+  {
+    "id": 73,
+    "article_name": "337d",
+    "description": "Bei ungerechtfertigtem Nichtantritt oder Verlassen der Stelle durch Arbeitnehmer: Arbeitgeberanspruch auf Entschädigung (max. 1/4 Monatslohn) und Ersatz weiteren Schadens.",
+    "signalwords": [
+      "Nichtantritt",
+      "Verlassen der Stelle",
+      "Entschädigung",
+      "Monatslohn"
+    ]
+  },
+  {
+    "id": 74,
+    "article_name": "338",
+    "description": "Tod des Arbeitnehmers beendet das Arbeitsverhältnis. Arbeitgeber leistet Lohn für 1–2 Monate weiter, sofern Unterhaltspflichten gegenüber Ehegatten oder Kindern bestanden.",
+    "signalwords": [
+      "Tod Arbeitnehmer",
+      "Beendigung",
+      "Lohnfortzahlung",
+      "Unterhaltspflicht"
+    ]
+  },
+  {
+    "id": 75,
+    "article_name": "338a",
+    "description": "Tod des Arbeitgebers: Arbeitsverhältnis geht auf Erben über, außer es wurde mit Rücksicht auf die Person des Arbeitgebers geschlossen; dann Anspruch auf Schadensersatz.",
+    "signalwords": [
+      "Tod Arbeitgeber",
+      "Erben",
+      "Fortsetzung",
+      "Persönlicher Bezug",
+      "Schadensersatz"
+    ]
+  },
+  {
+    "id": 76,
+    "article_name": "339",
+    "description": "Beendigung des Arbeitsverhältnisses: Alle Forderungen werden fällig. Bei Provisionsansprüchen kann Fälligkeit aufgeschoben werden.",
+    "signalwords": [
+      "Beendigung",
+      "Forderungen",
+      "Fälligkeit",
+      "Provisionsanspruch"
+    ]
+  },
+  {
+    "id": 77,
+    "article_name": "339a",
+    "description": "Rückgabepflicht: Arbeitnehmer und Arbeitgeber müssen alles zurückgeben, was sie für die Dauer des Arbeitsverhältnisses erhalten haben (inkl. Dokumente, Ausrüstungen).",
+    "signalwords": [
+      "Rückgabe",
+      "Dokumente",
+      "Arbeitsmittel",
+      "Pflicht",
+      "Vertragsende"
+    ]
+  },
+  {
+    "id": 78,
+    "article_name": "339b",
+    "description": "Abgangsentschädigung: Bei mindestens 50 Jahren und 20 Dienstjahren Anspruch auf Entschädigung (mind. 2 Monatslöhne).",
+    "signalwords": [
+      "Abgangsentschädigung",
+      "50 Jahre",
+      "20 Dienstjahre",
+      "Min. 2 Monatslöhne"
+    ]
+  },
+  {
+    "id": 79,
+    "article_name": "339c",
+    "description": "Höhe der Abgangsentschädigung: kann durch Abrede geregelt werden (2–8 Monatslöhne). Fällig bei Beendigung, kann später vereinbart werden.",
+    "signalwords": [
+      "Abgangsentschädigung",
+      "Höhe",
+      "2–8 Monatslöhne",
+      "Fälligkeit"
+    ]
+  },
+  {
+    "id": 80,
+    "article_name": "339d",
+    "description": "Ersatzleistungen: Leistungen aus Vorsorgeeinrichtung können auf Abgangsentschädigung angerechnet werden.",
+    "signalwords": [
+      "Vorsorge",
+      "Abgangsentschädigung",
+      "Anrechnung",
+      "Ersatzleistung"
+    ]
+  },
+  {
+    "id": 81,
+    "article_name": "340",
+    "description": "Konkurrenzverbot: Arbeitnehmer kann sich schriftlich verpflichten, nach Ende des Arbeitsverhältnisses keine konkurrenzierende Tätigkeit auszuüben, wenn er Einblick in Kundenkreis/Geheimnisse hatte.",
+    "signalwords": [
+      "Konkurrenzverbot",
+      "Schriftform",
+      "Kundenkreis",
+      "Geschäftsgeheimnisse"
+    ]
+  },
+  {
+    "id": 82,
+    "article_name": "340a",
+    "description": "Konkurrenzverbot ist zeitlich, örtlich und gegenständlich zu begrenzen (max. 3 Jahre, falls nicht besondere Umstände). Richter kann übermäßige Verbote anpassen.",
+    "signalwords": [
+      "Konkurrenzverbot",
+      "Begrenzung",
+      "3 Jahre",
+      "Übermäßig",
+      "Richterliche Anpassung"
+    ]
+  },
+  {
+    "id": 83,
+    "article_name": "340b",
+    "description": "Bei Verstoß gegen Konkurrenzverbot: Schadenersatz oder Konventionalstrafe möglich. Freikauf durch Zahlung der Strafe nur, wenn nichts anderes vereinbart.",
+    "signalwords": [
+      "Verstoß",
+      "Konkurrenzverbot",
+      "Konventionalstrafe",
+      "Freikauf",
+      "Schadenersatz"
+    ]
+  },
+  {
+    "id": 84,
+    "article_name": "340c",
+    "description": "Wegfall des Konkurrenzverbots, wenn Arbeitgeber kein erhebliches Interesse mehr hat oder selbst kündigt, ohne dass Arbeitnehmer Anlass gegeben hat.",
+    "signalwords": [
+      "Wegfall",
+      "Erhebliches Interesse",
+      "Kündigung Arbeitgeber",
+      "Konkurrenzverbot",
+      "Aufhebung"
+    ]
+  },
+  {
+    "id": 85,
+    "article_name": "341",
+    "description": "Verzicht auf unabdingbare Rechte aus Gesetz oder Gesamtarbeitsvertrag ist während und 1 Monat nach Beendigung des Arbeitsverhältnisses unzulässig.",
+    "signalwords": [
+      "Unverzichtbarkeit",
+      "Abdingbar / Unabdingbar",
+      "Gesetz",
+      "1 Monat Frist"
+    ]
+  },
+  {
+    "id": 86,
+    "article_name": "342",
+    "description": "Öffentlich-rechtliche Pflichten gehen vor; Verletzung solcher Pflichten kann zivilrechtliche Ansprüche auslösen (z. B. Arbeitsschutz).",
+    "signalwords": [
+      "Öffentliches Recht",
+      "Vorrang",
+      "Arbeitsschutz",
+      "Zivilrechtlicher Anspruch"
+    ]
+  },
+  {
+    "id": 87,
+    "article_name": "343",
+    "description": "Aufgehoben (früher Regelung zu arbeitsrechtlichen Streitigkeiten). Heute ZPO (Zivilprozessordnung) maßgebend.",
+    "signalwords": [
+      "Streitigkeiten",
+      "Aufgehoben",
+      "ZPO",
+      "Prozess"
+    ]
+  },
+  {
+    "id": 88,
+    "article_name": "344",
+    "description": "Lehrvertrag: Arbeitgeber verpflichtet sich zur fachgemäßen Ausbildung, Lernende Person zur Arbeitsleistung zwecks Erlernen des Berufs.",
+    "signalwords": [
+      "Lehrvertrag",
+      "Ausbildung",
+      "Lernende Person",
+      "Arbeitgeber",
+      "Fachgerecht"
+    ]
+  },
+  {
+    "id": 89,
+    "article_name": "344a",
+    "description": "Lehrvertrag bedarf Schriftform, regelt u. a. Art/Dauer der beruflichen Bildung, Lohn, Probezeit, Arbeitszeit und Ferien. Probezeit mind. 1, max. 3 Monate (Verlängerung bis 6 Monate möglich).",
+    "signalwords": [
+      "Lehrvertrag",
+      "Schriftform",
+      "Probezeit",
+      "Berufliche Bildung",
+      "Pflichten"
+    ]
+  },
+  {
+    "id": 90,
+    "article_name": "345",
+    "description": "Lernende Person muss alles tun, um das Lehrziel zu erreichen. Gesetzliche Vertretung unterstützt das Einvernehmen zwischen Arbeitgeber und Lernender Person.",
+    "signalwords": [
+      "Lehrziel",
+      "Lernende Person",
+      "Gesetzliche Vertretung",
+      "Unterstützung"
+    ]
+  },
+  {
+    "id": 91,
+    "article_name": "345a",
+    "description": "Arbeitgeber stellt Fachkraft für Ausbildung, gewährt Schule und Kurse ohne Lohnabzug, 5 Wochen Ferien bis 20. Altersjahr. Keine Akkordarbeiten ohne Lernzweck.",
+    "signalwords": [
+      "Fachkraft",
+      "Ausbildung",
+      "Berufsfachschule",
+      "Ferien",
+      "Kein Akkord"
+    ]
+  },
+  {
+    "id": 92,
+    "article_name": "346",
+    "description": "Lehrvertrag kann während Probezeit (7 Tage Frist) gekündigt werden. Fristlose Auflösung aus wichtigen Gründen (mangelnde Eignung, Gesundheitsgefahr, fehlende fachliche Voraussetzungen) möglich.",
+    "signalwords": [
+      "Lehrvertrag",
+      "Probezeit",
+      "Fristlose Auflösung",
+      "Fehlende Eignung"
+    ]
+  },
+  {
+    "id": 93,
+    "article_name": "346a",
+    "description": "Lehrzeugnis: Nach Abschluss der Lehre Zeugnis über erworbene Fähigkeiten und Dauer. Auf Verlangen auch Bewertung von Leistungen und Verhalten.",
+    "signalwords": [
+      "Lehrzeugnis",
+      "Lehrabschluss",
+      "Fähigkeiten",
+      "Verhalten"
+    ]
+  },
+  {
+    "id": 94,
+    "article_name": "347",
+    "description": "Handelsreisendenvertrag: Handelsreisender vermittelt oder schließt Geschäfte im Namen des Arbeitgebers außerhalb der Geschäftsräume ab, gegen Lohn.",
+    "signalwords": [
+      "Handelsreisender",
+      "Geschäfte vermitteln",
+      "Außerhalb Geschäftsräume",
+      "Lohn"
+    ]
+  },
+  {
+    "id": 95,
+    "article_name": "347a",
+    "description": "Der schriftliche Vertrag regelt Dauer, Beendigung, Vollmachten, Entgelt und Auslagenersatz, anwendbares Recht und Gerichtsstand (falls Auslandsbezug).",
+    "signalwords": [
+      "Handelsreisendenvertrag",
+      "Schriftform",
+      "Vollmachten",
+      "Entgelt",
+      "Gerichtsstand"
+    ]
+  },
+  {
+    "id": 96,
+    "article_name": "348",
+    "description": "Handelsreisender hat vorgeschriebene Kundschaft zu besuchen, keine eigenen Geschäfte ohne schriftliche Einwilligung. Bei Abschlussvollmacht gelten vorgeschriebene Preise/ Bedingungen.",
+    "signalwords": [
+      "Kundschaft besuchen",
+      "Abschlussvollmacht",
+      "Vorgeschriebene Preise",
+      "Verbot Eigenhandel"
+    ]
+  },
+  {
+    "id": 97,
+    "article_name": "348a",
+    "description": "Delcredereverbot: Reisender haftet nicht für Kundenzahlungsausfälle, außer schriftlich vereinbarter Delcrederehaftung (max. 25% des Schadens).",
+    "signalwords": [
+      "Delcredere",
+      "Haftung",
+      "Zahlungsausfall",
+      "25 Prozent"
+    ]
+  },
+  {
+    "id": 98,
+    "article_name": "348b",
+    "description": "Vollmachtserweiterung: Nur wenn ausdrücklich schriftlich vereinbart, darf der Handelsreisende Zahlungen entgegennehmen oder Zahlungsfristen gewähren.",
+    "signalwords": [
+      "Vollmacht",
+      "Zahlungen",
+      "Schriftlich",
+      "Handelsreisender"
+    ]
+  },
+  {
+    "id": 99,
+    "article_name": "349",
+    "description": "Zuweisung von Reisegebiet/Kundenkreis kann exklusiv sein (Arbeitgeber behält aber Recht auf Direktabschlüsse). Änderung ist möglich, bei gutem Grund auch ohne Einverständnis.",
+    "signalwords": [
+      "Reisegebiet",
+      "Kundenkreis",
+      "Exklusivität",
+      "Direktabschluss",
+      "Änderung"
+    ]
+  },
+  {
+    "id": 100,
+    "article_name": "349a",
+    "description": "Lohn des Handelsreisenden besteht aus festem Gehalt und/oder Provision. Schriftliche Abrede kann vorsehen, dass überwiegend Provision gezahlt wird, sofern angemessen.",
+    "signalwords": [
+      "Handelsreisender",
+      "Lohn",
+      "Provision",
+      "Festes Gehalt",
+      "Angemessen"
+    ]
+  },
+  {
+    "id": 101,
+    "article_name": "349b",
+    "description": "Provision bei exklusivem Gebiet auf allen Geschäften (auch Direktabschlüssen), sonst nur auf tatsächlich vermittelte/abgeschlossene. Schätzung & Nachberechnung möglich.",
+    "signalwords": [
+      "Provision",
+      "Exklusives Gebiet",
+      "Direktabschluss",
+      "Schätzung",
+      "Nachberechnung"
+    ]
+  },
+  {
+    "id": 102,
+    "article_name": "349c",
+    "description": "Verhinderung an der Reisetätigkeit ohne eigenes Verschulden (z. B. Krankheit): Anspruch auf festes Gehalt plus angemessene Entschädigung für die ausfallende Provision.",
+    "signalwords": [
+      "Verhinderung",
+      "Ohne Verschulden",
+      "Provision",
+      "Entschädigung"
+    ]
+  },
+  {
+    "id": 103,
+    "article_name": "349d",
+    "description": "Auslagenersatz: Kein Abzug in Provision oder Festgehalt. Falls mehrere Arbeitgeber, teilen diese die Kosten (sofern nichts anderes schriftlich vereinbart).",
+    "signalwords": [
+      "Auslagen",
+      "Ersatz",
+      "Kein Abzug",
+      "Mehrere Arbeitgeber"
+    ]
+  },
+  {
+    "id": 104,
+    "article_name": "349e",
+    "description": "Retentionsrecht des Handelsreisenden für fällige Forderungen (u. U. auch nicht fällige bei Zahlungsunfähigkeit des Arbeitgebers) an beweglichen Gegenständen und eingenommenen Zahlungen.",
+    "signalwords": [
+      "Retentionsrecht",
+      "Forderungen",
+      "Zahlungsunfähigkeit",
+      "Bewegliche Sachen",
+      "Eingenommene Zahlungen"
+    ]
+  },
+  {
+    "id": 105,
+    "article_name": "350",
+    "description": "Kündigungsschutz bei Saison: Bei überwiegend provisionsabhängiger Tätigkeit darf Arbeitgeber während Saison nur mit 2-monatiger Kündigungsfrist kündigen (und umgekehrt).",
+    "signalwords": [
+      "Saison",
+      "Provision",
+      "2 Monate",
+      "Kündigungsschutz"
+    ]
+  },
+  {
+    "id": 106,
+    "article_name": "350a",
+    "description": "Ende des Handelsreisendenvertrags: Provision für alle bis dahin abgeschlossenen/vermittelten Geschäfte. Muster, Modelle und Unterlagen sind zurückzugeben.",
+    "signalwords": [
+      "Beendigung",
+      "Geschäfte",
+      "Provision",
+      "Rückgabe",
+      "Handelsreisender"
+    ]
+  },
+  {
+    "id": 107,
+    "article_name": "351",
+    "description": "Heimarbeitsvertrag: Heimarbeitnehmer arbeitet zu Hause oder an gewähltem Ort für den Arbeitgeber, gegen Lohn, ggf. mit eigenen Familienangehörigen.",
+    "signalwords": [
+      "Heimarbeitsvertrag",
+      "Heimarbeitnehmer",
+      "Wohnung",
+      "Lohn",
+      "Familienangehörige"
+    ]
+  },
+  {
+    "id": 108,
+    "article_name": "351a",
+    "description": "Arbeitgeber muss bei Ausgabe der Heimarbeit relevante Bedingungen mitteilen (Art und Umfang, Lohn, Materialentschädigung). Fehlende Bekanntgabe = übliche Bedingungen gelten.",
+    "signalwords": [
+      "Heimarbeit",
+      "Bedingungen mitteilen",
+      "Lohn",
+      "Materialentschädigung",
+      "Üblich"
+    ]
+  },
+  {
+    "id": 109,
+    "article_name": "352",
+    "description": "Heimarbeitnehmer führt Arbeit sorgfältig aus, Ablieferung zum vereinbarten Zeitpunkt. Bei mangelhafter Arbeit unentgeltliche Verbesserung möglich, soweit zumutbar.",
+    "signalwords": [
+      "Heimarbeitnehmer",
+      "Mangelhafte Arbeit",
+      "Verbesserung",
+      "Termine"
+    ]
+  },
+  {
+    "id": 110,
+    "article_name": "352a",
+    "description": "Material und Arbeitsgeräte vom Arbeitgeber sorgfältig behandeln. Schuldhaft verdorbenes Material muss bis zu den Selbstkosten ersetzt werden.",
+    "signalwords": [
+      "Material",
+      "Arbeitsgeräte",
+      "Heimarbeit",
+      "Sorgfaltspflicht",
+      "Selbstkosten"
+    ]
+  },
+  {
+    "id": 111,
+    "article_name": "353",
+    "description": "Arbeitgeber muss das abgelieferte Heimarbeitserzeugnis prüfen und Mängel spätestens innerhalb einer Woche rügen, sonst gilt es als abgenommen.",
+    "signalwords": [
+      "Heimarbeitserzeugnis",
+      "Prüfung",
+      "Mängelrüge",
+      "1 Woche",
+      "Abnahme"
+    ]
+  },
+  {
+    "id": 112,
+    "article_name": "353a",
+    "description": "Lohnzahlung bei Heimarbeit: i. d. R. halbmonatlich oder bei Ablieferung. Schriftliche Lohnabrechnung mit Begründung für allfällige Abzüge.",
+    "signalwords": [
+      "Heimarbeit",
+      "Lohnzahlung",
+      "Halbmonatlich",
+      "Abrechnung",
+      "Abzüge"
+    ]
+  },
+  {
+    "id": 113,
+    "article_name": "353b",
+    "description": "Steht der Heimarbeitnehmer ununterbrochen im Dienst, gilt Art. 324/324a sinngemäß (Lohnfortzahlung bei Verhinderung); andernfalls kein Anspruch.",
+    "signalwords": [
+      "Ununterbrochener Dienst",
+      "Heimarbeit",
+      "Lohnfortzahlung",
+      "Verhinderung"
+    ]
+  },
+  {
+    "id": 114,
+    "article_name": "354",
+    "description": "Beendigung bei Heimarbeit: Probearbeit gilt als befristet. Ununterbrochenes Dienstverhältnis als unbefristet, sonst befristet.",
+    "signalwords": [
+      "Heimarbeit",
+      "Probearbeit",
+      "Befristet",
+      "Unbefristet"
+    ]
+  },
+  {
+    "id": 115,
+    "article_name": "355",
+    "description": "Der Lehrvertrag, Handelsreisendenvertrag und Heimarbeitsvertrag ergänzen sich mit den allgemeinen Vorschriften des Einzelarbeitsvertrags, soweit nichts Spezielles geregelt ist.",
+    "signalwords": [
+      "Besondere Verträge",
+      "Ergänzung",
+      "Allgemeine Vorschriften",
+      "Einzelarbeitsvertrag"
+    ]
+  },
+  {
+    "id": 116,
+    "article_name": "356",
+    "description": "Gesamtarbeitsvertrag (GAV): Arbeitgeber(verbände) und Arbeitnehmerverbände regeln Abschluss, Inhalt und Beendigung einzelner Arbeitsverhältnisse; kann weitere Punkte enthalten.",
+    "signalwords": [
+      "Gesamtarbeitsvertrag",
+      "Arbeitgeberverbände",
+      "Arbeitnehmerverbände",
+      "Abschluss",
+      "Inhalt"
+    ]
+  },
+  {
+    "id": 117,
+    "article_name": "356a",
+    "description": "Freiheit der Berufs- und Verbandszugehörigkeit: GAV-Bestimmungen, die Zwang zum Beitritt oder Ausschluss von bestimmten Berufen bezwecken, sind nichtig (außer schutzwürdige Interessen).",
+    "signalwords": [
+      "GAV",
+      "Beitrittszwang",
+      "Nichtigkeit",
+      "Berufsfreiheit",
+      "Ausnahme Schutz"
+    ]
+  },
+  {
+    "id": 118,
+    "article_name": "356b",
+    "description": "Anschluss an GAV: Einzelne Arbeitgeber/Arbeitnehmer können sich mit Zustimmung anschließen. Unangemessene Bedingungen sind nichtig oder beschränkt durch Richter.",
+    "signalwords": [
+      "GAV-Anschluss",
+      "Zustimmung",
+      "Unangemessene Bedingungen",
+      "Nichtigkeit"
+    ]
+  },
+  {
+    "id": 119,
+    "article_name": "356c",
+    "description": "Form und Dauer des GAV: Abschluss, Änderung, Kündigung nur schriftlich. Falls zeitlich unbefristet, kündbar auf 6 Monate nach 1 Jahr, sofern nichts anderes vereinbart.",
+    "signalwords": [
+      "GAV",
+      "Schriftform",
+      "Kündigung",
+      "Dauer",
+      "Unbefristet"
+    ]
+  },
+  {
+    "id": 120,
+    "article_name": "357",
+    "description": "Unmittelbare Wirkung der GAV-Bestimmungen auf beteiligte Arbeitgeber und Arbeitnehmer. Abweichungen sind nur zugunsten des Arbeitnehmers möglich, falls GAV nichts anderes regelt.",
+    "signalwords": [
+      "GAV",
+      "Unmittelbare Wirkung",
+      "Arbeitgeber",
+      "Arbeitnehmer",
+      "Abweichung zugunsten"
+    ]
+  },
+  {
+    "id": 121,
+    "article_name": "357a",
+    "description": "Vertragsparteien des GAV sorgen für Einhaltung. Friedenspflicht: keine Streiks oder Aussperrungen in GAV-geregelten Fragen, außer wenn unbeschränkte Friedenspflicht vereinbart.",
+    "signalwords": [
+      "GAV",
+      "Einhaltung",
+      "Friedenspflicht",
+      "Streik",
+      "Aussperrung"
+    ]
+  },
+  {
+    "id": 122,
+    "article_name": "357b",
+    "description": "Gemeinsame Durchsetzung: Verbände können ein Klagerecht vereinbaren (z. B. auf Einhaltung des GAV). Betrifft insbesondere Beiträge, Arbeitsfrieden, Kontrollen etc.",
+    "signalwords": [
+      "GAV",
+      "Klagerecht",
+      "Verbände",
+      "Durchsetzung",
+      "Kontrolle"
+    ]
+  },
+  {
+    "id": 123,
+    "article_name": "358",
+    "description": "Zwingendes Bundes- und Kantonsrecht geht vor GAV-Bestimmungen, außer wenn zugunsten der Arbeitnehmer abgewichen wird und das Gesetz dies nicht verbietet.",
+    "signalwords": [
+      "GAV",
+      "Zwingendes Recht",
+      "Vorrang",
+      "Ausnahme",
+      "Zugunsten Arbeitnehmer"
+    ]
+  },
+  {
+    "id": 124,
+    "article_name": "359",
+    "description": "Normalarbeitsvertrag (NAV): Für bestimmte Berufsgruppen werden Bestimmungen zu Abschluss, Inhalt, Beendigung aufgestellt. Kantone müssen NAV für Landwirtschaft und Hausdienst erlassen.",
+    "signalwords": [
+      "Normalarbeitsvertrag",
+      "Berufsgruppen",
+      "Kantone",
+      "Landwirtschaft",
+      "Hausdienst"
+    ]
+  },
+  {
+    "id": 125,
+    "article_name": "359a",
+    "description": "Bund oder Kanton erlässt den NAV (je nach Geltungsbereich). Verfahren: Veröffentlichung, Anhörung von Verbänden, Inkrafttreten durch amtliche Publikation.",
+    "signalwords": [
+      "NAV",
+      "Erlass",
+      "Bund/Kanton",
+      "Publikation",
+      "Verbände"
+    ]
+  },
+  {
+    "id": 126,
+    "article_name": "360",
+    "description": "NAV-Bestimmungen gelten unmittelbar, sofern nichts Abweichendes vereinbart. NAV kann vorschreiben, dass Abweichung schriftlich erfolgen muss.",
+    "signalwords": [
+      "NAV",
+      "Unmittelbar",
+      "Abweichung",
+      "Schriftform"
+    ]
+  },
+  {
+    "id": 127,
+    "article_name": "360a",
+    "description": "Befristeter NAV mit Mindestlöhnen zur Bekämpfung missbräuchlich tiefer Löhne möglich, wenn kein GAV vorliegt. Verlängerung, wenn wiederholt Verstöße oder Gefahr neuer Missbräuche bestehen.",
+    "signalwords": [
+      "NAV Mindestlohn",
+      "Missbrauch",
+      "Tiefe Löhne",
+      "Bekämpfung",
+      "Verlängerung"
+    ]
+  },
+  {
+    "id": 128,
+    "article_name": "360b",
+    "description": "Tripartite Kommissionen (Arbeitgeber, Arbeitnehmer, Staat) beobachten den Arbeitsmarkt, prüfen Missbräuche, können Behörde Erlass eines NAV mit Mindestlöhnen empfehlen.",
+    "signalwords": [
+      "Tripartite Kommission",
+      "Arbeitsmarkt",
+      "Missbrauch",
+      "NAV Mindestlohn",
+      "Empfehlung"
+    ]
+  },
+  {
+    "id": 129,
+    "article_name": "360c",
+    "description": "Mitglieder der tripartiten Kommission unterstehen Amtsgeheimnis, auch nach Ausscheiden. Keine Weitergabe sensibler betrieblich-privater Informationen an Dritte.",
+    "signalwords": [
+      "Amtsgeheimnis",
+      "Verschwiegenheit",
+      "Tripartite Kommission",
+      "Datenschutz"
+    ]
+  },
+  {
+    "id": 130,
+    "article_name": "360d",
+    "description": "NAV-Mindestlöhne gelten auch für vorübergehende Einsätze und Leiharbeit. Abreden zuungunsten des Arbeitnehmers sind unzulässig.",
+    "signalwords": [
+      "NAV Mindestlohn",
+      "Leiharbeit",
+      "Vorübergehender Einsatz",
+      "Unzulässig",
+      "Arbeitnehmer"
+    ]
+  },
+  {
+    "id": 131,
+    "article_name": "360e",
+    "description": "Arbeitgeber- oder Arbeitnehmerverbände können gerichtlich feststellen lassen, ob ein Betrieb die NAV-Mindestlohnregeln einhält.",
+    "signalwords": [
+      "Klagerecht Verbände",
+      "Feststellung",
+      "NAV",
+      "Mindestlohn",
+      "Einhaltung"
+    ]
+  },
+  {
+    "id": 132,
+    "article_name": "360f",
+    "description": "Kantone melden erlassene Normalarbeitsverträge (mit Mindestlohn) dem zuständigen Bundesamt, damit es einen Überblick hat.",
+    "signalwords": [
+      "NAV",
+      "Meldepflicht",
+      "Bundesamt",
+      "Übersicht",
+      "Kantone"
+    ]
+  },
+  {
+    "id": 133,
+    "article_name": "361",
+    "description": "Zwingende Vorschriften: Von den hier genannten Artikeln darf weder zuungunsten des Arbeitgebers noch des Arbeitnehmers abgewichen werden.",
+    "signalwords": [
+      "Zwingende Vorschriften",
+      "Unabdingbar",
+      "Keine Abweichung",
+      "Arbeitgeber",
+      "Arbeitnehmer"
+    ]
+  }
+]

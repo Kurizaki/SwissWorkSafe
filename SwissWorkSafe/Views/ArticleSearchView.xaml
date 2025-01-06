@@ -1,0 +1,293 @@
+﻿<!-- 
+    ArticleSearchView.xaml
+    This UserControl provides an interface for searching articles related to Swiss labor law.
+    It includes a header section with a navigation menu, a search bar on the left, and displays
+    search results on the right.
+    
+    Authors: Keanu Koelewijn, Rebecca Wili, Salma Tanner, Lorenzo Lai
+-->
+<UserControl x:Class="SwissWorkSafe.Views.ArticleSearchView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SwissWorkSafe.ViewModels"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignHeight="600"
+             d:DesignWidth="900">
+
+    <!-- 
+        Resource Dictionary:
+        - Merged in external resource dictionary containing colors, styles, etc.
+    -->
+<UserControl.Resources>
+    <ResourceDictionary>
+        <ResourceDictionary.MergedDictionaries>
+            <ResourceDictionary Source="pack://application:,,,/Resources/Colors.xaml"/>
+        </ResourceDictionary.MergedDictionaries>
+    </ResourceDictionary>
+</UserControl.Resources>
+
+<!-- 
+        Main Grid:
+        - Defines the overall layout of the UserControl.
+        - Background is set via a gradient resource.
+    -->
+<Grid Background="{StaticResource BackgroundGradient}">
+
+    <!-- 
+            Header Section:
+            - A top border styled as a navigation bar.
+            - Contains the application title, subtitle, and a toggle-button to open a menu popup.
+        -->
+    <Border Style="{StaticResource NavBarStyle}" 
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Top"
+                Height="90">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- 
+                    Left Side (Header):
+                    - Displays the main title ("SwissWorkSafe") and a subtitle ("Article Search").
+                -->
+            <StackPanel Orientation="Horizontal"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Left"
+                            Margin="20,0">
+                <TextBlock Text="SwissWorkSafe"
+                               Foreground="{StaticResource TitleForeground}"
+                               FontSize="36"
+                               FontWeight="Bold"
+                               Margin="0,0,10,0"/>
+                <TextBlock Text="Article Search"
+                               Foreground="{StaticResource SubtitleForeground}"
+                               FontSize="16"/>
+            </StackPanel>
+
+            <!-- 
+                    Right Side (Header):
+                    - Contains a ToggleButton to open a Popup menu.
+                -->
+            <StackPanel Orientation="Horizontal"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Right"
+                            Margin="0,0,20,0">
+
+                <!-- ToggleButton for Menu -->
+                <ToggleButton x:Name="MenuToggle"
+                                  Content="☰ Menu"
+                                  Width="100"
+                                  Margin="5,0"
+                                  Style="{StaticResource SecondaryToggleButton}"
+                                  Tag="{Binding DataContext, RelativeSource={RelativeSource AncestorType=Window}}"
+                                  IsChecked="{Binding IsMenuOpen, Mode=TwoWay}"/>
+
+                <!-- 
+                        Popup Menu:
+                        - This Popup appears below the ToggleButton when IsMenuOpen is true.
+                        - Contains various navigation buttons.
+                    -->
+                <Popup IsOpen="{Binding IsMenuOpen, Mode=TwoWay}"
+                           Placement="Bottom"
+                           PlacementTarget="{Binding ElementName=MenuToggle}"
+                           AllowsTransparency="True"
+                           StaysOpen="False">
+                    <Border Style="{StaticResource PopupBorderStyle}">
+                        <StackPanel>
+
+                            <!-- Menu Header -->
+                            <TextBlock Text="Menu"
+                                           FontSize="18"
+                                           FontWeight="Bold"
+                                           Foreground="White"
+                                           Margin="0,0,0,10"
+                                           HorizontalAlignment="Left"/>
+                            <Separator Margin="0,0,0,10"
+                                           Background="Gray"
+                                           Height="1"/>
+
+                            <!-- Menu Items -->
+                            <Button Content="🏠 Home"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="MainWindow"/>
+                            <Button Content="📂 Salary Continuation"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="SalaryContinuation"/>
+                            <Button Content="⚖️ Termination"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="Termination"/>
+
+                            <Separator Margin="0,10,0,10"
+                                           Background="Gray"
+                                           Height="1"/>
+
+                            <!-- Additional Actions -->
+                            <Button Content="⚙ Settings"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="Settings"/>
+                            <Button Content="❓ Help"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="Help"/>
+                        </StackPanel>
+                    </Border>
+                </Popup>
+            </StackPanel>
+        </Grid>
+    </Border>
+
+    <!-- 
+            Separator Line:
+            - A thin horizontal line placed below the header to visually separate it from the main content.
+        -->
+    <Rectangle Height="1"
+                   Fill="#333333"
+                   VerticalAlignment="Top"
+                   Margin="0,90,0,0"/>
+
+    <!-- 
+            Main Content Section:
+            - A two-column grid:
+                - Left: Contains search bar, instructions, and tips.
+                - Right: Displays search results inside a ScrollViewer.
+        -->
+    <Grid Margin="20,100,20,20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- 
+                Left Column: Search Bar & Intro Section
+                - Provides instructions and a search input for finding articles.
+            -->
+        <StackPanel Grid.Column="0"
+                        VerticalAlignment="Top"
+                        Margin="0,0,20,0">
+
+            <!-- Intro Text -->
+            <TextBlock Text="Welcome to Article Search"
+                           FontSize="20"
+                           FontWeight="Bold"
+                           Foreground="{StaticResource TitleForeground}"
+                           Margin="0,0,0,10"/>
+            <TextBlock Text="Use this search to find relevant labor law articles and documents. Enter a keyword and start the search to see the results on the right."
+                           FontSize="16"
+                           Foreground="{StaticResource SubtitleForeground}"
+                           TextWrapping="Wrap"
+                           Margin="0,0,0,20"/>
+
+            <!-- 
+                    Search Bar:
+                    - A bordered TextBox with an icon and a "Start Search" Button.
+                -->
+            <StackPanel Margin="0,0,0,20">
+                <Border Background="#FFFFFF"
+                            CornerRadius="8"
+                            Padding="5"
+                            BorderBrush="Gray"
+                            BorderThickness="1"
+                            Effect="{StaticResource ShadowEffect}">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Text="🔍"
+                                       VerticalAlignment="Center"
+                                       Margin="5,0"
+                                       Foreground="Gray"/>
+                        <TextBox Grid.Column="1"
+                                     FontSize="16"
+                                     Foreground="Black"
+                                     Background="Transparent"
+                                     BorderThickness="0"
+                                     VerticalAlignment="Center"
+                                     Padding="5"
+                                     Text="{Binding SearchTerm, UpdateSourceTrigger=PropertyChanged}"/>
+                    </Grid>
+                </Border>
+
+                <Button Content="Start Search"
+                            Style="{StaticResource PrimaryButton}"
+                            Margin="0,10,0,0"
+                            Width="180"
+                            Height="50"
+                            Command="{Binding SearchCommand}"/>
+            </StackPanel>
+
+            <!-- 
+                    Explanation of Search Abbreviations:
+                -->
+            <StackPanel Margin="0,10,0,20">
+                <TextBlock Text="🔠 Search Abbreviations:"
+                               FontSize="16"
+                               FontWeight="Bold"
+                               Foreground="{StaticResource TitleForeground}"
+                               Margin="0,0,0,5"/>
+                <TextBlock Text="• GAV = Collective Employment Contract&#x0a;• NAV = Standard Employment Contract&#x0a;• ZPO = Code of Civil Procedure"
+                               FontSize="14"
+                               Foreground="{StaticResource DescriptionForeground}"
+                               TextWrapping="Wrap"/>
+            </StackPanel>
+
+            <!-- 
+                    Tip Section:
+                    - Provides example keywords to guide the user.
+                -->
+            <StackPanel Margin="0,20,0,0">
+                <TextBlock Text="💡 Tip:"
+                               FontSize="18"
+                               FontWeight="Bold"
+                               Foreground="{StaticResource TitleForeground}"
+                               Margin="0,0,0,5"/>
+                <TextBlock Text="You can use keywords like 'Notice Period' or 'Salary Continuation' to find specific content."
+                               FontSize="14"
+                               Foreground="{StaticResource DescriptionForeground}"
+                               TextWrapping="Wrap"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- 
+                Right Column: Search Results
+                - A ScrollViewer that displays the items returned by the search.
+                - Uses an ItemsControl bound to 'Results' in the ViewModel.
+            -->
+        <ScrollViewer Grid.Column="1"
+                          VerticalScrollBarVisibility="Auto">
+            <ItemsControl ItemsSource="{Binding Results}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border Style="{StaticResource CardStyle}" 
+                                    Margin="0,0,0,10">
+                            <StackPanel>
+                                <!-- Article Name -->
+                                <TextBlock Text="{Binding ArticleName, StringFormat=Art. {0}}"
+                                               FontSize="18"
+                                               FontWeight="Bold"
+                                               Foreground="{StaticResource TitleForeground}"/>
+
+                                <!-- Description -->
+                                <TextBlock Text="{Binding Description}"
+                                               FontSize="14"
+                                               Foreground="{StaticResource DescriptionForeground}"
+                                               TextWrapping="Wrap"
+                                               Margin="0,5,0,10"/>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+    </Grid>
+</Grid>
+</UserControl>
