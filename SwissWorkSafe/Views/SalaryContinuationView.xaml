@@ -1,0 +1,307 @@
+﻿<!--
+    SalaryContinuationView.xaml
+    Dieses UserControl bietet die Benutzeroberfläche für die Berechnung der Lohnfortzahlung.
+    Es enthält Eingabefelder für das Startdatum und das Ereignisdatum, einen Button zur Berechnung
+    sowie eine Anzeige für die Ergebnisse. Zusätzlich werden hilfreiche Tipps angezeigt, um den Benutzer
+    bei der Eingabe der Daten zu unterstützen.
+-->
+
+<UserControl x:Class="SwissWorkSafe.Views.SalaryContinuationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:converters="clr-namespace:SwissWorkSafe.Models.Converters"
+             mc:Ignorable="d" 
+             d:DesignHeight="600"
+             d:DesignWidth="900">
+
+    <!--
+        Ressourcen für die UserControl:
+        - Bindet externe Ressourcen wie Farben und Konverter ein.
+        - Der StringToVisibilityConverter wird verwendet, um die Sichtbarkeit von UI-Elementen
+          basierend auf dem Inhalt von Zeichenfolgen zu steuern.
+    -->
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!-- Eingebundene Ressourcendatei für Farben und Stile -->
+                <ResourceDictionary Source="pack://application:,,,/Resources/Colors.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <!-- Konverter zur Steuerung der Sichtbarkeit basierend auf Zeichenfolgen -->
+            <converters:StringToVisibilityConverter x:Key="StringToVisibilityConverter"/>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <!--
+        Hauptgitter mit Hintergrund:
+        - Verwendet einen Hintergrundverlauf aus den zusammengeführten Ressourcen.
+        - Enthält den Header-Bereich, eine Trennlinie und den Hauptinhalt.
+    -->
+    <Grid Background="{StaticResource BackgroundGradient}">
+
+        <!--
+            Header-Bereich:
+            - Ein Border, gestylt mit NavBarStyle, der den oberen Bereich der Anwendung darstellt.
+            - Linke Seite: Anwendungstitel und Untertitel.
+            - Rechte Seite: ToggleButton für das Menü und Popup-Menü für die Navigation.
+        -->
+        <Border Style="{StaticResource NavBarStyle}" Height="90" VerticalAlignment="Top">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <!-- Linke Spalte für Titel -->
+                    <ColumnDefinition Width="Auto"/>
+                    <!-- Rechte Spalte für Menü -->
+                </Grid.ColumnDefinitions>
+
+                <!--
+                    Titel-StackPanel:
+                    - Enthält den Haupttitel und den Untertitel der Anwendung.
+                -->
+                <StackPanel Orientation="Horizontal"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Left"
+                            Margin="20,0">
+                    <TextBlock Text="SwissWorkSafe"
+                               Foreground="{StaticResource TitleForeground}"
+                               FontSize="36"
+                               FontWeight="Bold"
+                               Margin="0,0,10,0"/>
+                    <TextBlock Text="Lohnfortzahlung Verwaltung"
+                               Foreground="{StaticResource SubtitleForeground}"
+                               FontSize="16"/>
+                </StackPanel>
+
+                <!--
+                    Menü-StackPanel:
+                    - Enthält den ToggleButton zur Anzeige des Menüs und das Popup-Menü selbst.
+                -->
+                <StackPanel Orientation="Horizontal"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Right"
+                            Margin="0,0,20,0">
+
+                    <!--
+                        ToggleButton für das Hauptmenü:
+                        - Öffnet oder schließt das Popup-Menü.
+                        - Bindet die Eigenschaft IsMenuOpen im ViewModel für die Zweiweg-Bindung.
+                    -->
+                    <ToggleButton x:Name="MenuToggle"
+                                  Content="☰ Menü"
+                                  Width="100"
+                                  Margin="5,0"
+                                  Style="{StaticResource SecondaryToggleButton}"
+                                  Tag="{Binding DataContext, RelativeSource={RelativeSource AncestorType=Window}}"
+                                  IsChecked="{Binding IsMenuOpen, Mode=TwoWay}"/>
+
+                    <!--
+                        Popup-Menü:
+                        - Wird angezeigt, wenn IsMenuOpen true ist.
+                        - Enthält Buttons zur Navigation zu verschiedenen Ansichten der Anwendung.
+                    -->
+                    <Popup IsOpen="{Binding IsMenuOpen, Mode=TwoWay}"
+                           Placement="Bottom"
+                           PlacementTarget="{Binding ElementName=MenuToggle}"
+                           AllowsTransparency="True"
+                           StaysOpen="False">
+                        <Border Style="{StaticResource PopupBorderStyle}">
+                            <StackPanel>
+
+                                <!--
+                                    Menü-Header:
+                                    - Titel des Menüs.
+                                -->
+                                <TextBlock Text="Menü"
+                                           FontSize="18"
+                                           FontWeight="Bold"
+                                           Foreground="White"
+                                           Margin="0,0,0,10"
+                                           HorizontalAlignment="Left"/>
+                                <Separator Margin="0,0,0,10"
+                                           Background="Gray"
+                                           Height="1"/>
+
+                                <!--
+                                    Menü-Buttons:
+                                    - Buttons zur Navigation zu verschiedenen Funktionen der Anwendung.
+                                    - Jeder Button verwendet das NavigateCommand mit einem spezifischen CommandParameter.
+                                -->
+                                <Button Content="🏠 Hauptfenster"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="MainWindow"/>
+                                <Button Content="🔎 Artikel Suchen"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="ArticleSearch"/>
+                                <Button Content="⚖️ Kündigung"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="Termination"/>
+
+                                <Separator Margin="0,10,0,10"
+                                           Background="Gray"
+                                           Height="1"/>
+                                <Button Content="❓ Hilfe"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="Help"/>
+                            </StackPanel>
+                        </Border>
+                    </Popup>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!--
+            Trennlinie unter dem Header:
+            - Eine dünne Linie zur visuellen Trennung des Headers vom Hauptinhalt.
+        -->
+        <Rectangle Height="1" Fill="#333333" VerticalAlignment="Top" Margin="0,90,0,0"/>
+
+        <!--
+            Hauptinhalt:
+            - Ein Grid mit zwei Spalten:
+              1) Linke Spalte: Eingabeformular für die Lohnfortzahlung.
+              2) Rechte Spalte: Anzeige der Berechnungsergebnisse.
+        -->
+        <Grid Margin="20,100,20,20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!--
+                Eingabeformular:
+                - Enthält Eingabefelder für Startdatum und Ereignisdatum sowie einen Button zur Berechnung.
+                - Zeigt Fehlermeldungen an, wenn Eingaben ungültig sind.
+            -->
+            <Border Style="{StaticResource CardStyle}" Grid.Row="0" Grid.Column="0" Padding="20" Margin="0,0,10,0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <!-- Eingabefelder -->
+                        <RowDefinition Height="Auto"/>
+                        <!-- Fehlermeldung -->
+                        <RowDefinition Height="*"/>
+                        <!-- Spacer -->
+                        <RowDefinition Height="Auto"/>
+                        <!-- Berechnen-Button -->
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Grid.Row="0">
+                        <!-- Startdatum -->
+                        <StackPanel Orientation="Horizontal" Margin="0,10">
+                            <TextBlock Text="Startdatum:" FontSize="16" FontWeight="Bold" Foreground="{StaticResource TitleForeground}" Width="150" VerticalAlignment="Center"/>
+                            <DatePicker SelectedDate="{Binding StartDate}" Style="{StaticResource InputStyle}" Width="200"/>
+                        </StackPanel>
+
+                        <!-- Ereignisdatum -->
+                        <StackPanel Orientation="Horizontal" Margin="0,10">
+                            <TextBlock Text="Ereignisdatum:" FontSize="16" FontWeight="Bold" Foreground="{StaticResource TitleForeground}" Width="150" VerticalAlignment="Center"/>
+                            <DatePicker SelectedDate="{Binding EventDate}" Style="{StaticResource InputStyle}" Width="200"/>
+                        </StackPanel>
+
+                        <!-- Skala Dropdown -->
+                        <StackPanel Orientation="Horizontal" Margin="0,10">
+                            <TextBlock Text="Skala:" FontSize="16" FontWeight="Bold" Foreground="{StaticResource TitleForeground}" Width="150" VerticalAlignment="Center"/>
+                            <ComboBox ItemsSource="{Binding Scales}" 
+                                      SelectedItem="{Binding SelectedScale}" 
+                                      Style="{StaticResource InputStyle}" 
+                                      Width="200"
+                                      Margin="0,0,0,0">
+                            </ComboBox>
+                        </StackPanel>
+
+                        <!-- Erklärungstext -->
+                        <TextBlock Text="Der Lohnfortzahlungsberechner hilft Ihnen, die Dauer und den Anspruch auf Lohnfortzahlung basierend auf den eingegebenen Daten zu berechnen."
+                                   FontSize="14" 
+                                   Foreground="{StaticResource SubtitleForeground}" 
+                                   Margin="0,20,0,10"
+                                   TextWrapping="Wrap"/>
+                    </StackPanel>
+
+
+                    <!--
+                        Fehlermeldung:
+                        - Zeigt eine Fehlermeldung an, wenn ein Fehler während der Berechnung auftritt.
+                        - Sichtbarkeit wird durch den StringToVisibilityConverter gesteuert.
+                    -->
+                    <TextBlock Grid.Row="1"
+                               Text="{Binding ErrorMessage}"
+                               Foreground="Red"
+                               TextWrapping="Wrap"
+                               FontSize="14"
+                               Visibility="{Binding ErrorMessage, Converter={StaticResource StringToVisibilityConverter}}"
+                               Margin="0,10,0,10"/>
+
+                    <!--
+                        Spacer für Layout:
+                        - Nimmt den verfügbaren Platz ein, um den Button am unteren Rand zu positionieren.
+                    -->
+                    <Grid Grid.Row="2"/>
+
+                    <!--
+                        Berechnen-Button:
+                        - Löst das CalculateCommand aus, um die Lohnfortzahlung zu berechnen.
+                    -->
+                    <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+                        <Button Content="Berechnung" Style="{StaticResource PrimaryButton}" Command="{Binding CalculateCommand}" Width="150"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+            <!--
+                Ergebnisanzeige:
+                - Zeigt die Ergebnisse der Berechnung an (Dauer in Tagen, Wochen und Monaten).
+            -->
+            <Border Style="{StaticResource CardStyle}" Grid.Row="0" Grid.Column="1" Padding="20" Margin="10,0,0,0">
+                <StackPanel>
+                    <TextBlock Text="Ergebnis Lohnfortzahlung" FontSize="20" FontWeight="Bold" Foreground="{StaticResource TitleForeground}" Margin="0,0,0,10"/>
+                    <TextBlock Text="Hier sehen Sie das Ergebnis der Lohnfortzahlung." TextWrapping="Wrap" FontSize="16" Foreground="{StaticResource SubtitleForeground}" Margin="0,0,0,10"/>
+
+                    <!--
+                        Ergebnisbindung:
+                        - Zeigt die berechnete Dauer in Tagen, Wochen und Monaten an.
+                    -->
+                    <StackPanel Margin="0,10">
+                        <!-- Dauer in Tagen -->
+                        <TextBlock Text="Tage:" FontSize="16" FontWeight="Bold" Foreground="{StaticResource TitleForeground}" Margin="0,5,0,0"/>
+                        <TextBlock Text="{Binding Duration}" FontSize="16" Foreground="{StaticResource SubtitleForeground}" Margin="0,0,0,10"/>
+
+                        <!-- Dauer in Wochen -->
+                        <TextBlock Text="Wochen:" FontSize="16" FontWeight="Bold" Foreground="{StaticResource TitleForeground}" Margin="0,5,0,0"/>
+                        <TextBlock Text="{Binding WeeksResult}" FontSize="16" Foreground="{StaticResource SubtitleForeground}" Margin="0,0,0,10"/>
+
+                        <!-- Dauer in Monaten -->
+                        <TextBlock Text="Monate:" FontSize="16" FontWeight="Bold" Foreground="{StaticResource TitleForeground}" Margin="0,5,0,0"/>
+                        <TextBlock Text="{Binding MonthsResult}" FontSize="16" Foreground="{StaticResource SubtitleForeground}" Margin="0,0,0,10"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+
+            <!--
+                Tipps-Bereich:
+                - Zeigt hilfreiche Tipps an, um den Benutzer bei der Eingabe der Daten zu unterstützen.
+            -->
+            <StackPanel Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,20,0,0">
+                <TextBlock Text="💡 Tipp:"
+                           FontSize="18"
+                           FontWeight="Bold"
+                           Foreground="{StaticResource TitleForeground}"
+                           Margin="0,0,0,5"/>
+                <TextBlock Text="{Binding TooltipViewModel.CurrentTooltip.Message}"
+                           FontSize="14"
+                           Foreground="{StaticResource DescriptionForeground}"
+                           TextWrapping="Wrap"/>
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,2263 @@
+[
+  {
+    "id": 1,
+    "article_name": "319",
+    "description": "Art. 319 regelt den Einzelarbeitsvertrag. Dabei verpflichtet sich der Arbeitnehmer, für eine bestimmte oder unbestimmte Zeit Arbeit im Dienst des Arbeitgebers zu leisten, während dieser zur Entrichtung eines Lohnes verpflichtet ist. Der Lohn kann als Zeitlohn oder Akkordlohn bemessen werden. Auch Teilzeitarbeit gilt als Einzelarbeitsvertrag, wenn der Arbeitnehmer sich zur regelmässigen Leistung von stunden-, halbtage- oder tageweiser Arbeit verpflichtet. Voraussetzung für das Vorliegen eines Einzelarbeitsvertrags ist, dass Arbeit entgegengenommen und ein Lohn geschuldet wird. Bei Ungültigkeit des Vertrags muss das Arbeitsverhältnis dennoch erfüllt werden, bis es wegen Ungültigkeit aufgehoben wird.",
+    "signalwords": [
+      "Einzelarbeitsvertrag",
+      "Begriff",
+      "Lohn",
+      "Pflichten",
+      "Entstehung",
+      "Arbeitspflicht",
+      "Arbeitsvertrag Schweiz",
+      "OR 319",
+      "Arbeitsverhältnis",
+      "Vertragstyp"
+    ]
+  },
+  {
+    "id": 2,
+    "article_name": "320",
+    "description": "Art. 320 schreibt vor, dass der Einzelarbeitsvertrag im Regelfall keiner besonderen Form bedarf, es sei denn, eine gesetzliche Bestimmung verlange dies. Ein Vertragsschluss kann auch stillschweigend erfolgen, wenn Arbeit entgegengenommen wird, die nur gegen Lohn erwartet werden kann. Wird ein Arbeitsvertrag nachträglich als ungültig erkannt, so sind die Pflichten dennoch wie bei einem gültigen Vertrag zu erfüllen, bis eine Partei die Ungültigkeit geltend macht und den Vertrag aufhebt.",
+    "signalwords": [
+      "Formfreiheit",
+      "Vertragsschluss",
+      "Gültigkeit",
+      "Stillschweigend",
+      "Lohn zu erwarten",
+      "OR 320",
+      "formloser Vertrag",
+      "Arbeitsvertrag Abschluss",
+      "Rechtsgültigkeit",
+      "schriftliche Vereinbarung"
+    ]
+  },
+  {
+    "id": 3,
+    "article_name": "321",
+    "description": "Art. 321 regelt die persönliche Arbeitspflicht des Arbeitnehmers. Dieser hat die vertraglich übernommene Arbeit grundsätzlich in eigener Person zu leisten, sofern dies nicht anders vereinbart ist oder aus den Umständen hervorgeht. Damit wird sichergestellt, dass die vereinbarte Arbeitsleistung nicht ohne Zustimmung des Arbeitgebers auf Dritte übertragen wird.",
+    "signalwords": [
+      "Persönliche Leistung",
+      "Nicht-Übertragbar",
+      "Arbeitnehmerpflicht",
+      "Ausnahmen",
+      "OR 321",
+      "Arbeitsleistung",
+      "Eigenleistung",
+      "Arbeitspflicht",
+      "Direkte Verpflichtung",
+      "Vertragserfüllung"
+    ]
+  },
+  {
+    "id": 4,
+    "article_name": "321a",
+    "description": "Art. 321a beschreibt die Sorgfalts- und Treuepflicht des Arbeitnehmers. Er hat die ihm übertragene Arbeit sorgfältig auszuführen und die berechtigten Interessen des Arbeitgebers zu wahren. Dabei darf er insbesondere keine Konkurrenzierung vornehmen und muss Fabrikations- und Geschäftsgeheimnisse wahren. Auch die pflegliche Behandlung von Maschinen, Arbeitsgeräten oder Material ist Teil der Sorgfalts- und Treuepflicht. Eine Verletzung dieser Pflichten kann zu Haftungsfolgen oder anderen arbeitsrechtlichen Konsequenzen führen.",
+    "signalwords": [
+      "Sorgfalt",
+      "Treuepflicht",
+      "Geheimhaltung",
+      "Konkurrenz",
+      "Geschäftsgeheimnisse",
+      "OR 321a",
+      "Arbeitnehmerverhalten",
+      "Interessenwahrung",
+      "Wettbewerbsverbot",
+      "Vertrauensbasis"
+    ]
+  },
+  {
+    "id": 5,
+    "article_name": "321b",
+    "description": "Art. 321b regelt die Rechenschafts- und Herausgabepflicht. Arbeitnehmer haben dem Arbeitgeber über alles, was sie bei ihrer vertraglichen Tätigkeit von Dritten erhalten, Rechenschaft abzulegen und es unverzüglich herauszugeben. Gleiches gilt für alles, was sie in Ausübung ihrer vertraglichen Tätigkeit hervorbringen. Diese Pflicht schützt das Vermögen des Arbeitgebers und verhindert ungerechtfertigte Bereicherungen des Arbeitnehmers.",
+    "signalwords": [
+      "Rechenschaftspflicht",
+      "Herausgabe",
+      "Dritte",
+      "Empfang",
+      "Arbeitserzeugnis",
+      "OR 321b",
+      "Arbeitnehmerpflicht",
+      "Treuhandverhältnis",
+      "Abgabepflicht",
+      "Vermögenswerte"
+    ]
+  },
+  {
+    "id": 6,
+    "article_name": "321c",
+    "description": "Art. 321c behandelt die Überstundenarbeit. Wenn die übliche oder vertraglich vereinbarte Arbeitszeit nicht ausreicht und Überstunden notwendig sind, ist der Arbeitnehmer verpflichtet, soweit es zumutbar ist, Überstunden zu leisten. Als Ausgleich können entweder Freizeit oder ein Lohnzuschlag von mindestens 25% gewährt werden, sofern keine andere schriftliche Regelung existiert. Die Zumutbarkeit wird unter Treu und Glauben beurteilt, etwa im Hinblick auf Gesundheit und familiäre Pflichten.",
+    "signalwords": [
+      "Überstunden",
+      "Zumutbar",
+      "Freizeitausgleich",
+      "Lohnzuschlag",
+      "25 Prozent",
+      "OR 321c",
+      "Mehrarbeit",
+      "Arbeitszeit",
+      "Schriftliche Vereinbarung",
+      "Ausgleichsregelung"
+    ]
+  },
+  {
+    "id": 7,
+    "article_name": "321d",
+    "description": "Gemäss Art. 321d kann der Arbeitgeber betriebsinterne Vorschriften und Weisungen zu Ausführung und Verhalten im Betrieb erlassen. Diese Anordnungen sind vom Arbeitnehmer nach Treu und Glauben zu befolgen. Damit drückt sich das sogenannte Weisungsrecht des Arbeitgebers aus, welches auf den reibungslosen Betriebsablauf und den Schutz der betrieblichen Interessen abzielt.",
+    "signalwords": [
+      "Weisungsrecht",
+      "Anordnungen",
+      "Betrieb",
+      "Befolgung",
+      "Treu und Glauben",
+      "OR 321d",
+      "Direktionsrecht",
+      "Führung",
+      "Betriebsordnung",
+      "Vertragsgehorsam"
+    ]
+  },
+  {
+    "id": 8,
+    "article_name": "321e",
+    "description": "Art. 321e regelt die Haftung des Arbeitnehmers. Dieser ist für Schäden verantwortlich, die er dem Arbeitgeber durch absichtliche oder fahrlässige Handlungen zufügt. Die zu erwartende Sorgfalt richtet sich nach dem Berufsrisiko, dem Ausbildungsniveau sowie den Fähigkeiten des Arbeitnehmers. Dadurch wird verhindert, dass Arbeitnehmer unbegrenzt haften und gibt dem Arbeitgeber einen gewissen Schutz gegen nachlässige oder schädigende Verhaltensweisen.",
+    "signalwords": [
+      "Haftung Arbeitnehmer",
+      "Schaden",
+      "Fahrlässigkeit",
+      "Berufsrisiko",
+      "OR 321e",
+      "Sorgfaltsmassstab",
+      "Absicht",
+      "Verantwortung",
+      "Pflichtverletzung",
+      "Schadenersatz"
+    ]
+  },
+  {
+    "id": 9,
+    "article_name": "322",
+    "description": "Art. 322 bestimmt, dass der Arbeitgeber den vereinbarten oder üblichen Lohn zahlen muss. Sofern nichts Gegenteiliges vereinbart wurde, gelten Naturalleistungen wie Unterkunft und Verpflegung als Teil des Lohns (Naturallohn). Diese Vorschrift bildet die Grundlage für alle Lohnarten (Zeit-, Stück- oder andere Lohnformen) und sorgt für einen klaren Vergütungsanspruch der Arbeitnehmer.",
+    "signalwords": [
+      "Lohn",
+      "Naturallohn",
+      "Üblich",
+      "Vereinbart",
+      "OR 322",
+      "Barlohn",
+      "Entgelt",
+      "Vergütung",
+      "Lohnbestandteile",
+      "Arbeitsentgelt"
+    ]
+  },
+  {
+    "id": 10,
+    "article_name": "322a",
+    "description": "Nach Art. 322a besteht ein Anspruch des Arbeitnehmers auf einen Anteil am Gewinn, Umsatz oder sonstigem Geschäftsergebnis, falls dies vertraglich vereinbart ist. Massgebend für die Berechnung ist das Geschäftsergebnis, das nach gesetzlichen Vorschriften und anerkannten kaufmännischen Grundsätzen festgestellt wird. Den Arbeitnehmern steht das Recht zu, Auskunft zu erhalten und gegebenenfalls Einsicht in Bücher zu nehmen, sofern dies zur Kontrolle erforderlich ist.",
+    "signalwords": [
+      "Gewinnbeteiligung",
+      "Umsatzbeteiligung",
+      "Geschäftsergebnis",
+      "Auskunft",
+      "Einsicht",
+      "OR 322a",
+      "Beteiligungsmodell",
+      "Rechnungslegung",
+      "Vergütungsregelung",
+      "Transparenz"
+    ]
+  },
+  {
+    "id": 11,
+    "article_name": "322b",
+    "description": "Art. 322b legt fest, dass ein Provisionsanspruch des Arbeitnehmers entsteht, sobald ein Geschäft mit einem Dritten rechtsgültig abgeschlossen ist. Bei Ratenzahlungen kann schriftlich vereinbart werden, dass der Provisionsanspruch anteilig entsteht, sobald eine Rate fällig wird. Gleichzeitig schützt der Artikel den Arbeitgeber, indem er den Provisionsanspruch entfallen lassen kann, wenn das Geschäft ohne Verschulden des Arbeitgebers nicht ausgeführt wird oder der Dritte seine Verbindlichkeiten nicht erfüllt.",
+    "signalwords": [
+      "Provision",
+      "Rechtsgültiges Geschäft",
+      "Ratenzahlung",
+      "Anspruch",
+      "OR 322b",
+      "Provisionsregelung",
+      "Entstehung Provisionsanspruch",
+      "Teilzahlung",
+      "Vertragsabschluss",
+      "Fälligkeit"
+    ]
+  },
+  {
+    "id": 12,
+    "article_name": "322c",
+    "description": "In Art. 322c ist die Abrechnung der Provision geregelt. Ist nicht vereinbart, dass der Arbeitnehmer selbst abrechnet, so hat der Arbeitgeber dem Arbeitnehmer auf jeden Fälligkeitstermin eine schriftliche Provisionsabrechnung auszuhändigen. Der Arbeitnehmer oder eine von ihm bezeichnete Vertrauensperson hat das Recht auf Aufschlüsse und Einsicht in die relevanten Geschäftsunterlagen, um die Provisionsberechnung zu überprüfen.",
+    "signalwords": [
+      "Provisionsabrechnung",
+      "Bücher-Einsicht",
+      "Arbeitgeberpflicht",
+      "Nachprüfung",
+      "OR 322c",
+      "Transparente Abrechnung",
+      "Kontrollrecht",
+      "Provisionskontrolle",
+      "Dokumentation",
+      "Vertrauensschutz"
+    ]
+  },
+  {
+    "id": 13,
+    "article_name": "322d",
+    "description": "Art. 322d behandelt die Gratifikation. Handelt es sich beispielsweise um eine Sondervergütung (z.B. Weihnachtsgeld), so entsteht ein Anspruch darauf, wenn dies vertraglich vereinbart ist. Sollte das Arbeitsverhältnis frühzeitig enden, kann unter Umständen ein anteiliger Anspruch auf die Gratifikation bestehen, sofern dies ebenfalls ausdrücklich geregelt wurde.",
+    "signalwords": [
+      "Gratifikation",
+      "Sondervergütung",
+      "Weihnachtsgeld",
+      "Anteilig",
+      "OR 322d",
+      "Bonus",
+      "Vergütungsmodell",
+      "Jahresendprämie",
+      "Auszahlungsanspruch",
+      "Zusatzleistung"
+    ]
+  },
+  {
+    "id": 14,
+    "article_name": "323",
+    "description": "Gemäss Art. 323 ist der Lohn in der Regel am Ende eines jeden Monats auszuzahlen, sofern keine kürzeren Fristen oder anderen Termine vereinbart oder üblich sind. Bei finanzieller Notlage des Arbeitnehmers besteht ein Anspruch auf einen Vorschuss, wenn der Arbeitgeber ihn billigerweise gewähren kann. Die Auszahlungstermine für Provisionen und Gewinnanteile können ebenfalls gesondert geregelt werden, bleiben aber in der Regel an den Monatsrhythmus gebunden.",
+    "signalwords": [
+      "Lohnzahlung",
+      "Zahlungsfrist",
+      "Vorschuss",
+      "Notlage",
+      "OR 323",
+      "Monatsende",
+      "Zahlungsmodalität",
+      "Fälligkeit Lohn",
+      "Lohntermin",
+      "Vorfinanzierung"
+    ]
+  },
+  {
+    "id": 15,
+    "article_name": "324",
+    "description": "Art. 324 beschreibt den Annahmeverzug: Wenn der Arbeitgeber aus eigenem Verschulden oder aus anderen Gründen die Arbeitsleistung nicht annimmt, bleibt er dennoch zur Lohnzahlung verpflichtet. Der Arbeitnehmer ist in diesem Fall nicht verpflichtet, die nicht geleistete Arbeit nachzuholen, muss sich aber anrechnen lassen, was er sich durch die Verhinderung erspart hat oder durch anderweitige Arbeit erzielen könnte.",
+    "signalwords": [
+      "Annahmeverzug",
+      "Arbeitgeberverschulden",
+      "Lohnfortzahlung",
+      "OR 324",
+      "Zahlungspflicht",
+      "Arbeitsunmöglichkeit",
+      "Unterbrechung",
+      "Vertragsstörung",
+      "Pflichtverletzung",
+      "Vergütungsanspruch"
+    ]
+  },
+  {
+    "id": 16,
+    "article_name": "324a",
+    "description": "Art. 324a regelt die Lohnfortzahlung des Arbeitgebers bei persönlicher Verhinderung des Arbeitnehmers, etwa aufgrund von Krankheit, Unfall oder Erfüllung gesetzlicher Pflichten. Voraussetzung ist ein unverschuldeter Grund sowie eine Mindestdauer des Arbeitsverhältnisses von drei Monaten. Je nach Dauer des Arbeitsverhältnisses ist der Lohn für eine bestimmte Zeit fortzuzahlen. Diese Regelung dient dem Schutz des Arbeitnehmers bei unvorhergesehenen Ereignissen.",
+    "signalwords": [
+      "Lohnfortzahlung",
+      "Krankheit",
+      "Unfall",
+      "3 Monate",
+      "Keine Schuld",
+      "OR 324a",
+      "Persönliche Verhinderung",
+      "Gesundheitliche Gründe",
+      "Abwesenheit",
+      "Entgeltfortzahlung"
+    ]
+  },
+  {
+    "id": 17,
+    "article_name": "324b",
+    "description": "Unter Art. 324b fallen die Ausnahmen bei obligatorisch versicherten Arbeitnehmern. Ist ein Arbeitnehmer beispielsweise gegen Unfall obligatorisch versichert, so ist der Arbeitgeber nur insoweit zur Lohnfortzahlung verpflichtet, als die Versicherungsleistungen weniger als 80% des Lohnes betragen. Andernfalls wird die Differenz zwischen Versicherungsleistung und 80% des Lohnes vom Arbeitgeber übernommen. Für Wartetage kann er zudem mindestens 80% des Lohnes zahlen müssen.",
+    "signalwords": [
+      "Versicherung",
+      "80 Prozent",
+      "Differenz",
+      "Obligatorisch versichert",
+      "OR 324b",
+      "Unfallversicherung",
+      "Krankentaggeld",
+      "Arbeitgeberanteil",
+      "Leistungslücke",
+      "Lohnersatz"
+    ]
+  },
+  {
+    "id": 18,
+    "article_name": "325",
+    "description": "Art. 325 regelt die Abtretung und Verpfändung künftiger Lohnforderungen. Diese sind nur zur Sicherung familienrechtlicher Unterhalts- und Unterstützungspflichten zulässig. Für andere Verbindlichkeiten ist eine solche Abtretung oder Verpfändung nichtig. Das Betreibungsamt kann den unpfändbaren Betrag festsetzen, damit nur ein gewisser Teil des Lohns für solche Ansprüche herangezogen wird.",
+    "signalwords": [
+      "Abtretung",
+      "Verpfändung",
+      "Lohnforderungen",
+      "Unterhaltspflichten",
+      "Nichtigkeit",
+      "OR 325",
+      "Familienrecht",
+      "Zulässigkeit",
+      "Forderungssicherung",
+      "Vertragliche Beschränkung"
+    ]
+  },
+  {
+    "id": 19,
+    "article_name": "326",
+    "description": "Gemäss Art. 326 betrifft Akkordlohnarbeit ausschliesslich Arbeitnehmer, die vertraglich nur Akkordlohnarbeit für einen Arbeitgeber leisten. Ist der Arbeitgeber nicht in der Lage, ausreichend Akkordarbeit zuzuweisen, kann vorübergehend auch Zeitlohnarbeit verlangt werden. Liegt kein Verschulden des Arbeitgebers vor, muss er dennoch den durchschnittlichen Akkordlohn zahlen, wenn keine Akkordarbeit zugewiesen werden kann. Kommt er in Annahmeverzug, ist er ebenfalls zur Lohnzahlung verpflichtet.",
+    "signalwords": [
+      "Akkordlohn",
+      "Zuweisung",
+      "Zeitlohn",
+      "Betriebsverhältnisse",
+      "OR 326",
+      "Produktionsarbeit",
+      "Arbeitsvolumen",
+      "Vergütungsmodell",
+      "Stücklohn",
+      "Anordnungsrecht"
+    ]
+  },
+  {
+    "id": 20,
+    "article_name": "326a",
+    "description": "Nach Art. 326a muss bei Akkordlohnarbeit der Akkordlohnansatz vor Beginn jeder einzelnen Arbeit bekanntgegeben werden. Unterbleibt diese Bekanntgabe, ist der Lohnsatz zu zahlen, der für gleichartige oder ähnliche Arbeiten üblich ist. Diese Vorschrift schützt Arbeitnehmer davor, überraschend zu ungünstigen Ansätzen arbeiten zu müssen.",
+    "signalwords": [
+      "Akkordlohn",
+      "Bekanntgabe",
+      "Üblich",
+      "Vertrag",
+      "OR 326a",
+      "Stücklohnansatz",
+      "Vor Arbeitsbeginn",
+      "Offenlegung",
+      "Vergütungsvereinbarung",
+      "Tarifsatz"
+    ]
+  },
+  {
+    "id": 21,
+    "article_name": "327",
+    "description": "Art. 327 legt fest, dass der Arbeitgeber in der Regel Geräte und Material zur Verfügung stellt, sofern nichts anderes verabredet oder üblich ist. Wenn jedoch der Arbeitnehmer im Einverständnis mit dem Arbeitgeber eigene Geräte oder Materialien einsetzt, steht ihm eine angemessene Entschädigung zu. Diese Regelung soll den Aufwand des Arbeitnehmers ausgleichen und sicherstellen, dass keine unzumutbaren Zusatzkosten entstehen.",
+    "signalwords": [
+      "Arbeitsgeräte",
+      "Material",
+      "Entschädigung",
+      "Bereitstellung",
+      "OR 327",
+      "Kostenersatz",
+      "Werkzeuge",
+      "Ressourcen",
+      "Arbeitnehmeraufwand",
+      "Vertragsregelung"
+    ]
+  },
+  {
+    "id": 22,
+    "article_name": "327a",
+    "description": "Art. 327a behandelt Auslagenersatz im Allgemeinen. Der Arbeitgeber hat sämtliche Auslagen zu ersetzen, die im Rahmen der Arbeit notwendig anfallen, einschliesslich solcher für auswärtige Einsätze. Pauschalen wie Taggelder sind zulässig, solange sie sämtliche notwendigen Aufwendungen decken. Vereinbarungen, wonach der Arbeitnehmer diese Kosten vollständig selbst tragen muss, sind nichtig.",
+    "signalwords": [
+      "Auslagen",
+      "Spesen",
+      "Taggeld",
+      "Kostendeckung",
+      "Reisekosten",
+      "OR 327a",
+      "Spesenregelung",
+      "Kostenerstattung",
+      "Reisespesen",
+      "Pauschale"
+    ]
+  },
+  {
+    "id": 23,
+    "article_name": "327b",
+    "description": "Art. 327b spezifiziert den Kostenersatz bei der Benutzung eines Motorfahrzeugs im Einverständnis mit dem Arbeitgeber. Dazu zählen Betriebskosten (Treibstoff, Unterhalt) und, wenn der Arbeitnehmer sein eigenes Fahrzeug nutzt, auch Abnutzung, Versicherungsprämien und Steuern. Der Umfang der Vergütung ist abhängig vom Gebrauchsanteil, der beruflich bedingt ist.",
+    "signalwords": [
+      "Motorfahrzeug",
+      "Kostenersatz",
+      "Unterhalt",
+      "Abnutzung",
+      "Einverständnis",
+      "OR 327b",
+      "Fahrzeugnutzung",
+      "Versicherungskosten",
+      "Steuern",
+      "Spesenersatz"
+    ]
+  },
+  {
+    "id": 24,
+    "article_name": "327c",
+    "description": "Art. 327c verlangt, dass Auslagenersatz regelmässig zusammen mit dem Lohn ausgerichtet wird, sofern keine kürzere Frist vereinbart ist. Muss der Arbeitnehmer regelmässig Auslagen tätigen, hat er einen Anspruch auf einen monatlichen oder periodischen Vorschuss in angemessener Höhe. Damit wird sichergestellt, dass dem Arbeitnehmer keine unzumutbaren Vorleistungen entstehen.",
+    "signalwords": [
+      "Auslagenersatz",
+      "Vorschuss",
+      "Lohn",
+      "Regelmässig",
+      "OR 327c",
+      "Spesenvorschuss",
+      "Kostenvorabdeckung",
+      "Lohnabrechnung",
+      "Ausgaben",
+      "Erstattungsanspruch"
+    ]
+  },
+  {
+    "id": 25,
+    "article_name": "328",
+    "description": "Art. 328 verpflichtet den Arbeitgeber, die Persönlichkeit, Gesundheit und Sittlichkeit des Arbeitnehmers zu achten und zu schützen. Er muss Massnahmen treffen, um sexuelle Belästigung zu verhindern und die Sicherheit am Arbeitsplatz zu gewährleisten. Zudem ist er verantwortlich dafür, dass Arbeitnehmerinnen und Arbeitnehmer vor Nachteilen bewahrt werden, wenn sie Opfer von Belästigungen wurden.",
+    "signalwords": [
+      "Persönlichkeitsschutz",
+      "Gesundheit",
+      "Sittlichkeit",
+      "Arbeitgeberpflicht",
+      "Belästigung",
+      "OR 328",
+      "Arbeitssicherheit",
+      "Fürsorgepflicht",
+      "Prävention",
+      "Gesundheitsschutz"
+    ]
+  },
+  {
+    "id": 26,
+    "article_name": "328a",
+    "description": "Nach Art. 328a hat der Arbeitgeber bei Hausgemeinschaften für ausreichende Verpflegung und einwandfreie Unterkunft zu sorgen. Wird der Arbeitnehmer ohne eigenes Verschulden krank oder hat er einen Unfall, so hat der Arbeitgeber Pflege und ärztliche Behandlung für eine beschränkte Zeit zu gewähren. Bei Schwangerschaft gelten die gleichen Leistungen. Diese Bestimmung soll Schutz und Versorgung des Arbeitnehmers in häuslicher Gemeinschaft garantieren.",
+    "signalwords": [
+      "Hausgemeinschaft",
+      "Verpflegung",
+      "Unterkunft",
+      "Krankheit",
+      "Pflege",
+      "OR 328a",
+      "Betreuung",
+      "Ärztliche Versorgung",
+      "Unterhaltsverhältnis",
+      "Sachleistungen"
+    ]
+  },
+  {
+    "id": 27,
+    "article_name": "328b",
+    "description": "Art. 328b regelt den Datenschutz im Arbeitsverhältnis. Arbeitgeber dürfen Personendaten nur insoweit bearbeiten, als sie für das Arbeitsverhältnis erforderlich sind oder die Eignung des Arbeitnehmers betreffen. Alle darüber hinausgehenden Datenbearbeitungen, die nicht notwendig sind, verstossen gegen das Persönlichkeitsrecht des Arbeitnehmers und sind unzulässig.",
+    "signalwords": [
+      "Personendaten",
+      "Datenschutz",
+      "Eignung",
+      "Notwendigkeit",
+      "Bearbeitung",
+      "OR 328b",
+      "Privacy",
+      "Datenverarbeitung",
+      "Informationsschutz",
+      "Persönlichkeitsrecht"
+    ]
+  },
+  {
+    "id": 28,
+    "article_name": "329",
+    "description": "Art. 329 schreibt eine wöchentliche Freizeit vor, in der Regel einen freien Tag pro Woche (möglichst Sonntag). Besondere Umstände können es erlauben, freie Tage zusammenzulegen oder durch zwei halbe freie Tage zu ersetzen. Zudem sind übliche freie Stunden und Tage (z.B. Feiertage) zu gewähren. Nach einer Kündigung hat der Arbeitnehmer während der Arbeitszeit Anspruch auf die nötige Zeit, um eine neue Stelle zu suchen.",
+    "signalwords": [
+      "Freizeit",
+      "Wöchentlicher Ruhetag",
+      "Sonntag",
+      "Arbeitsrhythmus",
+      "OR 329",
+      "Erholung",
+      "Wochenende",
+      "Freier Tag",
+      "Regelmässige Pause",
+      "Arbeitszeitgesetz"
+    ]
+  },
+  {
+    "id": 29,
+    "article_name": "329a",
+    "description": "Art. 329a legt die minimale Feriendauer fest: Pro Dienstjahr hat der Arbeitnehmer Anspruch auf mindestens vier Wochen Ferien, Arbeitnehmer unter 20 Jahren erhalten mindestens fünf Wochen. Für unvollständige Dienstjahre werden die Ferien anteilig gewährt. Diese Regel dient der Erholung und hat zwingenden Charakter. Kürzungen oder Abgeltungen sind nur in eng umgrenzten Fällen zulässig.",
+    "signalwords": [
+      "Ferien",
+      "Mindestdauer",
+      "4 Wochen",
+      "Unter 20 Jahren",
+      "5 Wochen",
+      "OR 329a",
+      "Ferienanspruch",
+      "Erholungsurlaub",
+      "Altersgrenze",
+      "Urlaubstage"
+    ]
+  },
+  {
+    "id": 30,
+    "article_name": "329b",
+    "description": "Art. 329b ermöglicht eine Kürzung der Ferien, wenn der Arbeitnehmer sein Verschulden an einer länger als einen Monat dauernden Arbeitsverhinderung trägt. Bei kürzeren Abwesenheiten oder unverschuldeten Verhinderungen (z.B. Krankheit, Unfall) darf keine Kürzung erfolgen, sofern sie nicht länger als einen Monat andauern. Dadurch wird die Erholungszeit weitgehend geschützt.",
+    "signalwords": [
+      "Ferienkürzung",
+      "Verhinderung",
+      "Schuldhaft",
+      "Unverschuldet",
+      "OR 329b",
+      "Abwesenheit",
+      "Krankheit",
+      "Fehlzeiten",
+      "Ferienberechnung",
+      "Ausnahmeregelung"
+    ]
+  },
+  {
+    "id": 31,
+    "article_name": "329c",
+    "description": "Gemäss Art. 329c sollen Ferien grundsätzlich im laufenden Dienstjahr bezogen werden; mindestens zwei Wochen davon müssen am Stück gewährt werden. Die konkrete Terminbestimmung liegt beim Arbeitgeber, der jedoch auf die Wünsche des Arbeitnehmers Rücksicht nehmen muss, soweit dies mit den betrieblichen Interessen vereinbar ist.",
+    "signalwords": [
+      "Ferienbezug",
+      "Zusammenhängend",
+      "Zeitpunkt",
+      "Rücksichtnahme",
+      "OR 329c",
+      "Erholungsphase",
+      "Planung",
+      "Dienstjahr",
+      "Urlaubsgewährung",
+      "Arbeitgeberentscheidung"
+    ]
+  },
+  {
+    "id": 32,
+    "article_name": "329d",
+    "description": "Art. 329d legt fest, dass während der Ferien der volle Lohn zu bezahlen ist und keine Abgeltung in Geld oder Sachleistungen erlaubt ist, solange das Arbeitsverhältnis andauert. Eine Ausnahme besteht nur beim Austritt aus dem Betrieb. Werden während der Ferien entgeltliche Arbeiten für Dritte geleistet, welche die Interessen des Arbeitgebers beeinträchtigen, kann der Ferienlohn verweigert oder zurückgefordert werden.",
+    "signalwords": [
+      "Ferienlohn",
+      "Kein Geldausgleich",
+      "Abgeltung",
+      "Ferien",
+      "OR 329d",
+      "Entgelt",
+      "Urlaubsvergütung",
+      "Sachleistungen",
+      "Auszahlung Verbot",
+      "Urlaubsrecht"
+    ]
+  },
+  {
+    "id": 33,
+    "article_name": "329e",
+    "description": "Art. 329e regelt den Jugendurlaub: Arbeitnehmer bis zum vollendeten 30. Altersjahr haben Anspruch auf bis zu einer Woche unbezahlten Urlaub pro Dienstjahr für unentgeltliche Leitungs-, Betreuungs- oder Beratungstätigkeiten in Jugendorganisationen. Dies fördert ehrenamtliches Engagement im kulturellen oder sozialen Bereich und dient der Stärkung der Jugendarbeit.",
+    "signalwords": [
+      "Jugendurlaub",
+      "Unbezahlt",
+      "Ehrenamt",
+      "Jugendarbeit",
+      "OR 329e",
+      "Vereinstätigkeit",
+      "Freiwilligenarbeit",
+      "Bis 30 Jahre",
+      "Betreuungstätigkeit",
+      "Beratungstätigkeit"
+    ]
+  },
+  {
+    "id": 34,
+    "article_name": "329f",
+    "description": "Art. 329f spricht der Arbeitnehmerin nach der Niederkunft einen Mutterschaftsurlaub von mindestens 14 Wochen zu. Während dieser Zeit hat sie einen Anspruch auf Lohnersatz, sofern die gesetzlichen Voraussetzungen dafür erfüllt sind (z.B. Mutterschaftsentschädigung). Die Regelung dient dem Schutz von Mutter und Kind und ist zwingend.",
+    "signalwords": [
+      "Mutterschaftsurlaub",
+      "14 Wochen",
+      "Niederkunft",
+      "Arbeitnehmerin",
+      "OR 329f",
+      "Mutterschutz",
+      "Lohnersatz",
+      "Schutzfrist",
+      "Elternzeit",
+      "BVG-Mutterschaft"
+    ]
+  },
+  {
+    "id": 35,
+    "article_name": "329g",
+    "description": "Nach Art. 329g hat der Vater Anspruch auf zwei Wochen Vaterschaftsurlaub, die innerhalb von sechs Monaten nach der Geburt des Kindes zu beziehen sind. Dieser Urlaub kann tageweise oder wochenweise genommen werden. Dadurch wird die Vereinbarkeit von Familie und Beruf gefördert.",
+    "signalwords": [
+      "Vaterschaftsurlaub",
+      "2 Wochen",
+      "6 Monate",
+      "Geburt",
+      "OR 329g",
+      "Elternzeit",
+      "Vaterrolle",
+      "Ausschöpfen Urlaub",
+      "Familienpolitik",
+      "Urlaubsanspruch"
+    ]
+  },
+  {
+    "id": 36,
+    "article_name": "329h",
+    "description": "Art. 329h führt den Pflegeurlaub für die Betreuung nahestehender Personen mit gesundheitlicher Beeinträchtigung ein. Pro Ereignis stehen bis zu drei Tage zu, insgesamt maximal zehn Tage pro Jahr. Dieser bezahlte Urlaub soll eine gewisse Flexibilität bei familiären Notlagen gewährleisten und den Arbeitnehmer vor Lohnausfall schützen.",
+    "signalwords": [
+      "Pflegeurlaub",
+      "Angehörige",
+      "3 Tage",
+      "10 Tage",
+      "Betreuung",
+      "OR 329h",
+      "Pflegebedürftigkeit",
+      "Familiäre Verpflichtung",
+      "Kurzabsenz",
+      "Entgeltfortzahlung"
+    ]
+  },
+  {
+    "id": 37,
+    "article_name": "330",
+    "description": "Art. 330 befasst sich mit der Kaution, die ein Arbeitnehmer zur Sicherung seiner vertraglichen Verpflichtungen beim Arbeitgeber hinterlegen kann. Sie ist getrennt vom Vermögen des Arbeitgebers aufzubewahren. Spätestens bei Beendigung des Arbeitsverhältnisses ist sie zurückzugeben, es sei denn, Ansprüche des Arbeitgebers seien noch unentschieden. In einem Konkursfall kann der Arbeitnehmer die Rückgabe der separat aufbewahrten Kaution verlangen.",
+    "signalwords": [
+      "Kaution",
+      "Sicherheit",
+      "Rückgabe",
+      "Getrennte Aufbewahrung",
+      "OR 330",
+      "Finanzielle Sicherheit",
+      "Mitarbeiterdepositum",
+      "Hinterlegung",
+      "Arbeitgeberverantwortung",
+      "Sicherheitsleistung"
+    ]
+  },
+  {
+    "id": 38,
+    "article_name": "330a",
+    "description": "Art. 330a regelt das Arbeitszeugnis. Arbeitnehmer können jederzeit ein Zeugnis verlangen, das über Art und Dauer des Arbeitsverhältnisses sowie über ihre Leistungen und ihr Verhalten Auskunft gibt. Auf Wunsch kann sich das Zeugnis auf eine reine Arbeitsbestätigung beschränken. Dieses Recht soll den Arbeitnehmer bei Bewerbungen unterstützen und ihm eine faire Beurteilung ermöglichen.",
+    "signalwords": [
+      "Arbeitszeugnis",
+      "Art und Dauer",
+      "Leistung",
+      "Verhalten",
+      "Bestätigung",
+      "OR 330a",
+      "Zeugnisanspruch",
+      "Referenz",
+      "Dokumentation",
+      "Formulierung"
+    ]
+  },
+  {
+    "id": 39,
+    "article_name": "330b",
+    "description": "Gemäss Art. 330b muss der Arbeitgeber den Arbeitnehmer, dessen Arbeitsverhältnis unbestimmt oder für mehr als einen Monat eingegangen ist, spätestens innerhalb eines Monats schriftlich über die wesentlichen Vertragsbedingungen informieren. Hierzu gehören unter anderem Namen der Vertragsparteien, Funktion, Lohn und wöchentliche Arbeitszeit. Änderungen während des Arbeitsverhältnisses sind ebenfalls schriftlich mitzuteilen.",
+    "signalwords": [
+      "Informationspflicht",
+      "1 Monat",
+      "Vertragspunkte",
+      "Arbeitsbedingungen",
+      "OR 330b",
+      "Nachweispflicht",
+      "Pflichtangaben",
+      "Arbeitsvertrag Details",
+      "Schriftliche Mitteilung",
+      "Vertragspartner"
+    ]
+  },
+  {
+    "id": 40,
+    "article_name": "331",
+    "description": "Art. 331 regelt die Personalvorsorge. Der Arbeitgeber muss Beiträge an Vorsorgeeinrichtungen weiterleiten und Arbeitnehmerbeiträge vom Lohn abziehen. Die Beiträge sind fristgerecht einzuzahlen. Zudem ist er verpflichtet, die Arbeitnehmer über ihre Forderungsrechte (z.B. gegen Pensionskassen) aufzuklären. So wird sichergestellt, dass Alters-, Invaliden- und Hinterlassenenvorsorge korrekt finanziert werden.",
+    "signalwords": [
+      "Personalvorsorge",
+      "Vorsorgeeinrichtung",
+      "Arbeitgeberpflicht",
+      "Beitragszahlung",
+      "OR 331",
+      "BVG",
+      "Pensionskasse",
+      "Aufklärungspflicht",
+      "Arbeitnehmerbeitrag",
+      "Altersvorsorge"
+    ]
+  },
+  {
+    "id": 41,
+    "article_name": "331a",
+    "description": "Art. 331a legt fest, dass der Vorsorgeschutz mit Beginn des Arbeitsverhältnisses eintritt und in der Regel mit dem Verlassen der Vorsorgeeinrichtung endet. Allerdings geniesst der Arbeitnehmer noch einen Monat Nachdeckung bei Tod oder Invalidität, wenn er noch keinen neuen Vorsorgeanschluss hat. Dies vermeidet Vorsorgelücken bei einem Arbeitgeberwechsel.",
+    "signalwords": [
+      "Vorsorgeschutz",
+      "Nachdeckung",
+      "Beginn/Ende",
+      "Invalidität",
+      "Tod",
+      "OR 331a",
+      "Pensionskassen-Eintritt",
+      "Austrittsdatum",
+      "Monatliche Nachdeckung",
+      "Nahtloser Schutz"
+    ]
+  },
+  {
+    "id": 42,
+    "article_name": "331b",
+    "description": "Art. 331b schützt künftige Vorsorgeleistungen vor vorzeitiger Abtretung oder Verpfändung. Solche Forderungen können nur in klar definierten Ausnahmen (z.B. Wohneigentumsförderung) übertragen werden. Damit bleibt das Existenzminimum und der Vorsorgeschutz für Alter, Invalidität oder Tod gewahrt.",
+    "signalwords": [
+      "Vorsorgeleistung",
+      "Abtretung",
+      "Verpfändung",
+      "Ungültig",
+      "Ausnahme",
+      "OR 331b",
+      "Pensionskasse",
+      "Fälligkeit",
+      "Gesetzliche Begrenzung",
+      "Rechtliche Unwirksamkeit"
+    ]
+  },
+  {
+    "id": 43,
+    "article_name": "331c",
+    "description": "Art. 331c erlaubt Vorsorgeeinrichtungen bei Tod und Invalidität gesundheitliche Vorbehalte zu machen. Diese dürfen jedoch höchstens fünf Jahre dauern. Damit werden die Risiken für die Vorsorgeeinrichtungen begrenzt, während der Arbeitnehmer trotzdem Versicherungsschutz geniesst.",
+    "signalwords": [
+      "Gesundheitlicher Vorbehalt",
+      "Tod",
+      "Invalidität",
+      "5 Jahre",
+      "Vorsorge",
+      "OR 331c",
+      "Risikoversicherung",
+      "Bedingte Leistungen",
+      "Einschränkung",
+      "Befristung"
+    ]
+  },
+  {
+    "id": 44,
+    "article_name": "331d",
+    "description": "Art. 331d regelt die Wohneigentumsförderung. Arbeitnehmer können einen Teil ihrer Freizügigkeitsleistung aus der beruflichen Vorsorge als Vorbezug oder durch Verpfändung nutzen, um selbstgenutztes Wohneigentum zu finanzieren. Damit wird der Erwerb eines Eigenheims gefördert und die private Altersvorsorge gleichzeitig einbezogen.",
+    "signalwords": [
+      "Wohneigentum",
+      "Freizügigkeitsleistung",
+      "Vorbezug",
+      "Verpfändung",
+      "Eigenbedarf",
+      "OR 331d",
+      "Wohnförderung",
+      "Pensionskassenbezug",
+      "Hauskauf",
+      "Eigenheim"
+    ]
+  },
+  {
+    "id": 45,
+    "article_name": "331e",
+    "description": "Gemäss Art. 331e ist ein Vorbezug aus der beruflichen Vorsorge bis drei Jahre vor Entstehung des Altersleistungsanspruchs möglich. Der Ehegatte oder eingetragene Partner muss schriftlich zustimmen. Bei einem solchen Vorbezug oder einer Verpfändung kann sich die spätere Vorsorgeleistung bei Tod, Invalidität oder Alter entsprechend reduzieren. Dies soll die Vorsorgeinstitution vor erhöhten Auszahlungen schützen und den Versicherten über die Folgen informieren.",
+    "signalwords": [
+      "Vorbezug",
+      "Eigenheim",
+      "Altersleistung",
+      "Ehegattenzustimmung",
+      "Kürzung",
+      "OR 331e",
+      "Pensionskasse",
+      "Vorzeitige Verwendung",
+      "Freizügigkeitskonto",
+      "Altersvorsorge"
+    ]
+  },
+  {
+    "id": 46,
+    "article_name": "331f",
+    "description": "Nach Art. 331f kann eine Vorsorgeeinrichtung bei Unterdeckung den Vorbezug oder die Verpfändung für Wohneigentum zeitlich oder betragsmässig einschränken, um die finanzielle Stabilität sicherzustellen. Der Bundesrat bestimmt die zulässigen Bedingungen. Die Unterdeckung bedeutet, dass die Vorsorgeeinrichtung nicht in vollem Umfang gedeckt ist und daher Massnahmen ergreifen muss.",
+    "signalwords": [
+      "Unterdeckung",
+      "Einschränkung",
+      "Vorbezug",
+      "Verpfändung",
+      "Vorsorgeeinrichtung",
+      "OR 331f",
+      "Finanzielle Situation",
+      "Risikomanagement",
+      "Deckungsgrad",
+      "Betragsgrenze"
+    ]
+  },
+  {
+    "id": 47,
+    "article_name": "332",
+    "description": "Art. 332 regelt die Rechte an Erfindungen und Designs. Schafft der Arbeitnehmer während der Erfüllung seiner vertraglichen Pflichten eine Erfindung oder ein Design, so gehört dieses grundsätzlich dem Arbeitgeber. Liegt die Erfindung ausserhalb der vertraglichen Pflicht, kann sich der Arbeitgeber den Erwerb gegen eine angemessene Vergütung vorbehalten. Dadurch werden Innovationen im Betrieb dem Arbeitgeber zugerechnet, sofern sie engen Bezug zur Tätigkeit haben.",
+    "signalwords": [
+      "Erfindung",
+      "Design",
+      "Arbeitgeberrecht",
+      "Angemessene Vergütung",
+      "OR 332",
+      "Geistiges Eigentum",
+      "Patentrecht",
+      "Urheberrecht",
+      "Innovation",
+      "Betriebliche Entwicklung"
+    ]
+  },
+  {
+    "id": 48,
+    "article_name": "333",
+    "description": "Art. 333 beschreibt den Übergang des Arbeitsverhältnisses bei Betriebsübernahme. Dabei gehen sämtliche Rechte und Pflichten des Arbeitgebers auf den Erwerber über, sofern der Arbeitnehmer nicht widerspricht. Der bisherige Arbeitgeber und der neue Betriebsinhaber haften solidarisch für Forderungen, die vor dem Betriebsübergang fällig wurden. Dies ermöglicht die Fortführung von Arbeitsverhältnissen bei Firmenkäufen und ähnlichen Konstellationen.",
+    "signalwords": [
+      "Betriebsübernahme",
+      "Übergang",
+      "Rechte und Pflichten",
+      "Ablehnung",
+      "Neuer Arbeitgeber",
+      "OR 333",
+      "Firmenkauf",
+      "Übergangsregelung",
+      "Arbeitsverhältniswechsel",
+      "Fortsetzung Arbeitsvertrag"
+    ]
+  },
+  {
+    "id": 49,
+    "article_name": "333a",
+    "description": "In Art. 333a wird die Informations- und Konsultationspflicht bei Betriebsübergang behandelt. Der bisherige Arbeitgeber muss die Arbeitnehmervertretung oder die Arbeitnehmer rechtzeitig über den Übergang informieren, insbesondere über Gründe und Folgen für die Arbeitsverhältnisse. Zudem ist eine Konsultation erforderlich, sofern Massnahmen geplant sind, die die Arbeitnehmer betreffen. Das soll Transparenz und Mitwirkung sichern.",
+    "signalwords": [
+      "Betriebsübergang",
+      "Informationspflicht",
+      "Konsultation",
+      "Arbeitnehmervertretung",
+      "OR 333a",
+      "Mitarbeiterbeteiligung",
+      "Transparenz",
+      "Unternehmensverkauf",
+      "Mitarbeiterrechte",
+      "Vorabinformation"
+    ]
+  },
+  {
+    "id": 50,
+    "article_name": "333b",
+    "description": "Art. 333b bezieht sich auf den Betriebsübergang im Fall von Insolvenz, Nachlassstundung oder einem Nachlassvertrag mit Vermögensabtretung. Das Arbeitsverhältnis geht auch hier auf den Erwerber über, wenn der Arbeitnehmer zustimmt. Allerdings haften der bisherige Arbeitgeber und der neue nicht solidarisch, wenn es sich um einen Konkurs handelt. Die Regelungen sollen Sicherheit für Arbeitnehmer schaffen, ohne die Insolvenzmasse über Gebühr zu belasten.",
+    "signalwords": [
+      "Insolvenz",
+      "Konkurs",
+      "Nachlass",
+      "Betriebsübergang",
+      "Zustimmung",
+      "OR 333b",
+      "Nachlassstundung",
+      "Erwerber",
+      "Fortführung",
+      "Zustimmungsverfahren"
+    ]
+  },
+  {
+    "id": 51,
+    "article_name": "334",
+    "description": "Nach Art. 334 endet ein befristetes Arbeitsverhältnis ohne Kündigung, sobald die vereinbarte Frist abläuft. Wird das Arbeitsverhältnis allerdings stillschweigend weitergeführt, so wandelt es sich in ein unbefristetes um. Nach Ablauf von zehn Jahren kann ein langfristig befristetes Arbeitsverhältnis vorzeitig gekündigt werden, allerdings mit einer Frist von sechs Monaten.",
+    "signalwords": [
+      "Befristeter Vertrag",
+      "Automatisches Ende",
+      "Weiterführung",
+      "Unbefristet",
+      "OR 334",
+      "Fristablauf",
+      "Vertragsbeendigung",
+      "Vertragsverlängerung",
+      "Stillschweigend",
+      "Kündigungsverzicht"
+    ]
+  },
+  {
+    "id": 52,
+    "article_name": "335",
+    "description": "Art. 335 legt die Grundsätze der Kündigung bei unbefristeten Arbeitsverhältnissen fest. Jede Vertragspartei darf kündigen. Die kündigende Partei muss auf Verlangen die Kündigung schriftlich begründen. Dies dient der Transparenz und dem Schutz vor missbräuchlichen Kündigungen.",
+    "signalwords": [
+      "Unbefristet",
+      "Kündigung",
+      "Schriftliche Begründung",
+      "Arbeitgeber und Arbeitnehmer",
+      "OR 335",
+      "Kündigungsprinzip",
+      "Kündigungsrechte",
+      "Vertragsauflösung",
+      "Ordentliche Kündigung",
+      "Verlangen Begründung"
+    ]
+  },
+  {
+    "id": 53,
+    "article_name": "335a",
+    "description": "Art. 335a sieht vor, dass für Arbeitgeber und Arbeitnehmer grundsätzlich keine unterschiedlichen Kündigungsfristen vereinbart werden dürfen. Sollte dennoch etwas Gegenteiliges abgemacht sein, gilt für beide Parteien die längere Frist. Bei wirtschaftlich bedingten Kündigungen durch den Arbeitgeber kann jedoch für den Arbeitnehmer eine kürzere Frist vorgesehen werden.",
+    "signalwords": [
+      "Kündigungsfrist",
+      "Gleichbehandlung",
+      "Arbeitgeber",
+      "Arbeitnehmer",
+      "OR 335a",
+      "Fristenvergleich",
+      "Ungleichheit",
+      "Wirtschaftliche Kündigung",
+      "Unzulässigkeit",
+      "Gleichlanger Zeitraum"
+    ]
+  },
+  {
+    "id": 54,
+    "article_name": "335b",
+    "description": "Gemäss Art. 335b kann das Arbeitsverhältnis während der Probezeit (die grundsätzlich einen Monat beträgt) jederzeit mit einer Kündigungsfrist von sieben Tagen aufgelöst werden. Die Probezeit kann durch schriftliche Abrede oder Gesamtarbeitsvertrag auf maximal drei Monate verlängert werden. Werden Krankheit, Unfall oder gesetzliche Pflichten erfüllt, kann die Probezeit automatisch um diese Absenzen verlängert werden.",
+    "signalwords": [
+      "Probezeit",
+      "7 Tage",
+      "Erster Monat",
+      "Verlängerung",
+      "OR 335b",
+      "Kündigungsfrist Probezeit",
+      "Vertragseinstieg",
+      "Eingewöhnungsphase",
+      "Schriftliche Abrede",
+      "Kurzfristige Kündigung"
+    ]
+  },
+  {
+    "id": 55,
+    "article_name": "335c",
+    "description": "Art. 335c regelt die ordentlichen Kündigungsfristen nach Ablauf der Probezeit: Im ersten Dienstjahr beträgt sie einen Monat, vom zweiten bis zum neunten Dienstjahr zwei Monate und danach drei Monate. Diese Fristen gelten jeweils auf Monatsende. Sie dürfen durch schriftliche Abrede oder Gesamtarbeitsvertrag angepasst werden, allerdings nur in engen Grenzen. Zudem verlängert sich die Kündigungsfrist, wenn vor deren Ablauf noch ein Vaterschaftsurlaub ansteht.",
+    "signalwords": [
+      "Kündigungsfristen",
+      "Dienstjahr",
+      "1 Monat / 2 Monate / 3 Monate",
+      "Monatsende",
+      "OR 335c",
+      "Friststaffelung",
+      "Vertragsdauer",
+      "Standardfristen",
+      "Abweichung Vereinbarung",
+      "Kündigungsende"
+    ]
+  },
+  {
+    "id": 56,
+    "article_name": "335d",
+    "description": "Art. 335d definiert den Begriff der Massenentlassung. Solche liegen vor, wenn innert 30 Tagen eine bestimmte Mindestzahl an Kündigungen aus wirtschaftlichen Gründen erfolgt, ohne dass diese in der Person der Arbeitnehmer begründet sind. Damit wird ein besonderes Verfahren ausgelöst, das Arbeitgeber zu Konsultation und Information verpflichtet, um die sozialen Folgen zu mildern.",
+    "signalwords": [
+      "Massenentlassung",
+      "30 Tage",
+      "Konsultation",
+      "Wirtschaftliche Gründe",
+      "Mindestanzahl",
+      "OR 335d",
+      "Massenkündigungen",
+      "Betriebsbedingung",
+      "Arbeitnehmerzahl",
+      "Sozialer Dialog"
+    ]
+  },
+  {
+    "id": 57,
+    "article_name": "335e",
+    "description": "Art. 335e legt fest, dass die Regelungen zur Massenentlassung auch für befristete Arbeitsverhältnisse gelten, wenn diese vorzeitig enden. Ausnahmen bestehen jedoch bei Betriebseinstellungen infolge gerichtlicher Entscheide, Konkurs oder einem Nachlassvertrag mit Vermögensabtretung. Ziel ist es, die Arbeitnehmer möglichst umfassend vor unerwarteten Kündigungen zu schützen.",
+    "signalwords": [
+      "Massenentlassung",
+      "Befristete Verträge",
+      "Ausnahme Konkurs",
+      "Nachlassvertrag",
+      "OR 335e",
+      "Kündigungsbereich",
+      "Vorzeitige Auflösung",
+      "Erfasstungsverpflichtung",
+      "Sonderregelung",
+      "Betriebswirtschaftliche Gründe"
+    ]
+  },
+  {
+    "id": 58,
+    "article_name": "335f",
+    "description": "Nach Art. 335f muss der Arbeitgeber bei beabsichtigten Massenentlassungen die Arbeitnehmervertretung (oder die Arbeitnehmer, wenn keine Vertretung besteht) konsultieren. Diese haben das Recht, Vorschläge zu machen, wie die Zahl von Kündigungen vermieden, beschränkt oder ihre Folgen gemildert werden können. Der Arbeitgeber hat zudem alle relevanten Informationen schriftlich mitzuteilen.",
+    "signalwords": [
+      "Massenentlassung",
+      "Konsultation",
+      "Vermeidung",
+      "Vorschläge",
+      "Arbeitnehmervertretung",
+      "OR 335f",
+      "Kündigungsreduktion",
+      "Schadensbegrenzung",
+      "Sozialplan",
+      "Anhörung"
+    ]
+  },
+  {
+    "id": 59,
+    "article_name": "335g",
+    "description": "Gemäss Art. 335g hat der Arbeitgeber die Massenentlassung dem kantonalen Arbeitsamt schriftlich anzuzeigen. Diese Anzeige enthält das Ergebnis der Konsultation der Arbeitnehmervertretung. Die Arbeitsverhältnisse enden frühestens 30 Tage nach Eingang der Anzeige, es sei denn, die vertragliche oder gesetzliche Kündigungsfrist läuft länger. Ziel ist es, die öffentliche Arbeitsmarktbehörde frühzeitig einzubinden.",
+    "signalwords": [
+      "Massenentlassung",
+      "Kantonales Arbeitsamt",
+      "Anzeigepflicht",
+      "Kündigungsfrist",
+      "OR 335g",
+      "30 Tage",
+      "Vorankündigung",
+      "Behördliche Meldung",
+      "Rechtswirksamkeit",
+      "Geltungsbeginn"
+    ]
+  },
+  {
+    "id": 60,
+    "article_name": "335h",
+    "description": "Art. 335h führt den Begriff des Sozialplans ein. Dabei handelt es sich um eine Vereinbarung zwischen Arbeitgeber und Arbeitnehmern, mit der Kündigungen vermieden, ihre Anzahl reduziert oder ihre Folgen gemildert werden sollen. Der Sozialplan darf jedoch den Fortbestand des Unternehmens nicht gefährden.",
+    "signalwords": [
+      "Sozialplan",
+      "Milderung",
+      "Kündigungen",
+      "Betriebserhalt",
+      "Massnahmen",
+      "OR 335h",
+      "Verhandlungsprozess",
+      "Kompensation",
+      "Schutzfunktion",
+      "Arbeitnehmerinteressen"
+    ]
+  },
+  {
+    "id": 61,
+    "article_name": "335i",
+    "description": "Nach Art. 335i müssen grosse Betriebe (üblich ≥ 250 Mitarbeiter) bei einer geplanten Massenentlassung von mindestens 30 Kündigungen einen Sozialplan verhandeln. Die Verhandlungen finden mit den Arbeitnehmerverbänden, der Arbeitnehmervertretung oder – falls keine Vertretung existiert – direkt mit den betroffenen Arbeitnehmern statt. Dadurch soll eine faire und transparente Lösungsfindung erreicht werden.",
+    "signalwords": [
+      "Sozialplan",
+      "≥ 250 Mitarbeiter",
+      "30 Kündigungen",
+      "Verhandlungen",
+      "Arbeitgeber",
+      "OR 335i",
+      "Grossbetrieb",
+      "Mindestanzahl Entlassungen",
+      "Verband",
+      "Direktverhandlung"
+    ]
+  },
+  {
+    "id": 62,
+    "article_name": "335j",
+    "description": "Art. 335j bestimmt, dass, wenn Sozialplanverhandlungen scheitern, ein Schiedsgericht eingesetzt werden muss, welches einen verbindlichen Schiedsspruch fällt. Damit wird gewährleistet, dass es letztlich eine Lösung zum Sozialplan gibt, auch wenn Arbeitgeber und Arbeitnehmer keine Einigung finden.",
+    "signalwords": [
+      "Sozialplan",
+      "Schiedsgericht",
+      "Verbindlich",
+      "Scheitern Verhandlung",
+      "OR 335j",
+      "Konfliktlösung",
+      "Schiedsspruch",
+      "Zwangsregelung",
+      "Verpflichtende Entscheidung",
+      "Arbeitskampf"
+    ]
+  },
+  {
+    "id": 63,
+    "article_name": "335k",
+    "description": "Gemäss Art. 335k entfällt die Pflicht zur Erstellung eines Sozialplans bei Massenentlassungen im Konkursverfahren oder wenn ein Nachlassvertrag mit Vermögensabtretung vorliegt. Vorrang hat dann das Insolvenzrecht. Diese Ausnahme soll verhindern, dass die Masse im Insolvenzfall weiter belastet wird.",
+    "signalwords": [
+      "Sozialplan",
+      "Ausnahme",
+      "Konkurs",
+      "Nachlass",
+      "Massenentlassung",
+      "OR 335k",
+      "Insolvenzrecht",
+      "Vorrang",
+      "Zahlungsunfähigkeit",
+      "Kein Anspruch"
+    ]
+  },
+  {
+    "id": 64,
+    "article_name": "336",
+    "description": "Art. 336 definiert die missbräuchliche Kündigung. Diese liegt vor, wenn eine Kündigung etwa aufgrund einer persönlichen Eigenschaft (Diskriminierung), einer Gewerkschaftsaktivität oder zur Vereitelung von Ansprüchen erfolgt. Dieser Schutz verhindert Kündigungen aus Motiven, die Treu und Glauben verletzen oder gegen fundamentale Arbeitnehmerrechte verstossen.",
+    "signalwords": [
+      "Missbräuchliche Kündigung",
+      "Diskriminierung",
+      "Ansprüche vereiteln",
+      "Gewerkschaft",
+      "Kündigungsschutz",
+      "OR 336",
+      "Missbrauch",
+      "Ungerechtfertigte Entlassung",
+      "Rechtswidrig",
+      "Motivkündigung"
+    ]
+  },
+  {
+    "id": 65,
+    "article_name": "336a",
+    "description": "Art. 336a regelt die Sanktionen bei missbräuchlicher Kündigung. Der Gekündigte kann eine Entschädigung von bis zu sechs Monatslöhnen verlangen. Bei einer Massenentlassung ohne vorgängige Konsultation (Art. 335f) ist die Entschädigung auf maximal zwei Monatslöhne begrenzt. Diese Entschädigung kommt zusätzlich zu anderen Ansprüchen, z.B. Lohnersatz, in Betracht.",
+    "signalwords": [
+      "Entschädigung",
+      "Missbräuchlich",
+      "6 Monatslöhne",
+      "Klage",
+      "Massenentlassung",
+      "OR 336a",
+      "Sanktion",
+      "Entlassung ohne Konsultation",
+      "Arbeitsgericht",
+      "Rechtsfolge"
+    ]
+  },
+  {
+    "id": 66,
+    "article_name": "336b",
+    "description": "Art. 336b beschreibt das Verfahren bei missbräuchlichen Kündigungen. Der Betroffene muss schriftlich Einsprache gegen die Kündigung erheben, bevor das Arbeitsverhältnis endet. Wird keine Einigung erzielt, kann eine Entschädigungsklage innerhalb von 180 Tagen nach Beendigung des Arbeitsverhältnisses eingereicht werden. Andernfalls verfällt der Anspruch.",
+    "signalwords": [
+      "Einsprache",
+      "Verfahren",
+      "Missbräuchliche Kündigung",
+      "Klage",
+      "OR 336b",
+      "Gütliche Einigung",
+      "Fristwahrung",
+      "Rechtsbehelf",
+      "Anspruchsverlust",
+      "Rechtsweg"
+    ]
+  },
+  {
+    "id": 67,
+    "article_name": "336c",
+    "description": "Art. 336c behandelt die Sperrfristen („Kündigung zur Unzeit“). Nach Ablauf der Probezeit darf der Arbeitgeber u.a. während Militär- oder Zivildienst, Krankheit, Unfall oder Schwangerschaft nicht kündigen. Solche Kündigungen sind nichtig. Die Kündigungsfrist wird unterbrochen und nach Ende der Sperrfrist fortgesetzt. Das schützt den Arbeitnehmer vor Entlassung in besonders verletzlichen Situationen.",
+    "signalwords": [
+      "Kündigung zur Unzeit",
+      "Sperrfrist",
+      "Krankheit",
+      "Schwangerschaft",
+      "Nichtigkeit",
+      "OR 336c",
+      "Militärdienst",
+      "Unfall",
+      "Zivilschutz",
+      "Besonderer Kündigungsschutz"
+    ]
+  },
+  {
+    "id": 68,
+    "article_name": "336d",
+    "description": "Gemäss Art. 336d gelten die Sperrfristen-Schutzbestimmungen sinngemäss auch für Kündigungen durch den Arbeitnehmer, wenn der Arbeitgeber verhindert ist (z.B. Militärdienst des Arbeitgebers). Die Frist wird während dieser Zeit unterbrochen. Damit wird ein Gleichgewicht zwischen den Interessen beider Parteien geschaffen.",
+    "signalwords": [
+      "Sperrfrist",
+      "Arbeitnehmerkündigung",
+      "Vertretung",
+      "Verhinderung",
+      "Unzeit",
+      "OR 336d",
+      "Gegenseitiger Schutz",
+      "Anwendbarkeit Art. 336c",
+      "Arbeitsverhinderung",
+      "Rechtsfolgen"
+    ]
+  },
+  {
+    "id": 69,
+    "article_name": "337",
+    "description": "Art. 337 ermöglicht die fristlose Kündigung aus wichtigem Grund, wenn die Fortsetzung des Arbeitsverhältnisses nach Treu und Glauben unzumutbar ist. Die Kündigung ist schriftlich zu begründen, wenn die andere Partei dies verlangt. Eine unverschuldete Abwesenheit des Arbeitnehmers gilt nicht als wichtiger Grund. Missbräuchlich oder ungerechtfertigt ausgesprochene fristlose Kündigungen können zu Schadensersatzansprüchen führen.",
+    "signalwords": [
+      "Fristlose Kündigung",
+      "Wichtiger Grund",
+      "Unzumutbar",
+      "Sofortige Auflösung",
+      "OR 337",
+      "Ausserordentliche Kündigung",
+      "Begründungspflicht",
+      "Vertrauensverlust",
+      "Schwerwiegendes Fehlverhalten",
+      "Kündigungsrecht"
+    ]
+  },
+  {
+    "id": 70,
+    "article_name": "337a",
+    "description": "Art. 337a erlaubt dem Arbeitnehmer eine fristlose Kündigung, wenn der Arbeitgeber zahlungsunfähig ist und innert angemessener Frist keine Sicherheiten für die Lohnforderungen stellen kann. Damit wird ein wichtiger Schutzmechanismus geschaffen, damit der Arbeitnehmer nicht ohne Lohn dasteht.",
+    "signalwords": [
+      "Zahlungsunfähigkeit",
+      "Lohnsicherheit",
+      "Fristlos",
+      "Arbeitgeber",
+      "OR 337a",
+      "Finanzielle Probleme",
+      "Entgeltgarantie",
+      "Sofortige Beendigung",
+      "Kein Lohn",
+      "Arbeitnehmerrecht"
+    ]
+  },
+  {
+    "id": 71,
+    "article_name": "337b",
+    "description": "Nach Art. 337b führt eine ungerechtfertigte fristlose Auflösung seitens einer Vertragspartei zu einer Schadenersatzpflicht in voller Höhe, sofern ein vertragswidriges Verhalten vorliegt. Wird die fristlose Kündigung ohne wichtigen Grund ausgesprochen, kann der Geschädigte Ersatz für sämtliche Schäden verlangen, die aus diesem Vertragsbruch entstanden sind.",
+    "signalwords": [
+      "Schadenersatz",
+      "Ungerechtfertigt",
+      "Fristlos",
+      "Vertragswidrig",
+      "OR 337b",
+      "Haftung",
+      "Pflichtverletzung",
+      "Auflösungsgrund",
+      "Finanzieller Ausgleich",
+      "Rechtsanspruch"
+    ]
+  },
+  {
+    "id": 72,
+    "article_name": "337c",
+    "description": "Art. 337c behandelt die ungerechtfertigte fristlose Entlassung durch den Arbeitgeber. Der Arbeitnehmer hat Anspruch auf den Lohn, den er bis zum regulären Ende der Kündigungsfrist oder der befristeten Vertragsdauer verdient hätte. Zusätzlich kann der Richter eine Entschädigung von bis zu sechs Monatslöhnen zusprechen, sofern die fristlose Kündigung sachlich nicht gerechtfertigt war.",
+    "signalwords": [
+      "Ungerechtfertigte Entlassung",
+      "Lohnersatz",
+      "Kündigungsfrist",
+      "6 Monatslöhne",
+      "OR 337c",
+      "Arbeitgeberhaftung",
+      "Finanzieller Anspruch",
+      "Vertragsbruch",
+      "Entschädigungsgrenze",
+      "Rechtsstreit"
+    ]
+  },
+  {
+    "id": 73,
+    "article_name": "337d",
+    "description": "Gemäss Art. 337d hat der Arbeitgeber einen Entschädigungsanspruch von bis zu einem Viertel des Monatslohns, wenn der Arbeitnehmer ohne wichtigen Grund nicht zur Arbeit erscheint oder die Stelle fristlos verlässt. Darüber hinaus kann er Ersatz für weiteren Schaden fordern. Dieser Anspruch muss innerhalb von 30 Tagen gerichtlich oder per Betreibung geltend gemacht werden, sonst verfällt er.",
+    "signalwords": [
+      "Nichtantritt",
+      "Verlassen der Stelle",
+      "Entschädigung",
+      "Monatslohn",
+      "OR 337d",
+      "Arbeitnehmerhaftung",
+      "Arbeitsbruch",
+      "Vertragsverletzung",
+      "1/4 Lohn",
+      "Schadenersatz"
+    ]
+  },
+  {
+    "id": 74,
+    "article_name": "338",
+    "description": "Art. 338 regelt die Folgen des Todes des Arbeitnehmers: Das Arbeitsverhältnis endet sofort. Der Arbeitgeber zahlt aber den Lohn noch für einen bis zwei Monate weiter, sofern der Verstorbene Unterhaltspflichten gegenüber Ehegatten, eingetragenen Partnern oder Kindern hatte. Ziel ist die finanzielle Absicherung der Hinterbliebenen unmittelbar nach dem Todesfall.",
+    "signalwords": [
+      "Tod Arbeitnehmer",
+      "Beendigung",
+      "Lohnfortzahlung",
+      "Unterhaltspflicht",
+      "OR 338",
+      "Sterbefall",
+      "Weiterzahlung",
+      "Ehegatte",
+      "Kind",
+      "Ruhen des Arbeitsvertrags"
+    ]
+  },
+  {
+    "id": 75,
+    "article_name": "338a",
+    "description": "Gemäss Art. 338a geht das Arbeitsverhältnis im Falle des Todes des Arbeitgebers auf dessen Erben über. Wenn das Arbeitsverhältnis jedoch in besonderem Masse auf die Person des Arbeitgebers abgestimmt war, endet es. Der Arbeitnehmer kann in diesem Fall einen angemessenen Ersatz für den Schaden verlangen, der aus der vorzeitigen Auflösung entsteht.",
+    "signalwords": [
+      "Tod Arbeitgeber",
+      "Erben",
+      "Fortsetzung",
+      "Persönlicher Bezug",
+      "Schadensersatz",
+      "OR 338a",
+      "Erbgang",
+      "Vertragsübernahme",
+      "Ausnahmefall",
+      "Personenbezogen"
+    ]
+  },
+  {
+    "id": 76,
+    "article_name": "339",
+    "description": "Art. 339 befasst sich mit der Fälligkeit sämtlicher Forderungen bei Beendigung des Arbeitsverhältnisses. Dies betrifft insbesondere Lohnansprüche und offene Provisionsforderungen. Für Provisionsansprüche kann durch eine schriftliche Abrede eine spätere Fälligkeit vereinbart werden, etwa wenn Geschäfte noch abgewickelt werden müssen.",
+    "signalwords": [
+      "Beendigung",
+      "Forderungen",
+      "Fälligkeit",
+      "Provisionsanspruch",
+      "OR 339",
+      "Kündigungszeitpunkt",
+      "Lohnfälligkeit",
+      "Abwicklung",
+      "Aufschub",
+      "Rechtsfolge"
+    ]
+  },
+  {
+    "id": 77,
+    "article_name": "339a",
+    "description": "Art. 339a legt die Rückgabepflicht fest: Bei Ende des Arbeitsverhältnisses müssen Arbeitgeber und Arbeitnehmer wechselseitig alle Gegenstände, Dokumente und Gelder zurückgeben, die sie im Verlauf der Anstellung erhalten haben. Vorbehalten bleiben jedoch Retentionsrechte, falls Forderungen streitig oder noch nicht beglichen sind.",
+    "signalwords": [
+      "Rückgabe",
+      "Dokumente",
+      "Arbeitsmittel",
+      "Pflicht",
+      "Vertragsende",
+      "OR 339a",
+      "Betriebseigentum",
+      "Sachrückgabe",
+      "Arbeitgeberunterlagen",
+      "Inventar"
+    ]
+  },
+  {
+    "id": 78,
+    "article_name": "339b",
+    "description": "Art. 339b gewährt eine Abgangsentschädigung, wenn das Arbeitsverhältnis eines mindestens 50-jährigen Arbeitnehmers nach 20 Dienstjahren endet. Diese liegt bei mindestens zwei Monatslöhnen und dient der sozialen Abfederung älterer Arbeitnehmer, die langjährig tätig waren. Stirbt der Arbeitnehmer vor Ende des Arbeitsverhältnisses, so erhalten jene Hinterbliebenen die Entschädigung, denen er gesetzlich oder vertraglich unterhaltspflichtig war.",
+    "signalwords": [
+      "Abgangsentschädigung",
+      "50 Jahre",
+      "20 Dienstjahre",
+      "Min. 2 Monatslöhne",
+      "OR 339b",
+      "Betriebszugehörigkeit",
+      "Lebensalter",
+      "Abfindung",
+      "Vergütungsanspruch",
+      "Sozialer Schutz"
+    ]
+  },
+  {
+    "id": 79,
+    "article_name": "339c",
+    "description": "Art. 339c legt fest, dass die Höhe der Abgangsentschädigung durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag geregelt werden kann (zwischen zwei und acht Monatslöhnen). Sie ist bei Beendigung des Arbeitsverhältnisses fällig, kann aber später vereinbart oder gerichtlich angeordnet werden. Eine Minderung ist möglich, wenn der Arbeitnehmer ohne Grund kündigt oder der Arbeitgeber fristlos wegen Verschuldens des Arbeitnehmers kündigen muss.",
+    "signalwords": [
+      "Abgangsentschädigung",
+      "Höhe",
+      "2–8 Monatslöhne",
+      "Fälligkeit",
+      "OR 339c",
+      "Abreden",
+      "Vertragsvereinbarung",
+      "Auszahlungsmodalität",
+      "Ablösezahlung",
+      "Flexibilität"
+    ]
+  },
+  {
+    "id": 80,
+    "article_name": "339d",
+    "description": "Gemäss Art. 339d kann die Abgangsentschädigung durch bereits bestehende Leistungen der beruflichen Vorsorge angerechnet werden, falls diese vom Arbeitgeber (mit-)finanziert wurden. Ebenso kann der Arbeitgeber künftige Vorsorgeleistungen verbindlich zusichern, um die Entschädigung zu ersetzen. Dadurch wird eine Doppelfinanzierung vermieden.",
+    "signalwords": [
+      "Vorsorge",
+      "Abgangsentschädigung",
+      "Anrechnung",
+      "Ersatzleistung",
+      "OR 339d",
+      "Rentenleistungen",
+      "Pensionskassenbezug",
+      "Finanzielle Verrechnung",
+      "Betriebliche Vorsorge",
+      "Aufrechnung"
+    ]
+  },
+  {
+    "id": 81,
+    "article_name": "340",
+    "description": "Art. 340 verankert das Konkurrenzverbot. Ein Arbeitnehmer kann sich schriftlich verpflichten, nach Beendigung des Arbeitsverhältnisses keine konkurrenzierende Tätigkeit aufzunehmen. Voraussetzung ist, dass der Arbeitnehmer Einblick in den Kundenkreis oder in Fabrikations- und Geschäftsgeheimnisse hatte, deren missbräuchliche Verwendung dem Arbeitgeber erheblichen Schaden zufügen könnte.",
+    "signalwords": [
+      "Konkurrenzverbot",
+      "Schriftform",
+      "Kundenkreis",
+      "Geschäftsgeheimnisse",
+      "OR 340",
+      "Wettbewerbsbeschränkung",
+      "Nachvertragliche Treuepflicht",
+      "Geheimhaltung",
+      "Vertragsklausel",
+      "Know-how-Schutz"
+    ]
+  },
+  {
+    "id": 82,
+    "article_name": "340a",
+    "description": "Art. 340a beschreibt die Beschränkungen, die ein Konkurrenzverbot haben muss, damit es gültig ist: Es darf zeitlich, örtlich und gegenständlich nicht übermässig sein und soll in der Regel drei Jahre nicht überschreiten. Der Richter kann ein übermässiges Konkurrenzverbot reduzieren, wenn es eine unbillige Erschwerung des wirtschaftlichen Fortkommens des Arbeitnehmers bedeutet.",
+    "signalwords": [
+      "Konkurrenzverbot",
+      "Begrenzung",
+      "3 Jahre",
+      "Übermässig",
+      "Richterliche Anpassung",
+      "OR 340a",
+      "Zeitliche Beschränkung",
+      "Örtliche Einschränkung",
+      "Sachlicher Umfang",
+      "Verhältnismässigkeit"
+    ]
+  },
+  {
+    "id": 83,
+    "article_name": "340b",
+    "description": "Nach Art. 340b kann ein Verstoss gegen das Konkurrenzverbot zu Schadenersatzansprüchen oder zur Zahlung einer Konventionalstrafe führen. Falls nichts anderes vereinbart wurde, kann sich der Arbeitnehmer durch Zahlung der Strafe freikaufen, haftet jedoch weiterhin für den durch sein Verhalten entstandenen Mehrschaden. Eine schriftliche Abrede kann zudem vorsehen, dass der Arbeitgeber das vertragswidrige Verhalten verbieten lassen kann.",
+    "signalwords": [
+      "Verstoss",
+      "Konkurrenzverbot",
+      "Konventionalstrafe",
+      "Freikauf",
+      "Schadenersatz",
+      "OR 340b",
+      "Vertragsstrafe",
+      "Sanktionsmechanismus",
+      "Wettbewerbsverbot",
+      "Abfindung"
+    ]
+  },
+  {
+    "id": 84,
+    "article_name": "340c",
+    "description": "Art. 340c legt fest, dass das Konkurrenzverbot wegfällt, wenn der Arbeitgeber kein erhebliches Interesse mehr daran hat oder das Arbeitsverhältnis kündigt, ohne dass der Arbeitnehmer dazu Anlass gegeben hat. Gekündigt der Arbeitnehmer aus begründetem Anlass, der vom Arbeitgeber verursacht wurde, endet das Konkurrenzverbot ebenfalls. Damit wird verhindert, dass der Arbeitnehmer ohne triftigen Grund unnötig in seiner Berufsfreiheit beschränkt wird.",
+    "signalwords": [
+      "Wegfall",
+      "Erhebliches Interesse",
+      "Kündigung Arbeitgeber",
+      "Konkurrenzverbot",
+      "Aufhebung",
+      "OR 340c",
+      "Eigenkündigung",
+      "Rechtsfolge",
+      "Interessenabwägung",
+      "Nachvertragliche Klausel"
+    ]
+  },
+  {
+    "id": 85,
+    "article_name": "341",
+    "description": "Art. 341 bestimmt, dass der Arbeitnehmer während des Arbeitsverhältnisses und einen Monat nach dessen Ende nicht auf unabdingbare Ansprüche aus Gesetz oder Gesamtarbeitsvertrag verzichten kann. Dies soll verhindern, dass Arbeitnehmer wichtige Rechte unter Druck aufgeben und sich so schlechter stellen als gesetzlich vorgesehen.",
+    "signalwords": [
+      "Unverzichtbarkeit",
+      "Abdingbar / Unabdingbar",
+      "Gesetz",
+      "1 Monat Frist",
+      "OR 341",
+      "Verzichtsverbot",
+      "Gesamtarbeitsvertrag",
+      "Rechtssicherheit",
+      "Beendigungszeitpunkt",
+      "Schutzvorschrift"
+    ]
+  },
+  {
+    "id": 86,
+    "article_name": "342",
+    "description": "Art. 342 stellt klar, dass öffentlich-rechtliche Vorschriften (z.B. betreffend Arbeitssicherheit oder Berufsbildung) Vorrang haben. Werden solche Pflichten verletzt, kann dies auch zivilrechtliche Ansprüche zwischen Arbeitgeber und Arbeitnehmer begründen, wenn diese Vorschriften integraler Bestandteil des Arbeitsverhältnisses sein könnten.",
+    "signalwords": [
+      "Öffentliches Recht",
+      "Vorrang",
+      "Arbeitsschutz",
+      "Zivilrechtlicher Anspruch",
+      "OR 342",
+      "Gesetzliche Bestimmungen",
+      "Behördliche Vorschriften",
+      "Verpflichtung",
+      "Arbeitnehmerschutz",
+      "Übergeordnetes Recht"
+    ]
+  },
+  {
+    "id": 87,
+    "article_name": "343",
+    "description": "Art. 343 wurde aufgehoben. Früher regelte er arbeitsrechtliche Streitigkeiten, heute sind dafür die Bestimmungen der Zivilprozessordnung (ZPO) massgebend.",
+    "signalwords": [
+      "Streitigkeiten",
+      "Aufgehoben",
+      "ZPO",
+      "Prozess",
+      "OR 343",
+      "Alte Regelung",
+      "Arbeitsgericht",
+      "Gerichtsverfahren",
+      "Rechtsweg",
+      "Verfahrensordnung"
+    ]
+  },
+  {
+    "id": 88,
+    "article_name": "344",
+    "description": "Art. 344 regelt den Lehrvertrag. Der Arbeitgeber verpflichtet sich, der lernenden Person während einer bestimmten Zeit die notwendigen beruflichen Fähigkeiten (theoretisch und praktisch) zu vermitteln. Die lernende Person verpflichtet sich im Gegenzug zur Arbeitsleistung, damit sie den entsprechenden Beruf erlernen kann. Der Lehrvertrag ist stets schriftlich abzuschliessen und dient auch dem Schutz jugendlicher Arbeitnehmer.",
+    "signalwords": [
+      "Lehrvertrag",
+      "Ausbildung",
+      "Lernende Person",
+      "Arbeitgeber",
+      "Fachgerecht",
+      "OR 344",
+      "Berufsbildung",
+      "Lehrbetrieb",
+      "Berufslehre",
+      "Ausbildungsvertrag"
+    ]
+  },
+  {
+    "id": 89,
+    "article_name": "344a",
+    "description": "Gemäss Art. 344a bedarf der Lehrvertrag der Schriftform und muss insbesondere die Art und Dauer der beruflichen Bildung, den Lohn, die Probezeit, Arbeitszeit und Ferien regeln. Die Probezeit beträgt mindestens einen und höchstens drei Monate und kann unter Zustimmung der kantonalen Behörde auf maximal sechs Monate verlängert werden. Dieses strikte Formgebot soll Klarheit über die Rechte und Pflichten beider Seiten schaffen.",
+    "signalwords": [
+      "Lehrvertrag",
+      "Schriftform",
+      "Probezeit",
+      "Berufliche Bildung",
+      "Pflichten",
+      "OR 344a",
+      "Ausbildungsdauer",
+      "Arbeitszeit",
+      "Ferienregelung",
+      "Lehrlingslohn"
+    ]
+  },
+  {
+    "id": 90,
+    "article_name": "345",
+    "description": "Art. 345 legt fest, dass die lernende Person alles dafür tun muss, um das Lernziel zu erreichen. Die gesetzliche Vertretung hat den Lehrbetrieb zu unterstützen. Das schafft eine wechselseitige Verantwortung: Arbeitgeber und lernende Person (bzw. deren Vertreter) verfolgen gemeinsam das Ziel einer erfolgreichen Ausbildung.",
+    "signalwords": [
+      "Lehrziel",
+      "Lernende Person",
+      "Gesetzliche Vertretung",
+      "Unterstützung",
+      "OR 345",
+      "Ausbildungspflicht",
+      "Lernbereitschaft",
+      "Erfolgspflicht",
+      "Eltern/Beistand",
+      "Berufsschule"
+    ]
+  },
+  {
+    "id": 91,
+    "article_name": "345a",
+    "description": "Art. 345a schreibt vor, dass der Arbeitgeber für die fachgerechte Ausbildung eine qualifizierte Fachkraft einsetzt. Zudem muss er dem Lehrling ohne Lohnabzug Zeit für den Schul- und Kursbesuch gewähren. Bis zum 20. Altersjahr sind jährlich mindestens fünf Wochen Ferien zu gewähren. Akkordarbeiten sind nur zulässig, wenn sie dem Lernzweck nicht schaden.",
+    "signalwords": [
+      "Fachkraft",
+      "Ausbildung",
+      "Berufsfachschule",
+      "Ferien",
+      "Kein Akkord",
+      "OR 345a",
+      "Lohnabzug",
+      "Unterrichtsbesuch",
+      "Berufskurse",
+      "Jugendschutz"
+    ]
+  },
+  {
+    "id": 92,
+    "article_name": "346",
+    "description": "Art. 346 regelt die Auflösung des Lehrverhältnisses in der Probezeit (7 Tage Kündigungsfrist) sowie die Möglichkeit einer fristlosen Auflösung aus wichtigen Gründen. Dazu zählen mangelnde Eignung, ernsthafte Gefährdung der Gesundheit oder eine fehlende fachliche Qualifikation des Lehrbetriebs. Die Zustimmung der kantonalen Behörde kann in bestimmten Fällen erforderlich sein.",
+    "signalwords": [
+      "Lehrvertrag",
+      "Probezeit",
+      "Fristlose Auflösung",
+      "Fehlende Eignung",
+      "OR 346",
+      "Kündigungsfrist",
+      "Gesundheitsgefahr",
+      "Ausbildungsabbruch",
+      "Fachliche Voraussetzungen",
+      "Beendigung Lehre"
+    ]
+  },
+  {
+    "id": 93,
+    "article_name": "346a",
+    "description": "Art. 346a bestimmt, dass der Arbeitgeber nach Abschluss der Lehre ein Lehrzeugnis ausstellen muss, das Angaben über die Dauer der Lehre und die erworbenen Fähigkeiten enthält. Auf Verlangen sind auch Aussagen zu Leistungen und Verhalten des Lernenden möglich. Dieses Lehrzeugnis ist eine wichtige Referenz für das weitere Berufsleben.",
+    "signalwords": [
+      "Lehrzeugnis",
+      "Lehrabschluss",
+      "Fähigkeiten",
+      "Verhalten",
+      "OR 346a",
+      "Ausbildungsdauer",
+      "Bewertung",
+      "Kompetenzen",
+      "Zeugniserstellung",
+      "Referenzdokument"
+    ]
+  },
+  {
+    "id": 94,
+    "article_name": "347",
+    "description": "Art. 347 definiert den Handelsreisendenvertrag. Ein Handelsreisender schliesst oder vermittelt im Namen und auf Rechnung eines Kaufmanns (oder Fabrikationsbetriebs) ausserhalb der Geschäftsräume Geschäfte ab und erhält dafür Lohn, meist in Form einer Kombination aus Festgehalt und Provision. Wer nur gelegentlich oder ohne vorwiegende Reisetätigkeit arbeitet, gilt nicht als Handelsreisender.",
+    "signalwords": [
+      "Handelsreisender",
+      "Geschäfte vermitteln",
+      "Ausserhalb Geschäftsräume",
+      "Lohn",
+      "OR 347",
+      "Vertriebsmitarbeiter",
+      "Reisegebiet",
+      "Kundenakquise",
+      "Aussendienst",
+      "Provisionsabrede"
+    ]
+  },
+  {
+    "id": 95,
+    "article_name": "347a",
+    "description": "Gemäss Art. 347a ist ein schriftlicher Vertrag erforderlich, der die wichtigsten Punkte wie Dauer, Beendigung, Vollmachten, Entgelt und Auslagenersatz enthält. Bei internationalem Bezug (Wohnsitz im Ausland) sollen auch Gerichtsstand und anwendbares Recht geregelt sein. Dieser Vertrag schafft Rechtssicherheit für beide Seiten.",
+    "signalwords": [
+      "Handelsreisendenvertrag",
+      "Schriftform",
+      "Vollmachten",
+      "Entgelt",
+      "Gerichtsstand",
+      "OR 347a",
+      "Auslagenersatz",
+      "Vertragsinhalt",
+      "Auslandsbezug",
+      "Vertragsdauer"
+    ]
+  },
+  {
+    "id": 96,
+    "article_name": "348",
+    "description": "Art. 348 bestimmt, dass der Handelsreisende die vorgeschriebene Kundschaft besuchen muss. Eigengeschäfte darf er nur mit schriftlicher Einwilligung des Arbeitgebers abschliessen. Bei Abschlussvollmacht gelten die Vorgaben (Preise, Konditionen) des Arbeitgebers. Damit wird der Geschäftsablauf für den Arbeitgeber kontrollierbar gehalten.",
+    "signalwords": [
+      "Kundschaft besuchen",
+      "Abschlussvollmacht",
+      "Vorgeschriebene Preise",
+      "Verbot Eigenhandel",
+      "OR 348",
+      "Reiseauftrag",
+      "Einwilligung",
+      "Handelsvertretung",
+      "Preisvorgabe",
+      "Verkaufsbedingungen"
+    ]
+  },
+  {
+    "id": 97,
+    "article_name": "348a",
+    "description": "Art. 348a behandelt das Delcredereverbot. Handelsreisende haften nicht für die Erfüllung der Verbindlichkeiten der Kunden. Eine teilweise (max. 25%) Delcrederehaftung kann jedoch schriftlich vereinbart werden, sofern dafür eine angemessene Provision bezahlt wird. Dies schliesst Privatgeschäfte aus und legt einen klaren Kosten- und Haftungsrahmen fest.",
+    "signalwords": [
+      "Delcredere",
+      "Haftung",
+      "Zahlungsausfall",
+      "25 Prozent",
+      "OR 348a",
+      "Verantwortungsbegrenzung",
+      "Kundenkredit",
+      "Verkaufsrisiko",
+      "Regress",
+      "Vertragsklausel"
+    ]
+  },
+  {
+    "id": 98,
+    "article_name": "348b",
+    "description": "Gemäss Art. 348b darf ein Handelsreisender Zahlungen entgegennehmen oder Zahlungsfristen gewähren, nur wenn dies ausdrücklich und schriftlich vereinbart wurde. Dies stellt klar, dass ein Handelsreisender im Normalfall keine Inkassovollmacht besitzt, um Missverständnisse und Risiken zu vermeiden.",
+    "signalwords": [
+      "Vollmacht",
+      "Zahlungen",
+      "Schriftlich",
+      "Handelsreisender",
+      "OR 348b",
+      "Zahlungsfristen",
+      "Inkassovollmacht",
+      "Ermächtigung",
+      "Abschlussberechtigung",
+      "Vertretungsbefugnis"
+    ]
+  },
+  {
+    "id": 99,
+    "article_name": "349",
+    "description": "In Art. 349 wird festgelegt, dass dem Handelsreisenden ein bestimmtes Reisegebiet oder ein Kundenkreis exklusiv zugewiesen werden kann. Jedoch behält sich der Arbeitgeber meist das Recht vor, direkt mit Kunden Abschlüsse zu tätigen. Dieses Recht zur Änderung kann er einseitig ausüben, sofern ein begründeter Anlass besteht. Allenfalls hat der Handelsreisende Anspruch auf Entschädigung oder kann fristlos kündigen.",
+    "signalwords": [
+      "Reisegebiet",
+      "Kundenkreis",
+      "Exklusivität",
+      "Direktabschluss",
+      "Änderung",
+      "OR 349",
+      "Vertragsanpassung",
+      "Handelsvertretergebiet",
+      "Guter Grund",
+      "Einseitige Modifikation"
+    ]
+  },
+  {
+    "id": 100,
+    "article_name": "349a",
+    "description": "Art. 349a bestimmt, dass das Gehalt des Handelsreisenden aus einem Fixum, einer Provision oder beidem bestehen kann. Schriftlich kann festgehalten werden, dass ein überwiegender Teil des Lohns als Provision ausgerichtet wird. Diese muss jedoch ein angemessenes Einkommen darstellen, damit die Lebenshaltung gesichert bleibt.",
+    "signalwords": [
+      "Handelsreisender",
+      "Lohn",
+      "Provision",
+      "Festes Gehalt",
+      "Angemessen",
+      "OR 349a",
+      "Provisionsmodell",
+      "Vergütungsstruktur",
+      "Fixum",
+      "Umsatzbeteiligung"
+    ]
+  },
+  {
+    "id": 101,
+    "article_name": "349b",
+    "description": "Art. 349b regelt die Provisionsansprüche: Hat der Handelsreisende ein exklusives Gebiet, erhält er Provision auf alle in diesem Gebiet abgeschlossenen Geschäfte, auch ohne eigene Mitwirkung. Andernfalls erhält er nur Provision auf selbst vermittelte oder abgeschlossene Geschäfte. Bei geschätztem Geschäftswert ist eine Nachberechnung möglich, sobald der endgültige Wert feststeht.",
+    "signalwords": [
+      "Provision",
+      "Exklusives Gebiet",
+      "Direktabschluss",
+      "Schätzung",
+      "Nachberechnung",
+      "OR 349b",
+      "Gebietsprovision",
+      "Umsatzanrechnung",
+      "Verkaufszahlen",
+      "Provisionsabrechnung"
+    ]
+  },
+  {
+    "id": 102,
+    "article_name": "349c",
+    "description": "Gemäss Art. 349c besteht bei vorübergehender Verhinderung an der Reisetätigkeit (z.B. Krankheit ohne eigenes Verschulden) Anspruch auf das feste Gehalt und eine angemessene Entschädigung für ausfallende Provision. Ist der Provisionsanteil unter 20% des Lohns, kann schriftlich vereinbart werden, dass keine Entschädigung fällig wird.",
+    "signalwords": [
+      "Verhinderung",
+      "Ohne Verschulden",
+      "Provision",
+      "Entschädigung",
+      "OR 349c",
+      "Krankheit",
+      "Ausfall",
+      "Festgehalt",
+      "Lohnfortzahlung",
+      "Handelsreisendenschutz"
+    ]
+  },
+  {
+    "id": 103,
+    "article_name": "349d",
+    "description": "Art. 349d bezieht sich auf den Auslagenersatz. Der Arbeitgeber darf diese Auslagen nicht einfach vom Festgehalt oder von der Provision abziehen. Ist der Handelsreisende für mehrere Arbeitgeber tätig, sind die Kosten in der Regel gleich aufzuteilen, sofern nichts anderes schriftlich vereinbart wurde. Das verhindert eine einseitige Belastung des Reisenden.",
+    "signalwords": [
+      "Auslagen",
+      "Ersatz",
+      "Kein Abzug",
+      "Mehrere Arbeitgeber",
+      "OR 349d",
+      "Spesenaufteilung",
+      "Kostengemeinschaft",
+      "Vertragsabrede",
+      "Provisionsschutz",
+      "Aufteilungssatz"
+    ]
+  },
+  {
+    "id": 104,
+    "article_name": "349e",
+    "description": "Art. 349e gibt dem Handelsreisenden ein Retentionsrecht an beweglichen Gegenständen und an Zahlungen, die er im Rahmen einer Inkassovollmacht entgegengenommen hat, falls der Arbeitgeber seine fälligen Forderungen nicht begleichen kann oder zahlungsunfähig wird. Damit erhält der Handelsreisende eine gewisse Absicherung für seine Ansprüche.",
+    "signalwords": [
+      "Retentionsrecht",
+      "Forderungen",
+      "Zahlungsunfähigkeit",
+      "Bewegliche Sachen",
+      "Eingenommene Zahlungen",
+      "OR 349e",
+      "Sicherungsmittel",
+      "Fällige / Nicht fällige Forderungen",
+      "Handelsreisender",
+      "Arbeitgeberinsolvenz"
+    ]
+  },
+  {
+    "id": 105,
+    "article_name": "350",
+    "description": "Art. 350 schützt Handelsreisende, die überwiegend von Provisionszahlungen leben und saisonale Schwankungen ausgesetzt sind. In solchen Fällen darf der Arbeitgeber während der Saison nur mit einer zweimonatigen Kündigungsfrist kündigen (und umgekehrt). So wird verhindert, dass Reisende unmittelbar vor Saisonende gekündigt werden und finanziell benachteiligt sind.",
+    "signalwords": [
+      "Saison",
+      "Provision",
+      "2 Monate",
+      "Kündigungsschutz",
+      "OR 350",
+      "Saisonbetrieb",
+      "Vertriebsarbeit",
+      "Kündigungsmodalität",
+      "Verlängerte Frist",
+      "Wechselseitiger Schutz"
+    ]
+  },
+  {
+    "id": 106,
+    "article_name": "350a",
+    "description": "Art. 350a beschreibt, dass bei Beendigung des Handelsreisendenvertrags der Reisende Anspruch auf Provision für alle bis dahin abgeschlossenen oder vermittelten Geschäfte hat. Darüber hinaus sind alle Muster, Modelle und sonstige Arbeitsmittel zurückzugeben. Das Retentionsrecht des Reisenden bleibt vorbehalten, falls offene Forderungen bestehen.",
+    "signalwords": [
+      "Beendigung",
+      "Geschäfte",
+      "Provision",
+      "Rückgabe",
+      "Handelsreisender",
+      "OR 350a",
+      "Abschlussabrechnung",
+      "Vermittlungsverträge",
+      "Muster und Modelle",
+      "Dokumentenrückgabe"
+    ]
+  },
+  {
+    "id": 107,
+    "article_name": "351",
+    "description": "Gemäss Art. 351 ist der Heimarbeitsvertrag ein Vertrag, bei dem der Arbeitnehmer (Heimarbeitnehmer) in seiner Wohnung oder an einem Ort seiner Wahl arbeitet und dafür Lohn erhält. In vielen Fällen helfen Familienangehörige mit. Der Arbeitgeber bleibt verantwortlich für den rechtzeitigen und richtigen Ausgleich der Arbeit (z.B. Lohnzahlung, Materialbereitstellung).",
+    "signalwords": [
+      "Heimarbeitsvertrag",
+      "Heimarbeitnehmer",
+      "Wohnung",
+      "Lohn",
+      "Familienangehörige",
+      "OR 351",
+      "Mobile Arbeit",
+      "Telearbeit",
+      "Auftragsproduktion",
+      "Heimindustrie"
+    ]
+  },
+  {
+    "id": 108,
+    "article_name": "351a",
+    "description": "Art. 351a fordert, dass der Arbeitgeber bei Ausgabe von Heimarbeit die wesentlichen Bedingungen wie Art und Umfang der Arbeit, Lohn und Materialentschädigung schriftlich bekanntgibt. Erfolgt dies nicht, gelten die üblichen Bedingungen. Damit erhält der Heimarbeitnehmer Klarheit über seine Vergütung und vermeidet Überraschungen.",
+    "signalwords": [
+      "Heimarbeit",
+      "Bedingungen mitteilen",
+      "Lohn",
+      "Materialentschädigung",
+      "Üblich",
+      "OR 351a",
+      "Transparenzpflicht",
+      "Arbeitsumfang",
+      "Vertragsbedingungen",
+      "Bekanntgabepflicht"
+    ]
+  },
+  {
+    "id": 109,
+    "article_name": "352",
+    "description": "Art. 352 regelt die Pflichten des Heimarbeitnehmers, der die Arbeit sorgfältig und rechtzeitig auszuführen hat. Mängel muss er unentgeltlich verbessern, sofern dies zumutbar ist. Er darf das zugeteilte Material nicht missbrauchen oder verschwenden. Dieses Pflichtenheft garantiert eine ordnungsgemässe Auftragsabwicklung im heimischen Umfeld.",
+    "signalwords": [
+      "Heimarbeitnehmer",
+      "Mangelhafte Arbeit",
+      "Verbesserung",
+      "Termine",
+      "OR 352",
+      "Sorgfaltspflicht",
+      "Lieferpflicht",
+      "Nachbesserung",
+      "Vereinbarter Termin",
+      "Zumutbarkeit"
+    ]
+  },
+  {
+    "id": 110,
+    "article_name": "352a",
+    "description": "Art. 352a sieht vor, dass das vom Arbeitgeber zur Verfügung gestellte Material und die Arbeitsgeräte sorgfältig behandelt werden. Der Heimarbeitnehmer muss entdeckte Mängel unverzüglich melden. Für schuldhaft verdorbenes Material haftet er bis höchstens zur Höhe der Selbstkosten. Damit werden die Pflichten und Haftungsgrenzen klar geregelt.",
+    "signalwords": [
+      "Material",
+      "Arbeitsgeräte",
+      "Heimarbeit",
+      "Sorgfaltspflicht",
+      "Selbstkosten",
+      "OR 352a",
+      "Sachbeschädigung",
+      "Pflichtenverletzung",
+      "Arbeitgebermaterial",
+      "Ersatzleistung"
+    ]
+  },
+  {
+    "id": 111,
+    "article_name": "353",
+    "description": "Gemäss Art. 353 ist der Arbeitgeber verpflichtet, das abgelieferte Heimarbeitserzeugnis innert einer Woche zu prüfen und eventuelle Mängel zu rügen. Unterlässt er dies, gilt die Arbeit als angenommen. Dies schafft Rechtssicherheit über die Qualität und Abnahme des Produkts.",
+    "signalwords": [
+      "Heimarbeitserzeugnis",
+      "Prüfung",
+      "Mängelrüge",
+      "1 Woche",
+      "Abnahme",
+      "OR 353",
+      "Rügepflicht",
+      "Annahmeverzug",
+      "Produktkontrolle",
+      "Reklamationsfrist"
+    ]
+  },
+  {
+    "id": 112,
+    "article_name": "353a",
+    "description": "Art. 353a bestimmt, dass der Lohn für Heimarbeit grundsätzlich halbmonatlich oder mit Zustimmung des Heimarbeitnehmers am Monatsende auszuzahlen ist. Ausserdem ist eine schriftliche Abrechnung mit Begründung für allfällige Abzüge auszustellen. Dies stellt sicher, dass Heimarbeitnehmer finanziell transparent entlohnt werden.",
+    "signalwords": [
+      "Heimarbeit",
+      "Lohnzahlung",
+      "Halbmonatlich",
+      "Abrechnung",
+      "Abzüge",
+      "OR 353a",
+      "Vergütungsperiode",
+      "Lohnbeleg",
+      "Begründungspflicht",
+      "Zahlungsmodalität"
+    ]
+  },
+  {
+    "id": 113,
+    "article_name": "353b",
+    "description": "Nach Art. 353b gilt für Heimarbeitnehmer, die ununterbrochen im Dienst stehen, sinngemäss die Lohnfortzahlungspflicht (Art. 324, 324a). Ist das Arbeitsverhältnis nicht ununterbrochen, hat der Arbeitgeber keine Pflicht zur Lohnfortzahlung bei Verhinderung des Heimarbeitnehmers. Damit werden kontinuierliche Heimarbeitnehmer den regulär Angestellten gleichgestellt.",
+    "signalwords": [
+      "Ununterbrochener Dienst",
+      "Heimarbeit",
+      "Lohnfortzahlung",
+      "Verhinderung",
+      "OR 353b",
+      "Anspruchsvoraussetzung",
+      "Kontinuierliche Beschäftigung",
+      "Krankheit/Unfall",
+      "Sinngemässe Anwendung",
+      "Ausnahmeregelung"
+    ]
+  },
+  {
+    "id": 114,
+    "article_name": "354",
+    "description": "Art. 354 beschreibt die Beendigung bei Heimarbeit. Eine Probearbeit gilt als auf bestimmte Zeit abgeschlossen. Ist der Heimarbeitnehmer ununterbrochen im Dienst, wird das Arbeitsverhältnis als unbefristet betrachtet, andernfalls als befristet. Damit wird Klarheit geschaffen, ob und wann eine Kündigung nötig ist.",
+    "signalwords": [
+      "Heimarbeit",
+      "Probearbeit",
+      "Befristet",
+      "Unbefristet",
+      "OR 354",
+      "Ende Arbeitsvertrag",
+      "Fortsetzung",
+      "Dauerbeschäftigung",
+      "Kündigungsform",
+      "Dienstverhältnis"
+    ]
+  },
+  {
+    "id": 115,
+    "article_name": "355",
+    "description": "Art. 355 stellt klar, dass die allgemeinen Vorschriften des Einzelarbeitsvertrags auf den Lehrvertrag, den Handelsreisendenvertrag und den Heimarbeitsvertrag ergänzend anwendbar sind, soweit keine speziellen Regelungen bestehen. Damit wird eine gewisse Einheitlichkeit im Arbeitsrecht sichergestellt.",
+    "signalwords": [
+      "Besondere Verträge",
+      "Ergänzung",
+      "Allgemeine Vorschriften",
+      "Einzelarbeitsvertrag",
+      "OR 355",
+      "Lehrvertrag",
+      "Handelsreisendenvertrag",
+      "Heimarbeitsvertrag",
+      "Nachrangige Anwendung",
+      "Subsidiäre Geltung"
+    ]
+  },
+  {
+    "id": 116,
+    "article_name": "356",
+    "description": "Art. 356 bezieht sich auf den Gesamtarbeitsvertrag (GAV), in dem Arbeitgeber(verbände) und Arbeitnehmerverbände gemeinschaftlich Regelungen zu Abschluss, Inhalt und Beendigung einzelner Arbeitsverhältnisse festlegen können. Ein GAV kann weitere Punkte wie Löhne, Arbeitszeiten oder Ferien beinhalten und schafft damit kollektive Mindeststandards.",
+    "signalwords": [
+      "Gesamtarbeitsvertrag",
+      "Arbeitgeberverbände",
+      "Arbeitnehmerverbände",
+      "Abschluss",
+      "Inhalt",
+      "OR 356",
+      "GAV",
+      "Tarifvertrag",
+      "Kollektivvertrag",
+      "Regelwerk"
+    ]
+  },
+  {
+    "id": 117,
+    "article_name": "356a",
+    "description": "Art. 356a bestimmt die Freiheit der Berufs- und Verbandszugehörigkeit. Bestimmungen in GAV, die einen Beitrittszwang zu einem Verband oder einen Ausschluss bestimmter Berufsausübungen herbeiführen, sind grundsätzlich nichtig. Nur in Ausnahmesituationen kann dies aus schutzwürdigen Interessen gestattet sein (z.B. Gesundheits- oder Sicherheitsgründe).",
+    "signalwords": [
+      "GAV",
+      "Beitrittszwang",
+      "Nichtigkeit",
+      "Berufsfreiheit",
+      "Ausnahme Schutz",
+      "OR 356a",
+      "Verbandsfreiheit",
+      "Zulässigkeit",
+      "Zwangsbeitrag",
+      "Koalitionsfreiheit"
+    ]
+  },
+  {
+    "id": 118,
+    "article_name": "356b",
+    "description": "Gemäss Art. 356b können sich einzelne Arbeitgeber oder Arbeitnehmer mit Zustimmung der vertragsschliessenden Parteien einem GAV anschliessen. Sind die Bedingungen für den Anschluss unangemessen (z.B. überhöhte Beiträge), kann ein Gericht diese für nichtig erklären oder anpassen. Damit wird die Fairness beim GAV-Beitritt gesichert.",
+    "signalwords": [
+      "GAV",
+      "Zustimmung",
+      "Unangemessene Bedingungen",
+      "Nichtigkeit",
+      "OR 356b",
+      "Anschlussvertrag",
+      "Richterliche Kontrolle",
+      "Arbeitgeberbeitritt",
+      "Arbeitnehmerbeitritt",
+      "Beschränkung"
+    ]
+  },
+  {
+    "id": 119,
+    "article_name": "356c",
+    "description": "Art. 356c verlangt, dass Abschluss, Änderung und Kündigung eines GAV schriftlich erfolgen. Ist er zeitlich unbefristet, kann er nach einem Jahr mit einer sechsmonatigen Frist gekündigt werden, sofern nichts anderes bestimmt wurde. So bleiben die Vertragsparteien flexibel, während Transparenz und Rechtssicherheit gewährleistet werden.",
+    "signalwords": [
+      "GAV",
+      "Schriftform",
+      "Kündigung",
+      "Dauer",
+      "Unbefristet",
+      "OR 356c",
+      "Abschlussform",
+      "Kündigungsregel",
+      "Mindestdauer",
+      "Änderungsvertrag"
+    ]
+  },
+  {
+    "id": 120,
+    "article_name": "357",
+    "description": "Art. 357 beschreibt die unmittelbare Wirkung der GAV-Bestimmungen auf die beteiligten Arbeitgeber und Arbeitnehmer. Abweichungen zuungunsten des Arbeitnehmers sind nicht gestattet, es sei denn, der GAV lässt dies ausdrücklich zu. Damit wird ein Mindestschutz garantiert. Günstigere Vereinbarungen zugunsten des Arbeitnehmers sind hingegen zulässig.",
+    "signalwords": [
+      "GAV",
+      "Unmittelbare Wirkung",
+      "Arbeitgeber",
+      "Arbeitnehmer",
+      "Abweichung zugunsten",
+      "OR 357",
+      "Günstigkeitsprinzip",
+      "Tariflicher Mindeststandard",
+      "Kollektivnorm",
+      "Rechtswirkung"
+    ]
+  },
+  {
+    "id": 121,
+    "article_name": "357a",
+    "description": "Nach Art. 357a sorgen die Vertragsparteien eines GAV für dessen Einhaltung. Sie sind auch zur Friedenspflicht verpflichtet, das heisst, während der GAV-Geltungsdauer sind Streiks oder Aussperrungen bezüglich geregelter Fragen unzulässig. Ist eine unbeschränkte Friedenspflicht vereinbart, wird jeglicher Arbeitskampf ausgeschlossen.",
+    "signalwords": [
+      "GAV",
+      "Einhaltung",
+      "Friedenspflicht",
+      "Streik",
+      "Aussperrung",
+      "OR 357a",
+      "Vertragsparteien",
+      "Arbeitsfrieden",
+      "Konfliktverbot",
+      "Tarifautonomie"
+    ]
+  },
+  {
+    "id": 122,
+    "article_name": "357b",
+    "description": "Art. 357b beschreibt die Möglichkeit eines gemeinsamen Klagerechts. Arbeitgeber- und Arbeitnehmerverbände können beispielsweise vereinbaren, dass sie gemeinsam gegen Verstösse (z.B. Nichtzahlung von GAV-Beiträgen) vorgehen. Dies ermöglicht eine effiziente Durchsetzung und Kontrolle der GAV-Bestimmungen.",
+    "signalwords": [
+      "GAV",
+      "Klagerecht",
+      "Verbände",
+      "Durchsetzung",
+      "Kontrolle",
+      "OR 357b",
+      "Gerichtsverfahren",
+      "Tarifverträge",
+      "Beitragspflicht",
+      "Arbeitsfrieden"
+    ]
+  },
+  {
+    "id": 123,
+    "article_name": "358",
+    "description": "Art. 358 stellt klar, dass zwingendes Bundes- und Kantonsrecht den Bestimmungen eines GAV vorgeht. Allerdings können zugunsten der Arbeitnehmer Abweichungen vereinbart werden, wenn das Gesetz dies nicht untersagt. Damit wird sichergestellt, dass GAV-Vereinbarungen keine staatlichen Mindeststandards untergraben.",
+    "signalwords": [
+      "GAV",
+      "Zwingendes Recht",
+      "Vorrang",
+      "Ausnahme",
+      "Zugunsten Arbeitnehmer",
+      "OR 358",
+      "Bundesrecht",
+      "Kantonsrecht",
+      "Rechtshierarchie",
+      "Verbotene Abweichung"
+    ]
+  },
+  {
+    "id": 124,
+    "article_name": "359",
+    "description": "Gemäss Art. 359 ist ein Normalarbeitsvertrag (NAV) eine staatliche Regelung für bestimmte Arbeitsverhältnisse, die Abschluss, Inhalt oder Beendigung regelt. Die Kantone müssen insbesondere für landwirtschaftliche Arbeitnehmer und Hausangestellte einen NAV erlassen. Dieser enthält oft Bestimmungen zu Arbeits- und Ruhezeiten oder Kündigungsfristen.",
+    "signalwords": [
+      "Normalarbeitsvertrag",
+      "Berufsgruppen",
+      "Kantone",
+      "Landwirtschaft",
+      "Hausdienst",
+      "OR 359",
+      "NAV",
+      "Abschlussvorschriften",
+      "Inhaltsregelungen",
+      "Erlasspflicht"
+    ]
+  },
+  {
+    "id": 125,
+    "article_name": "359a",
+    "description": "Art. 359a beschreibt, wann Bund oder Kanton für den Erlass eines NAV zuständig sind. Er regelt auch das Verfahren: Der Entwurf wird veröffentlicht, interessierte Verbände werden gehört. Nach einer amtlichen Publikation wird der NAV verbindlich. So werden Interessen der Betroffenen einbezogen.",
+    "signalwords": [
+      "NAV",
+      "Erlass",
+      "Bund/Kanton",
+      "Publikation",
+      "Verbände",
+      "OR 359a",
+      "Geltungsbereich",
+      "Veröffentlichen",
+      "Anhörung",
+      "Rechtskraft"
+    ]
+  },
+  {
+    "id": 126,
+    "article_name": "360",
+    "description": "Art. 360 bestimmt, dass NAV-Bestimmungen unmittelbar für die erfassten Arbeitsverhältnisse gelten, sofern die Parteien nichts Abweichendes verabredet haben. Der NAV kann vorsehen, dass Abweichungen nur schriftlich gültig sind. Damit wird eine gewisse Mindeststandardisierung erreicht, ohne die Vertragsfreiheit vollständig aufzuheben.",
+    "signalwords": [
+      "NAV",
+      "Unmittelbar",
+      "Abweichung",
+      "Schriftform",
+      "OR 360",
+      "Vertragsfreiheit",
+      "Verbindlichkeit",
+      "Arbeitsbedingungen",
+      "Normalvertrag",
+      "Abänderbarkeit"
+    ]
+  },
+  {
+    "id": 127,
+    "article_name": "360a",
+    "description": "Nach Art. 360a kann in Branchen mit missbräuchlich tiefen Löhnen ein befristeter NAV mit Mindestlöhnen erlassen werden, wenn kein GAV mit allgemein verbindlichen Mindestlöhnen existiert. Dies dient der Bekämpfung von Lohn-Dumping. Bei wiederholten Verstössen oder Gefahr erneuter Missbräuche kann die Massnahme verlängert werden.",
+    "signalwords": [
+      "NAV Mindestlohn",
+      "Missbrauch",
+      "Tiefe Löhne",
+      "Bekämpfung",
+      "Verlängerung",
+      "OR 360a",
+      "Keine GAV",
+      "Arbeitsmarktkontrolle",
+      "Lohnuntergrenze",
+      "Schutzfunktion"
+    ]
+  },
+  {
+    "id": 128,
+    "article_name": "360b",
+    "description": "Art. 360b beschreibt die tripartiten Kommissionen, bestehend aus Arbeitgeber-, Arbeitnehmer- und Staatsvertretern. Sie beobachten den Arbeitsmarkt und stellen Missbräuche fest. Bei Bedarf empfehlen sie der zuständigen Behörde, einen NAV mit Mindestlöhnen zu erlassen. Damit wirken staatliche und soziale Akteure gemeinsam, um Lohn-Dumping zu verhindern.",
+    "signalwords": [
+      "Tripartite Kommission",
+      "Arbeitsmarkt",
+      "Missbrauch",
+      "NAV Mindestlohn",
+      "Empfehlung",
+      "OR 360b",
+      "Sozialpartner",
+      "Überwachung",
+      "Staatsbeteiligung",
+      "Kontrollfunktion"
+    ]
+  },
+  {
+    "id": 129,
+    "article_name": "360c",
+    "description": "Gemäss Art. 360c unterliegen die Mitglieder der tripartiten Kommission einer strengen Geheimhaltungspflicht (Amtsgeheimnis). Diese Verschwiegenheitspflicht bezieht sich vor allem auf betriebliche und private Informationen, um die Interessen und die Privatsphäre der betroffenen Betriebe und Personen zu schützen.",
+    "signalwords": [
+      "Amtsgeheimnis",
+      "Verschwiegenheit",
+      "Tripartite Kommission",
+      "Datenschutz",
+      "OR 360c",
+      "Vertraulichkeit",
+      "Geheimhaltungspflicht",
+      "Betriebsgeheimnis",
+      "Sanktionen",
+      "Informationsschutz"
+    ]
+  },
+  {
+    "id": 130,
+    "article_name": "360d",
+    "description": "In Art. 360d wird klargestellt, dass die NAV-Mindestlöhne auch für vorübergehende Arbeitseinsätze und Leiharbeit gelten. Dadurch soll verhindert werden, dass Arbeitnehmer in temporären oder überlassenen Arbeitsverhältnissen schlechter gestellt werden als die Stammbelegschaft. Zwingende Schutzbestimmungen dürfen nicht umgangen werden.",
+    "signalwords": [
+      "NAV",
+      "Leiharbeit",
+      "Vorübergehender Einsatz",
+      "Unzulässig",
+      "Arbeitnehmer",
+      "OR 360d",
+      "Temporärarbeit",
+      "Personaldienstleister",
+      "Untergrenze",
+      "Verbot Abweichung"
+    ]
+  },
+  {
+    "id": 131,
+    "article_name": "360e",
+    "description": "Art. 360e gesteht Arbeitgeber- und Arbeitnehmerverbänden ein Klagerecht zu, um gerichtlich feststellen zu lassen, ob ein Betrieb die Mindestlöhne des NAV einhält. Dies stärkt die Kontrollmöglichkeiten und den Schutz der betroffenen Arbeitnehmer, ohne dass individuell geklagt werden muss.",
+    "signalwords": [
+      "Klagerecht Verbände",
+      "Feststellung",
+      "NAV",
+      "Mindestlohn",
+      "Einhaltung",
+      "OR 360e",
+      "Gerichtliches Verfahren",
+      "Verbandsklage",
+      "Kontrollklage",
+      "Rechtsanspruch"
+    ]
+  },
+  {
+    "id": 132,
+    "article_name": "360f",
+    "description": "Gemäss Art. 360f müssen Kantone einen neu erlassenen Normalarbeitsvertrag (insbesondere mit Mindestlohn) dem zuständigen Bundesamt melden. Dies ermöglicht eine zentrale Übersicht und Koordination auf Bundesebene, um die Wirksamkeit solcher Verträge zu überwachen.",
+    "signalwords": [
+      "NAV",
+      "Meldepflicht",
+      "Bundesamt",
+      "Übersicht",
+      "Kantone",
+      "OR 360f",
+      "Verwaltungsverfahren",
+      "Informationsfluss",
+      "Mindestlohnverordnung",
+      "Zentralregister"
+    ]
+  },
+  {
+    "id": 133,
+    "article_name": "361",
+    "description": "Art. 361 zählt jene Vorschriften auf, von denen durch Abreden oder Gesamtarbeitsverträge weder zuungunsten des Arbeitgebers noch zuungunsten des Arbeitnehmers abgewichen werden darf. Diese Normen sind zwingend und stellen einen grundlegenden Schutzrahmen im Arbeitsrecht dar. Abweichungen sind ungültig.",
+    "signalwords": [
+      "Zwingende Vorschriften",
+      "Unabdingbar",
+      "Keine Abweichung",
+      "Arbeitgeber",
+      "Arbeitnehmer",
+      "OR 361",
+      "Gesetzesrang",
+      "Verbot",
+      "Mindestschutz",
+      "Verbindliche Norm"
+    ]
+  }
+]

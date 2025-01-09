@@ -1,0 +1,195 @@
+﻿<UserControl x:Class="SwissWorkSafe.Views.MenuView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SwissWorkSafe.ViewModels"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="900">
+
+    <!-- 
+        Resource Dictionary:
+        Merges external resources (Colors.xaml) that define shared brushes, styles, etc.
+    -->
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Resources/Colors.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <!-- 
+        Main Grid:
+        - Uses a gradient background from the merged resources.
+        - Contains a header section (NavBar), a separator line, and the main content area.
+    -->
+    <Grid Background="{StaticResource BackgroundGradient}">
+
+        <!-- 
+            Header Section:
+            - A top border styled with NavBarStyle, spanning the top of the screen.
+            - Left side: Application title and edition subtitle.
+            - Right side: Buttons for Help.
+        -->
+        <Border Style="{StaticResource NavBarStyle}"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Top">
+            <Grid>
+                <StackPanel Orientation="Horizontal"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Left"
+                            Margin="20,0">
+                    <TextBlock Text="SwissWorkSafe"
+                               Foreground="{StaticResource TitleForeground}"
+                               FontSize="36"
+                               FontWeight="Bold"
+                               Margin="0,0,10,0"/>
+                    <TextBlock Text="Kaufmännische Edition"
+                               Foreground="{StaticResource SubtitleForeground}"
+                               FontSize="16"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Right"
+                            Margin="0,0,20,0">
+                    <Button Content="Hilfe"
+                            Command="{Binding NavigateCommand}"
+                            CommandParameter="Help"
+                            Style="{StaticResource PrimaryButton}"
+                            Width="180"
+                            Height="50"
+                            Margin="5,0"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- 
+            Separator Line:
+            - A thin rectangle below the NavBar to create a visual boundary.
+        -->
+        <Rectangle Height="1"
+                   Fill="#333333"
+                   VerticalAlignment="Top"
+                   Margin="0,90,0,0"/>
+
+        <!-- 
+            Main Content:
+            - A Grid that holds two columns:
+              1) A "Hero" section on the left, highlighting key messages.
+              2) A set of "cards" on the right, linking to different functionalities.
+        -->
+        <Grid Margin="0,100,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- 
+                Left Section (Hero Content):
+                - Displays a bold title and brief descriptive text.
+            -->
+            <StackPanel Grid.Column="0"
+                        VerticalAlignment="Center"
+                        Margin="30">
+                <TextBlock Text="Effizient. Zuverlässig."
+                           FontSize="48"
+                           FontWeight="Bold"
+                           Foreground="#FFCC00"
+                           TextWrapping="Wrap"/>
+                <TextBlock Text="Ihre zentrale Anlaufstelle für arbeitsrechtliche Tools und Informationen."
+                           FontSize="20"
+                           Foreground="White"
+                           Margin="0,10,0,20"
+                           TextWrapping="Wrap"/>
+            </StackPanel>
+
+            <!-- 
+                Right Section (Feature Cards):
+                - Each Border contains a title, a short description, and a button to navigate to the respective feature.
+            -->
+            <StackPanel Grid.Column="1"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center">
+
+                <!-- Card 1: Kündigungsfrist -->
+                <Border Style="{StaticResource CardStyle}"
+                        Width="400"
+                        Margin="10">
+                    <StackPanel>
+                        <TextBlock Text="Kündigungsfrist berechnen"
+                                   FontSize="18"
+                                   FontWeight="Bold"
+                                   Foreground="{StaticResource TitleForeground}"/>
+                        <TextBlock Text="Ermitteln Sie Ihre Frist schnell und einfach."
+                                   FontSize="14"
+                                   Foreground="{StaticResource DescriptionForeground}"
+                                   Margin="0,5"/>
+                        <Button Content="Starten"
+                                Style="{StaticResource PrimaryButton}"
+                                Command="{Binding NavigateCommand}"
+                                CommandParameter="Termination"
+                                HorizontalAlignment="Left"
+                                Width="180"
+                                Height="50"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Card 2: Lohnfortzahlung -->
+                <Border Style="{StaticResource CardStyle}"
+                        Width="400"
+                        Margin="10">
+                    <StackPanel>
+                        <TextBlock Text="Lohnfortzahlung berechnen"
+                                   FontSize="18"
+                                   FontWeight="Bold"
+                                   Foreground="{StaticResource TitleForeground}"/>
+                        <TextBlock Text="Berechnen Sie Ihre eigene Lohnfortzahlung."
+                                   FontSize="14"
+                                   Foreground="{StaticResource DescriptionForeground}"
+                                   Margin="0,5"/>
+                        <Button Content="Starten"
+                                Style="{StaticResource PrimaryButton}"
+                                Command="{Binding NavigateCommand}"
+                                CommandParameter="SalaryContinuation"
+                                HorizontalAlignment="Left"
+                                Width="180"
+                                Height="50"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Card 3: Artikel Suche -->
+                <Border Style="{StaticResource CardStyle}"
+                        Width="400"
+                        Margin="10">
+                    <StackPanel>
+                        <TextBlock Text="Relevante Artikel finden"
+                                   FontSize="18"
+                                   FontWeight="Bold"
+                                   Foreground="{StaticResource TitleForeground}"/>
+                        <TextBlock Text="Schnelle Suche nach arbeitsrechtlichen Artikeln gemäss OR."
+                                   FontSize="14"
+                                   Foreground="{StaticResource DescriptionForeground}"
+                                   TextWrapping="Wrap"
+                                   Margin="0,5"/>
+                        <Button Content="Starten"
+                                Style="{StaticResource PrimaryButton}"
+                                Command="{Binding NavigateCommand}"
+                                CommandParameter="ArticleSearch"
+                                HorizontalAlignment="Left"
+                                Width="180"
+                                Height="50"/>
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+        </Grid>
+
+        <!--
+            ContentControl:
+            - Can host additional views when needed, while still overlaying this menu view.
+            - Bound to the 'CurrentView' property in the ViewModel.
+        -->
+        <ContentControl Content="{Binding CurrentView}"/>
+    </Grid>
+</UserControl>
