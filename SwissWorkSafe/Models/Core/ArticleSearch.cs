@@ -14,7 +14,6 @@ namespace SwissWorkSafe.Models.Core
          \______/  \_____\____/ \__|\_______/ \_______/ \__/     \__| \______/ \__|      \__|  \__| \______/  \_______|\__|      \_______|
         Authors: Keanu Koelewijn, Rebecca Wili, Salma Tanner, Lorenzo Lai
     */
-
     /// <summary>
     /// Provides functionalities to search for relevant articles based on input text by analyzing keywords.
     /// </summary>
@@ -23,7 +22,7 @@ namespace SwissWorkSafe.Models.Core
         /// <summary>
         /// The relative path to the SQLite database file containing articles.
         /// </summary>
-        private const string DatabasePath = "../../../Database/Articles.db";
+        public const string DatabasePath = "../../../Database/Articles.db";
 
         /// <summary>
         /// Gets or sets the input text used for keyword analysis.
@@ -65,7 +64,8 @@ namespace SwissWorkSafe.Models.Core
         /// <returns>A list of unique keywords extracted from the input text.</returns>
         public List<string> AnalyzeTextForKeywords()
         {
-            return TextInput.Split(' ', StringSplitOptions.RemoveEmptyEntries)
+            return TextInput
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
                 .Select(word => word.Trim().ToLowerInvariant())
                 .Distinct()
                 .ToList();
@@ -101,13 +101,13 @@ namespace SwissWorkSafe.Models.Core
             catch (SQLiteException ex)
             {
                 // Log exception or handle accordingly
-                Console.Error.WriteLine($"SQLite Error in MatchArticlesByKeywords: {ex.Message}");
+                Console.Error.WriteLine($"SQLite-Fehler in MatchArticlesByKeywords: {ex.Message}");
                 return new List<Article>();
             }
             catch (Exception ex)
             {
                 // Log exception or handle accordingly
-                Console.Error.WriteLine($"Unexpected Error in MatchArticlesByKeywords: {ex.Message}");
+                Console.Error.WriteLine($"Unerwarteter Fehler in MatchArticlesByKeywords: {ex.Message}");
                 return new List<Article>();
             }
         }
@@ -153,12 +153,12 @@ namespace SwissWorkSafe.Models.Core
             catch (SQLiteException ex)
             {
                 // Log exception or handle accordingly
-                Console.Error.WriteLine($"SQLite Error in FindArticlesByKeyword: {ex.Message}");
+                Console.Error.WriteLine($"SQLite-Fehler in FindArticlesByKeyword: {ex.Message}");
             }
             catch (Exception ex)
             {
                 // Log exception or handle accordingly
-                Console.Error.WriteLine($"Unexpected Error in FindArticlesByKeyword: {ex.Message}");
+                Console.Error.WriteLine($"Unerwarteter Fehler in FindArticlesByKeyword: {ex.Message}");
             }
 
             return articles;
@@ -195,12 +195,12 @@ namespace SwissWorkSafe.Models.Core
             catch (SQLiteException ex)
             {
                 // Log exception or handle accordingly
-                Console.Error.WriteLine($"SQLite Error in GetSignalWordsForArticle: {ex.Message}");
+                Console.Error.WriteLine($"SQLite-Fehler in GetSignalWordsForArticle: {ex.Message}");
             }
             catch (Exception ex)
             {
                 // Log exception or handle accordingly
-                Console.Error.WriteLine($"Unexpected Error in GetSignalWordsForArticle: {ex.Message}");
+                Console.Error.WriteLine($"Unerwarteter Fehler in GetSignalWordsForArticle: {ex.Message}");
             }
 
             return signalWords;

@@ -1,6 +1,5 @@
 ﻿using SwissWorkSafe.Models.Articles;
 using System;
-using System.IO;
 using System.Windows;
 
 namespace SwissWorkSafe.Resources
@@ -16,7 +15,6 @@ namespace SwissWorkSafe.Resources
          \______/  \_____\____/ \__|\_______/ \_______/ \__/     \__| \______/ \__|      \__|  \__| \______/  \_______|\__|      \_______|
         Authors: Keanu Koelewijn, Rebecca Wili, Salma Tanner, Lorenzo Lai
     */
-
     /// <summary>
     /// Interaction logic for the application.
     /// Initializes and manages the application's lifecycle events.

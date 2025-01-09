@@ -10,16 +10,17 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace SwissWorkSafe.Views
 {
     /// <summary>
-    /// Interaktionslogik für SettingsWindow.xaml
+    /// Interaktionslogik für MenuView.xaml
     /// </summary>
-    public partial class SettingsWindow : Window
+    public partial class MenuView : UserControl
     {
-        public SettingsWindow()
+        public MenuView()
         {
             InitializeComponent();
         }

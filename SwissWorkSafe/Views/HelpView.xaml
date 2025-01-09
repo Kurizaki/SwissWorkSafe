@@ -1,0 +1,310 @@
+﻿<UserControl x:Class="SwissWorkSafe.Views.HelpView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignHeight="600"
+             d:DesignWidth="900">
+
+    <!-- 
+        Resource Dictionary:
+        - Merged with an external Colors.xaml for styling resources.
+    -->
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Resources/Colors.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <!-- Hyperlink Style -->
+            <Style TargetType="Hyperlink">
+                <Setter Property="TextDecorations" Value="Underline"/>
+                <Setter Property="Cursor" Value="Hand"/>
+                <Style.Triggers>
+                    <Trigger Property="IsMouseOver" Value="True">
+                        <Setter Property="TextDecorations" Value="None"/>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <!-- 
+        Main Layout Grid:
+        - Defines the overall layout of the Help view.
+        - Uses a gradient background from the resource dictionary.
+    -->
+    <Grid Background="{StaticResource BackgroundGradient}">
+
+        <!-- 
+            Header Section:
+            - A top border styled as a navigation bar.
+            - Contains title, subtitle, and a toggle-button for the menu.
+        -->
+        <Border Style="{StaticResource NavBarStyle}"
+                Height="90"
+                VerticalAlignment="Top">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Left: Title & Subtitle -->
+                <StackPanel Orientation="Horizontal"
+                             VerticalAlignment="Center"
+                             HorizontalAlignment="Left"
+                             Margin="20,0">
+                    <TextBlock Text="SwissWorkSafe"
+                               Foreground="{StaticResource TitleForeground}"
+                               FontSize="36"
+                               FontWeight="Bold"
+                               Margin="0,0,10,0"/>
+                    <TextBlock Text="Hilfe und Unterstützung"
+                               Foreground="{StaticResource SubtitleForeground}"
+                               FontSize="16"/>
+                </StackPanel>
+
+                <!-- Right: Menu Toggle & Popup -->
+                <StackPanel Orientation="Horizontal"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Right"
+                            Margin="0,0,20,0">
+
+                    <!-- ToggleButton for Menu -->
+                    <ToggleButton x:Name="MenuToggle"
+                                  Content="☰ Menü"
+                                  Width="100"
+                                  Margin="5,0"
+                                  Style="{StaticResource SecondaryToggleButton}"
+                                  Tag="{Binding DataContext, RelativeSource={RelativeSource AncestorType=Window}}"
+                                  IsChecked="{Binding IsMenuOpen, Mode=TwoWay}"/>
+
+                    <!-- 
+                        Popup Menu:
+                        - This Popup appears below the ToggleButton when IsMenuOpen is true.
+                        - Contains various navigation buttons.
+                    -->
+                    <Popup IsOpen="{Binding IsMenuOpen, Mode=TwoWay}"
+                           Placement="Bottom"
+                           PlacementTarget="{Binding ElementName=MenuToggle}"
+                           AllowsTransparency="True"
+                           StaysOpen="False">
+                        <Border Style="{StaticResource PopupBorderStyle}">
+                            <StackPanel>
+
+                                <!-- Popup Menu Header -->
+                                <TextBlock Text="Menü"
+                                           FontSize="18"
+                                           FontWeight="Bold"
+                                           Foreground="White"
+                                           Margin="0,0,0,10"
+                                           HorizontalAlignment="Left"/>
+                                <Separator Margin="0,0,0,10"
+                                           Background="Gray"
+                                           Height="1"/>
+
+                                <!-- Menu Buttons -->
+                                <Button Content="🏠 Hauptfenster"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="MainWindow"/>
+                                <Button Content="🔎 Artikel Suchen"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="ArticleSearch"/>
+                                <Button Content="📂 Lohnfortzahlung"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="SalaryContinuation"/>
+                                <Button Content="⚖️ Kündigung"
+                                        Style="{StaticResource MenuButtonStyle}"
+                                        Command="{Binding NavigateCommand}"
+                                        CommandParameter="Termination"/>
+                            </StackPanel>
+                        </Border>
+                    </Popup>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- 
+            Separator below Header:
+            - A thin line to separate the header from main content.
+        -->
+        <Rectangle Height="1"
+                   Fill="#333333"
+                   VerticalAlignment="Top"
+                   Margin="0,90,0,0"/>
+
+        <!-- 
+            Main Content Area:
+            - Two-column, two-row grid.
+            - Left column: Tutorial / Instructions (scrollable).
+            - Right column: Contact / Support info.
+        -->
+        <Grid Margin="20,100,20,20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="1.5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- 
+                Left Column (Row 0):
+                - Scrollable area containing tutorial steps and instructions.
+            -->
+            <ScrollViewer Grid.Row="0"
+                          Grid.Column="0"
+                          Margin="0,0,10,0">
+                <StackPanel>
+
+                    <!-- Intro Title -->
+                    <TextBlock Text="Anleitung zur Nutzung von SwissWorkSafe"
+                               FontSize="24"
+                               FontWeight="Bold"
+                               Foreground="{StaticResource TitleForeground}"
+                               Margin="0,0,0,20"/>
+
+                    <!-- Step 1: Hauptfenster -->
+                    <Border Style="{StaticResource CardStyle}"
+                            Margin="0,10"
+                            Padding="20">
+                        <StackPanel>
+                            <TextBlock Text="Schritt 1: Hauptfenster"
+                                       FontSize="18"
+                                       FontWeight="Bold"
+                                       Foreground="{StaticResource TitleForeground}"
+                                       Margin="0,0,0,10"/>
+                            <TextBlock Text="Sie befinden sich auf der Startseite, hier finden sie die Übersicht über all unserer Dienste. Sie wählen aus: &#x0a;-Kündigungsfrist-Rechner&#x0a;-Lohnfortzahlung-Rechner&#x0a;-Artikel-Suche&#x0a;Im Hilfezentrum finden Sie ausserdem noch zusätzliche Informationen zu der Applikation, sowie auch relevante Links."
+                                       FontSize="16"
+                                       Foreground="{StaticResource SubtitleForeground}"
+                                       TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Step 2: Lohnfortzahlung -->
+                    <Border Style="{StaticResource CardStyle}"
+                            Margin="0,10"
+                            Padding="20">
+                        <StackPanel>
+                            <TextBlock Text="Schritt 2: Lohnfortzahlung"
+                                       FontSize="18"
+                                       FontWeight="Bold"
+                                       Foreground="{StaticResource TitleForeground}"
+                                       Margin="0,0,0,10"/>
+                            <TextBlock Text="Beim Lohnfortzahlungsrechner müssen Sie das Startdatum Ihrer Arbeitsstelle und das Ereignisdatum angeben. Sobald Sie auf &quot;Berechnen&quot; klicken, beginnt die Applikation mit der Berechnung und gibt Ihnen die Lohnfortzahlung in Tagen/Wochen/Monaten an."
+                                       FontSize="16"
+                                       Foreground="{StaticResource SubtitleForeground}"
+                                       TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Step 3: Kündigungsfrist -->
+                    <Border Style="{StaticResource CardStyle}"
+                            Margin="0,10"
+                            Padding="20">
+                        <StackPanel>
+                            <TextBlock Text="Schritt 3: Kündigungsfrist"
+                                       FontSize="18"
+                                       FontWeight="Bold"
+                                       Foreground="{StaticResource TitleForeground}"
+                                       Margin="0,0,0,10"/>
+                            <TextBlock Text="Beim Kündigungsfrist-Rechner sind Sie gefragt, das Startdatum Ihrer Arbeitsstelle und das Kündigungsdatum anzugeben, sowie auch die Anzahl Abwesenheitstage und der jeweilige Grund dessen, damit eventuelle Sperrfristen hervorgehoben werden können. Nach der Angabe aller Daten, berechnet die Applikation die Kündigungsfrist und gegebenenfalls noch die Verlängerung, gibt diese aus."
+                                       FontSize="16"
+                                       Foreground="{StaticResource SubtitleForeground}"
+                                       TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Step 4: Artikel Suche -->
+                    <Border Style="{StaticResource CardStyle}"
+                            Margin="0,10"
+                            Padding="20">
+                        <StackPanel>
+                            <TextBlock Text="Schritt 4: Artikel Suche"
+                                       FontSize="18"
+                                       FontWeight="Bold"
+                                       Foreground="{StaticResource TitleForeground}"
+                                       Margin="0,0,0,10"/>
+                            <TextBlock Text="Bei der Artikelsuche können Sie ein persönliches Fallbeispiel in die Suchleiste tippen und die Applikation erkennt anhand von Schlüsselbegriffen die Tatbestandsmerkmale und gibt die dazu relevanten OR-Artikel aus."
+                                       FontSize="16"
+                                       Foreground="{StaticResource SubtitleForeground}"
+                                       TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </ScrollViewer>
+
+            <!-- 
+                Right Column (Row 0):
+                - Contains contact and support information in a styled border with clickable links.
+            -->
+            <Border Grid.Row="0"
+                    Grid.Column="1"
+                    Style="{StaticResource CardStyle}"
+                    Margin="10"
+                    Padding="20">
+                <StackPanel>
+
+                    <!-- Contact Title -->
+                    <TextBlock Text="Kontakt"
+                               FontSize="24"
+                               FontWeight="Bold"
+                               Foreground="{StaticResource TitleForeground}"
+                               Margin="0,0,0,20"/>
+
+                    <!-- Github Link -->
+                    <StackPanel Orientation="Horizontal"
+                                Margin="0,10">
+                        <TextBlock FontSize="16"
+                                   Foreground="{StaticResource SubtitleForeground}"
+                                   VerticalAlignment="Center">
+                            <Run Text="🌐 Github: "/>
+                            <Hyperlink NavigateUri="https://github.com/Kurizaki/SwissWorkSafe/tree/master"
+                                       RequestNavigate="Hyperlink_RequestNavigate"
+                                       ToolTip="https://github.com/Kurizaki/SwissWorkSafe/tree/master">
+                                GitHub Repository
+                            </Hyperlink>
+                        </TextBlock>
+                    </StackPanel>
+
+                    <!-- Discussions Link -->
+                    <StackPanel Orientation="Horizontal"
+                                Margin="0,10">
+                        <TextBlock FontSize="16"
+                                   Foreground="{StaticResource SubtitleForeground}"
+                                   VerticalAlignment="Center">
+                            <Run Text="🌐 Discussions: "/>
+                            <Hyperlink NavigateUri="https://github.com/Kurizaki/SwissWorkSafe/discussions/categories/q-a"
+                                       RequestNavigate="Hyperlink_RequestNavigate"
+                                       ToolTip="https://github.com/Kurizaki/SwissWorkSafe/discussions/categories/q-a">
+                                Q&amp;A Discussions
+                            </Hyperlink>
+                        </TextBlock>
+                    </StackPanel>
+
+                    <!-- Website Link -->
+                    <StackPanel Orientation="Horizontal"
+                                Margin="0,10">
+                        <TextBlock FontSize="16"
+                                   Foreground="{StaticResource SubtitleForeground}"
+                                   VerticalAlignment="Center">
+                            <Run Text="🌐 Website: "/>
+                            <Hyperlink NavigateUri="https://kurizaki.github.io/SwissWorkSafe"
+                                       RequestNavigate="Hyperlink_RequestNavigate"
+                                       ToolTip="https://kurizaki.github.io/SwissWorkSafe">
+                                Official Website
+                            </Hyperlink>
+                        </TextBlock>
+                    </StackPanel>
+
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Grid>
+</UserControl>

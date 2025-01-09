@@ -17,22 +17,22 @@ namespace SwissWorkSafe.Models.Articles
     */
 
     /// <summary>
-    /// Responsible for inserting articles and their associated signal words into the SQLite database.
+    /// Handles the insertion of articles and their associated signal words into the SQLite database.
     /// </summary>
     public class ArticleInserter
     {
         /// <summary>
-        /// The relative path to the SQLite database file.
+        /// Relative path to the SQLite database file.
         /// </summary>
         private const string DatabasePath = "../../../Database/Articles.db";
 
         /// <summary>
-        /// The relative path to the JSON file containing article data.
+        /// Relative path to the JSON file containing article data.
         /// </summary>
         private const string JsonFilePath = "../../../Resources/articles.json";
 
         /// <summary>
-        /// The maximum number of retry attempts in case of an error.
+        /// Maximum number of retry attempts in case of an error.
         /// </summary>
         private const int MaxRetryAttempts = 3;
 
@@ -72,6 +72,12 @@ namespace SwissWorkSafe.Models.Articles
                     Console.WriteLine("Loading articles from JSON...");
                     var articles = LoadArticlesFromJson();
 
+                    if (articles == null)
+                    {
+                        Console.Error.WriteLine("Failed to load articles from JSON.");
+                        return;
+                    }
+
                     Console.WriteLine($"Successfully loaded {articles.Count} articles from JSON.");
 
                     // Open SQLite connection
@@ -108,12 +114,12 @@ namespace SwissWorkSafe.Models.Articles
             if (!success)
             {
                 Console.Error.WriteLine("Failed to insert articles after multiple attempts.");
-                // Optionally, you can throw an exception or handle it as needed
+                // Optionally, throw an exception or handle it as needed
             }
         }
 
         /// <summary>
-        /// Handles error by deleting the database file and incrementing the attempt counter.
+        /// Handles errors by deleting the database file and incrementing the attempt counter.
         /// </summary>
         /// <param name="currentAttempt">Reference to the current attempt counter.</param>
         private static void HandleError(ref int currentAttempt)
@@ -141,7 +147,7 @@ namespace SwissWorkSafe.Models.Articles
                 }
             }
 
-            // Optionally, wait before retrying
+            // Wait before retrying if more attempts are left
             if (currentAttempt < MaxRetryAttempts)
             {
                 Console.WriteLine("Retrying to insert articles...");
@@ -157,22 +163,22 @@ namespace SwissWorkSafe.Models.Articles
             try
             {
                 var jsonContent = File.ReadAllText(JsonFilePath);
-                return JsonConvert.DeserializeObject<List<Article>>(jsonContent)!;
+                return JsonConvert.DeserializeObject<List<Article>>(jsonContent);
             }
             catch (JsonException ex)
             {
                 Console.Error.WriteLine($"JSON Parsing Error: {ex.Message}");
-                return null!;
+                return null;
             }
             catch (IOException ex)
             {
                 Console.Error.WriteLine($"File Read Error: {ex.Message}");
-                return null!;
+                return null;
             }
             catch (Exception ex)
             {
                 Console.Error.WriteLine($"Unexpected Error while loading JSON: {ex.Message}");
-                return null!;
+                return null;
             }
         }
 
@@ -315,7 +321,7 @@ namespace SwissWorkSafe.Models.Articles
         /// <param name="connection">An open <see cref="SQLiteConnection"/>.</param>
         private static void InsertSignalWordsForArticle(Article article, SQLiteConnection connection)
         {
-            if (article.SignalWords.Count == 0)
+            if (article.SignalWords == null || article.SignalWords.Count == 0)
             {
                 Console.WriteLine($"Article ID {article.Id} has no signal words to insert.");
                 return;
